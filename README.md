@@ -10,7 +10,7 @@ Fuentes:
 * Repositorio Colibrí Udelar: https://www.colibri.udelar.edu.uy/,
 * Consulta a las personas involucradas.
 
-Matías Valdés - 12/22 a 12/25.
+12/22 a 12/25.
 
 This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
