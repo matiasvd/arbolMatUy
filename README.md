@@ -1,4 +1,4 @@
-Árbol genealógico de la comunidad matemática de Uruguay.
+# Árbol genealógico de la comunidad matemática de Uruguay
 
 Generado mediante Graphviz: https://graphviz.org/
 
@@ -12,12 +12,18 @@ Para exportarlo a graphml para visualizarlo en [Gephi](https://gephi.org/), corr
 dot -Tdot arbol_mat_uy.dot -o arbol_mat_uy_layout.dot
 python dot_to_graphml.py arbol_mat_uy_layout.dot arbol_mat_uy_layout.graphml
 ```
+Una vez generado el archivo graphml, se lo puede visualizar cargándolo en: https://lite.gephi.org/
 
-Fuentes:
+Obs: si el comando python no funciona, probar usando el comando python3.
+
+## Fuentes
+
 * Mathematics Genealogy Project: https://www.mathgenealogy.org/,
 * CvUy ANII: https://cvuy.uy/,
 * Repositorio Colibrí Udelar: https://www.colibri.udelar.edu.uy/,
 * Consulta a las personas involucradas.
+
+## Licencia
 
 12/22 a 12/25.
 
