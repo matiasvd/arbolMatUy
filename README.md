@@ -7,7 +7,7 @@ Para exportar el árbol a una imagen, desde línea de comandos ejecutar:
 dot arbol_mat_uy.dot -Tpng > arbol_mat_uy.png
 ```
 
-Para exportarlo a graphml parqa visualizarlo en [Gephi](https://gephi.org/), correr:
+Para exportarlo a graphml para visualizarlo en [Gephi](https://gephi.org/), correr:
 ```bash
 dot -Tdot arbol_mat_uy.dot -o arbol_mat_uy_layout.dot
 python dot_to_graphml.py arbol_mat_uy_layout.dot arbol_mat_uy_layout.graphml
