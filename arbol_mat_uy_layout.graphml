@@ -1,0 +1,3482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="pos" attr.type="string"/>
+<key id="d8" for="node" attr.name="color" attr.type="string"/>
+<key id="d7" for="node" attr.name="year" attr.type="string"/>
+<key id="d6" for="node" attr.name="institution" attr.type="string"/>
+<key id="d5" for="node" attr.name="name" attr.type="string"/>
+<key id="d4" for="node" attr.name="y" attr.type="double"/>
+<key id="d3" for="node" attr.name="x" attr.type="double"/>
+<key id="d2" for="node" attr.name="width" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="height" attr.type="string"/>
+<graph edgedefault="directed"><node id="SD">
+  <data key="d0">0.5</data>
+  <data key="d1">?</data>
+  <data key="d2">0.75</data>
+  <data key="d3">1104.9</data>
+  <data key="d4">368.87</data>
+  <data key="d5">?</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+</node>
+<node id="RMuniz">
+  <data key="d0">0.74639</data>
+  <data key="d1">Richard Muñiz</data>
+  <data key="d2">2.7891</data>
+  <data key="d3">1268.3</data>
+  <data key="d4">368.87</data>
+  <data key="d5">Richard Muñiz</data>
+  <data key="d6">CIMAT, México</data>
+  <data key="d7">2006</data>
+</node>
+<node id="JFernandez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Julián Fernandez</data>
+  <data key="d2">2.357</data>
+  <data key="d3">1218.6</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Julián Fernandez</data>
+  <data key="d6">UBA</data>
+  <data key="d7">2002</data>
+</node>
+<node id="LPezzo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Leandro Del Pezzo</data>
+  <data key="d2">2.5731</data>
+  <data key="d3">1432.1</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Leandro Del Pezzo</data>
+  <data key="d6">UBA</data>
+  <data key="d7">2009</data>
+</node>
+<node id="NWolanski">
+  <data key="d0">0.74639</data>
+  <data key="d1">Noemí Wolanski</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">1015.7</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Noemí Wolanski</data>
+  <data key="d6">UBA</data>
+  <data key="d7">1983</data>
+</node>
+<node id="SVaradhan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Srinivasa Varadhan</data>
+  <data key="d2">3.9873</data>
+  <data key="d3">454.0</data>
+  <data key="d4">388.87</data>
+  <data key="d5">Srinivasa Varadhan</data>
+  <data key="d6">Indian Statistical Institute</data>
+  <data key="d7">1963</data>
+</node>
+<node id="IArmendariz">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ines Armendariz</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">715.56</data>
+  <data key="d4">388.87</data>
+  <data key="d5">Ines Armendariz</data>
+  <data key="d6">New York</data>
+  <data key="d7">2001</data>
+</node>
+<node id="NFrevenza">
+  <data key="d0">0.74639</data>
+  <data key="d1">Nicolás Frevenza</data>
+  <data key="d2">2.3767</data>
+  <data key="d3">919.15</data>
+  <data key="d4">352.87</data>
+  <data key="d5">Nicolás Frevenza</data>
+  <data key="d6">UBA</data>
+  <data key="d7">2017</data>
+</node>
+<node id="PFerrari">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pablo Ferrari</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">715.56</data>
+  <data key="d4">316.87</data>
+  <data key="d5">Pablo Ferrari</data>
+  <data key="d6">São Paulo</data>
+  <data key="d7">1982</data>
+</node>
+<node id="EAndjel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Enrique Andjel</data>
+  <data key="d2">2.6713</data>
+  <data key="d3">454.0</data>
+  <data key="d4">316.87</data>
+  <data key="d5">Enrique Andjel</data>
+  <data key="d6">California, LA</data>
+  <data key="d7">1980</data>
+</node>
+<node id="SCosta">
+  <data key="d0">0.74639</data>
+  <data key="d1">Sueli Costa</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">3582.6</data>
+  <data key="d4">1636.9</data>
+  <data key="d5">Sueli Costa</data>
+  <data key="d6">Campinas</data>
+  <data key="d7">1982</data>
+</node>
+<node id="CQureshi">
+  <data key="d0">0.74639</data>
+  <data key="d1">Claudio Qureshi</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">3782.7</data>
+  <data key="d4">1600.9</data>
+  <data key="d5">Claudio Qureshi</data>
+  <data key="d6">Campinas</data>
+  <data key="d7">2015</data>
+</node>
+<node id="DPanario">
+  <data key="d0">0.74639</data>
+  <data key="d1">Daniel Panario</data>
+  <data key="d2">2.0624</data>
+  <data key="d3">3582.6</data>
+  <data key="d4">1564.9</data>
+  <data key="d5">Daniel Panario</data>
+  <data key="d6">Toronto</data>
+  <data key="d7">1997</data>
+</node>
+<node id="OZariski">
+  <data key="d0">0.74639</data>
+  <data key="d1">Oscar Zariski</data>
+  <data key="d2">1.9053</data>
+  <data key="d3">1744.2</data>
+  <data key="d4">212.87</data>
+  <data key="d5">Oscar Zariski</data>
+  <data key="d6">Roma</data>
+  <data key="d7">1925</data>
+</node>
+<node id="DMumford">
+  <data key="d0">0.74639</data>
+  <data key="d1">David Mumford</data>
+  <data key="d2">2.1606</data>
+  <data key="d3">1926.6</data>
+  <data key="d4">212.87</data>
+  <data key="d5">David Mumford</data>
+  <data key="d6">Harvard</data>
+  <data key="d7">1961</data>
+</node>
+<node id="MStillman">
+  <data key="d0">0.74639</data>
+  <data key="d1">Michael Stillman</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">2122.4</data>
+  <data key="d4">212.87</data>
+  <data key="d5">Michael Stillman</data>
+  <data key="d6">Harvard</data>
+  <data key="d7">1983</data>
+</node>
+<node id="MVelasco">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mauricio Velasco</data>
+  <data key="d2">2.3374</data>
+  <data key="d3">2324.6</data>
+  <data key="d4">212.87</data>
+  <data key="d5">Mauricio Velasco</data>
+  <data key="d6">Cornell</data>
+  <data key="d7">2007</data>
+</node>
+<node id="ATuring">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alan Turing</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">402.34</data>
+  <data key="d4">1772.9</data>
+  <data key="d5">Alan Turing</data>
+  <data key="d6">Princeton</data>
+  <data key="d7">1938</data>
+</node>
+<node id="RGandy">
+  <data key="d0">0.74639</data>
+  <data key="d1">Robin Gandy</data>
+  <data key="d2">2.2981</data>
+  <data key="d3">596.74</data>
+  <data key="d4">1772.9</data>
+  <data key="d5">Robin Gandy</data>
+  <data key="d6">Cambridge</data>
+  <data key="d7">1953</data>
+</node>
+<node id="MHyland">
+  <data key="d0">0.74639</data>
+  <data key="d1">Martin Hyland</data>
+  <data key="d2">1.9838</data>
+  <data key="d3">786.88</data>
+  <data key="d4">1772.9</data>
+  <data key="d5">Martin Hyland</data>
+  <data key="d6">Oxford</data>
+  <data key="d7">1975</data>
+</node>
+<node id="ILopez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ignacio López Franco</data>
+  <data key="d2">2.8677</data>
+  <data key="d3">997.54</data>
+  <data key="d4">1800.9</data>
+  <data key="d5">Ignacio López Franco</data>
+  <data key="d6">Cambridge</data>
+  <data key="d7">2008</data>
+</node>
+<node id="CVasilak">
+  <data key="d0">0.74639</data>
+  <data key="d1">Christina Vasilakopoulou</data>
+  <data key="d2">3.2213</data>
+  <data key="d3">1252.7</data>
+  <data key="d4">1772.9</data>
+  <data key="d5">Christina Vasilakopoulou</data>
+  <data key="d6">Cambridge</data>
+  <data key="d7">2014</data>
+</node>
+<node id="JMarti">
+  <data key="d0">0.74639</data>
+  <data key="d1">José Gómez Martí</data>
+  <data key="d2">3.9087</data>
+  <data key="d3">2522.6</data>
+  <data key="d4">3332.9</data>
+  <data key="d5">José Gómez Martí</data>
+  <data key="d6">Politécnica de Catalunya</data>
+  <data key="d7">1986</data>
+</node>
+<node id="ECanale">
+  <data key="d0">0.74639</data>
+  <data key="d1">Eduardo Canale</data>
+  <data key="d2">3.9087</data>
+  <data key="d3">2840.0</data>
+  <data key="d4">3332.9</data>
+  <data key="d5">Eduardo Canale</data>
+  <data key="d6">Politécnica de Catalunya</data>
+  <data key="d7">2003</data>
+</node>
+<node id="TAcosta">
+  <data key="d0">0.74639</data>
+  <data key="d1">Telmo Acosta</data>
+  <data key="d2">2.2981</data>
+  <data key="d3">3834.0</data>
+  <data key="d4">628.87</data>
+  <data key="d5">Telmo Acosta</data>
+  <data key="d6">São Carlos</data>
+  <data key="d7">2024</data>
+</node>
+<node id="ELopez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Edivaldo Lopes dos Santos</data>
+  <data key="d2">3.5355</data>
+  <data key="d3">3588.0</data>
+  <data key="d4">628.87</data>
+  <data key="d5">Edivaldo Lopes dos Santos</data>
+  <data key="d6">São Paulo</data>
+  <data key="d7">2005</data>
+</node>
+<node id="WTucker">
+  <data key="d0">0.74639</data>
+  <data key="d1">Warwick Tucker</data>
+  <data key="d2">2.2195</data>
+  <data key="d3">3565.3</data>
+  <data key="d4">856.87</data>
+  <data key="d5">Warwick Tucker</data>
+  <data key="d6">Uppsala</data>
+  <data key="d7">1998</data>
+</node>
+<node id="ATayler">
+  <data key="d0">0.74639</data>
+  <data key="d1">Audrey Tyler</data>
+  <data key="d2">3.1231</data>
+  <data key="d3">3804.3</data>
+  <data key="d4">820.87</data>
+  <data key="d5">Audrey Tyler</data>
+  <data key="d6">Monash, Australia</data>
+  <data key="d7">2023</data>
+</node>
+<node id="AHammer">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andy Hammerlindl</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">3565.3</data>
+  <data key="d4">784.87</data>
+  <data key="d5">Andy Hammerlindl</data>
+  <data key="d6">Toronto</data>
+  <data key="d7">2009</data>
+</node>
+<node id="AHaef">
+  <data key="d0">0.74639</data>
+  <data key="d1">André Haefliger</data>
+  <data key="d2">2.1606</data>
+  <data key="d3">676.64</data>
+  <data key="d4">768.87</data>
+  <data key="d5">André Haefliger</data>
+  <data key="d6">Paris</data>
+  <data key="d7">1958</data>
+</node>
+<node id="TVust">
+  <data key="d0">0.74639</data>
+  <data key="d1">Thierry Vust</data>
+  <data key="d2">2.0035</data>
+  <data key="d3">863.25</data>
+  <data key="d4">804.87</data>
+  <data key="d5">Thierry Vust</data>
+  <data key="d6">Genève</data>
+  <data key="d7">1974</data>
+</node>
+<node id="CWeber">
+  <data key="d0">0.74639</data>
+  <data key="d1">Claude Weber</data>
+  <data key="d2">2.0231</data>
+  <data key="d3">863.25</data>
+  <data key="d4">732.87</data>
+  <data key="d5">Claude Weber</data>
+  <data key="d6">Genève</data>
+  <data key="d7">1967</data>
+</node>
+<node id="IPan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Iván Pan</data>
+  <data key="d2">2.0035</data>
+  <data key="d3">1044.2</data>
+  <data key="d4">768.87</data>
+  <data key="d5">Iván Pan</data>
+  <data key="d6">Génève</data>
+  <data key="d7">1996</data>
+</node>
+<node id="RBalt">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rene Baltazar</data>
+  <data key="d2">3.0052</data>
+  <data key="d3">1260.5</data>
+  <data key="d4">768.87</data>
+  <data key="d5">Rene Baltazar</data>
+  <data key="d6">Udelar - UFRGS</data>
+  <data key="d7">2014</data>
+</node>
+<node id="MAnderson">
+  <data key="d0">0.74639</data>
+  <data key="d1">Michael Anderson</data>
+  <data key="d2">3.2802</data>
+  <data key="d3">546.03</data>
+  <data key="d4">560.87</data>
+  <data key="d5">Michael Anderson</data>
+  <data key="d6">California, Berkeley</data>
+  <data key="d7">1981</data>
+</node>
+<node id="MReiris">
+  <data key="d0">0.74639</data>
+  <data key="d1">Martín Reiris</data>
+  <data key="d2">3.9284</data>
+  <data key="d3">841.54</data>
+  <data key="d4">560.87</data>
+  <data key="d5">Martín Reiris</data>
+  <data key="d6">New York at Stony Brook</data>
+  <data key="d7">2005</data>
+</node>
+<node id="JPeraza">
+  <data key="d0">0.74639</data>
+  <data key="d1">Javier Peraza</data>
+  <data key="d2">1.9642</data>
+  <data key="d3">1115.8</data>
+  <data key="d4">596.87</data>
+  <data key="d5">Javier Peraza</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2024</data>
+</node>
+<node id="IBusta">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ignacio Bustamante</data>
+  <data key="d2">2.6909</data>
+  <data key="d3">1115.8</data>
+  <data key="d4">524.87</data>
+  <data key="d5">Ignacio Bustamante</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2025</data>
+</node>
+<node id="ARittatore">
+  <data key="d0">0.74639</data>
+  <data key="d1">Álvaro Rittatore</data>
+  <data key="d2">4.1641</data>
+  <data key="d3">1218.8</data>
+  <data key="d4">1200.9</data>
+  <data key="d5">Álvaro Rittatore</data>
+  <data key="d6">Joseph Fourier Grenoble I</data>
+  <data key="d7">1997</data>
+</node>
+<node id="MBrion">
+  <data key="d0">0.74639</data>
+  <data key="d1">Michel Brion</data>
+  <data key="d2">4.773</data>
+  <data key="d3">861.07</data>
+  <data key="d4">1200.9</data>
+  <data key="d5">Michel Brion</data>
+  <data key="d6">Pierre-et-Marie-Curie - Paris VI</data>
+  <data key="d7">1982</data>
+</node>
+<node id="JDixmier">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jacques Dixmier</data>
+  <data key="d2">2.2981</data>
+  <data key="d3">570.51</data>
+  <data key="d4">1200.9</data>
+  <data key="d5">Jacques Dixmier</data>
+  <data key="d6">Paris</data>
+  <data key="d7">1949</data>
+</node>
+<node id="MPera">
+  <data key="d0">0.74639</data>
+  <data key="d1">Manuel de Pera Garcia</data>
+  <data key="d2">3.0641</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2995.9</data>
+  <data key="d5">Manuel de Pera Garcia</data>
+  <data key="d6">Sao Paulo</data>
+  <data key="d7">1988</data>
+</node>
+<node id="FTal">
+  <data key="d0">0.74639</data>
+  <data key="d1">Fábio Tal</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2995.9</data>
+  <data key="d5">Fábio Tal</data>
+  <data key="d6">Sao Paulo</data>
+  <data key="d7">2001</data>
+</node>
+<node id="AGarcia">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alejo García</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">2923.9</data>
+  <data key="d5">Alejo García</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2024</data>
+</node>
+<node id="THenrik">
+  <data key="d0">0.74639</data>
+  <data key="d1">Tobias Henrik Jager</data>
+  <data key="d2">3.3784</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2923.9</data>
+  <data key="d5">Tobias Henrik Jager</data>
+  <data key="d6">Friedrich-Alexander</data>
+  <data key="d7">2005</data>
+</node>
+<node id="APasseggi">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alejandro Passeggi</data>
+  <data key="d2">3.3784</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2923.9</data>
+  <data key="d5">Alejandro Passeggi</data>
+  <data key="d6">Friedrich-Alexander</data>
+  <data key="d7">2013</data>
+</node>
+<node id="ARov">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alvaro Rovella</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2851.9</data>
+  <data key="d5">Alvaro Rovella</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1991</data>
+</node>
+<node id="JIgle">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jorge Iglesias</data>
+  <data key="d2">1.9642</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">2851.9</data>
+  <data key="d5">Jorge Iglesias</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2006</data>
+</node>
+<node id="JMassera">
+  <data key="d0">0.74639</data>
+  <data key="d1">José Luis Massera</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">3598.6</data>
+  <data key="d4">1064.9</data>
+  <data key="d5">José Luis Massera</data>
+  <data key="d6">(1915-2002)</data>
+  <data key="d7"></data>
+</node>
+<node id="IME">
+  <data key="d8">lightgreen</data>
+  <data key="d0">0.74639</data>
+  <data key="d1">IME</data>
+  <data key="d2">0.98209</data>
+  <data key="d3">3761.9</data>
+  <data key="d4">1028.9</data>
+  <data key="d5">IME</data>
+  <data key="d6">1942</data>
+  <data key="d7"></data>
+</node>
+<node id="RLaguardia">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rafael Laguardia</data>
+  <data key="d2">2.3374</data>
+  <data key="d3">3598.6</data>
+  <data key="d4">992.87</data>
+  <data key="d5">Rafael Laguardia</data>
+  <data key="d6">(1906-1980)</data>
+  <data key="d7"></data>
+</node>
+<node id="IMERL">
+  <data key="d8">lightgreen</data>
+  <data key="d0">0.74639</data>
+  <data key="d1">IMERL</data>
+  <data key="d2">1.1589</data>
+  <data key="d3">3875.0</data>
+  <data key="d4">1028.9</data>
+  <data key="d5">IMERL</data>
+  <data key="d6">1987</data>
+  <data key="d7"></data>
+</node>
+<node id="JSchaffer">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jorge Schäffer</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">3843.2</data>
+  <data key="d4">1772.9</data>
+  <data key="d5">Jorge Schäffer</data>
+  <data key="d6">Zurich</data>
+  <data key="d7">1957</data>
+</node>
+<node id="RNevan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rolf Nevanlinna</data>
+  <data key="d2">3.182</data>
+  <data key="d3">3619.1</data>
+  <data key="d4">1772.9</data>
+  <data key="d5">Rolf Nevanlinna</data>
+  <data key="d6">Helsingin yliopisto</data>
+  <data key="d7">1919</data>
+</node>
+<node id="MMart">
+  <data key="d0">0.74639</data>
+  <data key="d1">Matilde Martinez</data>
+  <data key="d2">2.3177</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1564.9</data>
+  <data key="d5">Matilde Martinez</data>
+  <data key="d6">CIMAT</data>
+  <data key="d7">2005</data>
+</node>
+<node id="PLessa">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pablo Lessa</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1492.9</data>
+  <data key="d5">Pablo Lessa</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2014</data>
+</node>
+<node id="GGuerber">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gustavo Guerberoff</data>
+  <data key="d2">3.5552</data>
+  <data key="d3">3840.7</data>
+  <data key="d4">1200.9</data>
+  <data key="d5">Gustavo Guerberoff</data>
+  <data key="d6">Nacional de Córdoba</data>
+  <data key="d7">1997</data>
+</node>
+<node id="GRaggio">
+  <data key="d0">0.74639</data>
+  <data key="d1">Guido Raggio</data>
+  <data key="d2">2.3963</data>
+  <data key="d3">3590.5</data>
+  <data key="d4">1200.9</data>
+  <data key="d5">Guido Raggio</data>
+  <data key="d6">ETH Zürich</data>
+  <data key="d7">1981</data>
+</node>
+<node id="APortela">
+  <data key="d0">0.74639</data>
+  <data key="d1">Aldo Portela</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">3782.7</data>
+  <data key="d4">2760.9</data>
+  <data key="d5">Aldo Portela</data>
+  <data key="d6">São Paulo</data>
+  <data key="d7">2004</data>
+</node>
+<node id="EFaria">
+  <data key="d0">0.74639</data>
+  <data key="d1">Edson de Faria</data>
+  <data key="d2">2.632</data>
+  <data key="d3">3569.9</data>
+  <data key="d4">2760.9</data>
+  <data key="d5">Edson de Faria</data>
+  <data key="d6">City Univ. NY</data>
+  <data key="d7">1992</data>
+</node>
+<node id="EMaderna">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ezequiel Maderna</data>
+  <data key="d2">2.4749</data>
+  <data key="d3">3983.6</data>
+  <data key="d4">3384.9</data>
+  <data key="d5">Ezequiel Maderna</data>
+  <data key="d6">ENS Lyon</data>
+  <data key="d7">2000</data>
+</node>
+<node id="AFathi">
+  <data key="d0">0.74639</data>
+  <data key="d1">Albert Fathi</data>
+  <data key="d2">1.6892</data>
+  <data key="d3">3797.7</data>
+  <data key="d4">3384.9</data>
+  <data key="d5">Albert Fathi</data>
+  <data key="d6">1980</data>
+  <data key="d7"></data>
+</node>
+<node id="PHaiss">
+  <data key="d0">0.74639</data>
+  <data key="d1">Peter Haissinsky</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">2603.7</data>
+  <data key="d4">232.87</data>
+  <data key="d5">Peter Haissinsky</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1998</data>
+</node>
+<node id="MCarrasco">
+  <data key="d0">0.74639</data>
+  <data key="d1">Matias Carrasco</data>
+  <data key="d2">2.5731</data>
+  <data key="d3">2824.2</data>
+  <data key="d4">232.87</data>
+  <data key="d5">Matias Carrasco</data>
+  <data key="d6">Aix-Marseille</data>
+  <data key="d7">2011</data>
+</node>
+<node id="ESequeira">
+  <data key="d0">0.74639</data>
+  <data key="d1">Emiliano Sequeira</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">3044.8</data>
+  <data key="d4">196.87</data>
+  <data key="d5">Emiliano Sequeira</data>
+  <data key="d6">Udelar - Lille</data>
+  <data key="d7">2020</data>
+</node>
+<node id="MBourdon">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marc Bourdon</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">2824.2</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Marc Bourdon</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1993</data>
+</node>
+<node id="JBortha">
+  <data key="d0">0.74639</data>
+  <data key="d1">Juan Pablo Borthagaray</data>
+  <data key="d2">3.182</data>
+  <data key="d3">2294.2</data>
+  <data key="d4">56.87</data>
+  <data key="d5">Juan Pablo Borthagaray</data>
+  <data key="d6">UBA</data>
+  <data key="d7">2017</data>
+</node>
+<node id="GAcosta">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gabriel Acosta</data>
+  <data key="d2">2.0624</data>
+  <data key="d3">2069.4</data>
+  <data key="d4">56.87</data>
+  <data key="d5">Gabriel Acosta</data>
+  <data key="d6">UBA</data>
+  <data key="d7">1999</data>
+</node>
+<node id="RDuran">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ricardo Durán</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">1885.6</data>
+  <data key="d4">56.87</data>
+  <data key="d5">Ricardo Durán</data>
+  <data key="d6">UBA</data>
+  <data key="d7">1981</data>
+</node>
+<node id="OGil">
+  <data key="d0">0.74639</data>
+  <data key="d1">Omar Gil</data>
+  <data key="d2">3.5552</data>
+  <data key="d3">3684.7</data>
+  <data key="d4">56.87</data>
+  <data key="d5">Omar Gil</data>
+  <data key="d6">Autónoma de Madrid</data>
+  <data key="d7">1996</data>
+</node>
+<node id="JVazquez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Juan Vázquez</data>
+  <data key="d2">3.9087</data>
+  <data key="d3">3380.0</data>
+  <data key="d4">56.87</data>
+  <data key="d5">Juan Vázquez</data>
+  <data key="d6">Complutense de Madrid</data>
+  <data key="d7">1979</data>
+</node>
+<node id="RArocena">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rodrigo Arocena</data>
+  <data key="d2">3.5945</data>
+  <data key="d3">3787.3</data>
+  <data key="d4">1928.9</data>
+  <data key="d5">Rodrigo Arocena</data>
+  <data key="d6">Central de Venezuela</data>
+  <data key="d7">1979</data>
+</node>
+<node id="MCotlar">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mischa Cotlar</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">3548.4</data>
+  <data key="d4">1928.9</data>
+  <data key="d5">Mischa Cotlar</data>
+  <data key="d6">Chicago</data>
+  <data key="d7">1953</data>
+</node>
+<node id="RCominetti">
+  <data key="d0">0.74639</data>
+  <data key="d1">Roberto Cominetti</data>
+  <data key="d2">2.6517</data>
+  <data key="d3">3152.4</data>
+  <data key="d4">3232.9</data>
+  <data key="d5">Roberto Cominetti</data>
+  <data key="d6">Blaise Pascal</data>
+  <data key="d7">1989</data>
+</node>
+<node id="APiazza">
+  <data key="d0">0.74639</data>
+  <data key="d1">Adriana Piazza</data>
+  <data key="d2">3.4766</data>
+  <data key="d3">3415.4</data>
+  <data key="d4">3196.9</data>
+  <data key="d5">Adriana Piazza</data>
+  <data key="d6">Chile y Montpellier II</data>
+  <data key="d7">2007</data>
+</node>
+<node id="PCartigny">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pierre Cartigny</data>
+  <data key="d2">2.8284</data>
+  <data key="d3">3152.4</data>
+  <data key="d4">3160.9</data>
+  <data key="d5">Pierre Cartigny</data>
+  <data key="d6">Globe de Paris</data>
+  <data key="d7">1997</data>
+</node>
+<node id="PLorenzo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pilar Lorenzo</data>
+  <data key="d2">3.2802</data>
+  <data key="d3">3694.6</data>
+  <data key="d4">3160.9</data>
+  <data key="d5">Pilar Lorenzo</data>
+  <data key="d6">UTFSM-PUCV-UV</data>
+  <data key="d7">2022</data>
+</node>
+<node id="PGajardo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pedro Gajardo</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">3415.4</data>
+  <data key="d4">3124.9</data>
+  <data key="d5">Pedro Gajardo</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="JDieudonne">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean Dieudonné</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">86.267</data>
+  <data key="d4">3048.9</data>
+  <data key="d5">Jean Dieudonné</data>
+  <data key="d6">ENS Paris</data>
+  <data key="d7">1931</data>
+</node>
+<node id="AGroth">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alexander Grothendieck</data>
+  <data key="d2">3.8694</data>
+  <data key="d3">347.83</data>
+  <data key="d4">3048.9</data>
+  <data key="d5">Alexander Grothendieck</data>
+  <data key="d6">Henri Poincaré Nancy 1</data>
+  <data key="d7">1953</data>
+</node>
+<node id="JLVerdier">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-Louis Verdier</data>
+  <data key="d2">2.5338</data>
+  <data key="d3">654.66</data>
+  <data key="d4">3048.9</data>
+  <data key="d5">Jean-Louis Verdier</data>
+  <data key="d6">Paris</data>
+  <data key="d7">1967</data>
+</node>
+<node id="PBermolenthelot">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pierre Berthelot</data>
+  <data key="d2">3.6534</data>
+  <data key="d3">654.66</data>
+  <data key="d4">3120.9</data>
+  <data key="d5">Pierre Berthelot</data>
+  <data key="d6">Paris Diderot - Paris 7</data>
+  <data key="d7">1972</data>
+</node>
+<node id="ATreibich">
+  <data key="d0">0.74639</data>
+  <data key="d1">Armando Treibich</data>
+  <data key="d2">2.4159</data>
+  <data key="d3">957.24</data>
+  <data key="d4">3120.9</data>
+  <data key="d5">Armando Treibich</data>
+  <data key="d6">Rennes 1</data>
+  <data key="d7">1991</data>
+</node>
+<node id="GGSprinberg">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gerardo Gonzalez-Sprinberg</data>
+  <data key="d2">3.7516</data>
+  <data key="d3">957.24</data>
+  <data key="d4">3048.9</data>
+  <data key="d5">Gerardo Gonzalez-Sprinberg</data>
+  <data key="d6">Paris Diderot - Paris 7</data>
+  <data key="d7">1977</data>
+</node>
+<node id="PFledrich">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pierre Flédrich</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">1248.5</data>
+  <data key="d4">3120.9</data>
+  <data key="d5">Pierre Flédrich</data>
+  <data key="d6">Artois</data>
+  <data key="d7">2003</data>
+</node>
+<node id="LSchwartz">
+  <data key="d0">0.74639</data>
+  <data key="d1">Laurent Schwartz</data>
+  <data key="d2">2.3963</data>
+  <data key="d3">86.267</data>
+  <data key="d4">2940.9</data>
+  <data key="d5">Laurent Schwartz</data>
+  <data key="d6">Strasbourg</data>
+  <data key="d7">1943</data>
+</node>
+<node id="BBeauzamy">
+  <data key="d0">0.74639</data>
+  <data key="d1">Bernard Beauzamy</data>
+  <data key="d2">2.5927</data>
+  <data key="d3">347.83</data>
+  <data key="d4">2904.9</data>
+  <data key="d5">Bernard Beauzamy</data>
+  <data key="d6">Paris Diderot</data>
+  <data key="d7">1976</data>
+</node>
+<node id="APereyra">
+  <data key="d0">0.74639</data>
+  <data key="d1">Angel Pereyra</data>
+  <data key="d2">3.3391</data>
+  <data key="d3">1248.5</data>
+  <data key="d4">3048.9</data>
+  <data key="d5">Angel Pereyra</data>
+  <data key="d6">Grenoble I - Udelar</data>
+  <data key="d7">2000</data>
+</node>
+<node id="GHoch">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gerhard Hochschild</data>
+  <data key="d2">2.6909</data>
+  <data key="d3">654.66</data>
+  <data key="d4">2976.9</data>
+  <data key="d5">Gerhard Hochschild</data>
+  <data key="d6">Princeton</data>
+  <data key="d7">1941</data>
+</node>
+<node id="WFerrer">
+  <data key="d0">0.74639</data>
+  <data key="d1">Walter Ferrer</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">957.24</data>
+  <data key="d4">2976.9</data>
+  <data key="d5">Walter Ferrer</data>
+  <data key="d6">Berkeley</data>
+  <data key="d7">1980</data>
+</node>
+<node id="MHaim">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mariana Haim</data>
+  <data key="d2">2.0035</data>
+  <data key="d3">1248.5</data>
+  <data key="d4">2976.9</data>
+  <data key="d5">Mariana Haim</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2006</data>
+</node>
+<node id="AAbella">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andres Abella</data>
+  <data key="d2">1.9838</data>
+  <data key="d3">1248.5</data>
+  <data key="d4">2904.9</data>
+  <data key="d5">Andres Abella</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">1999</data>
+</node>
+<node id="NAndru">
+  <data key="d0">0.74639</data>
+  <data key="d1">Nicolás Andruskiewitsch</data>
+  <data key="d2">3.182</data>
+  <data key="d3">957.24</data>
+  <data key="d4">2904.9</data>
+  <data key="d5">Nicolás Andruskiewitsch</data>
+  <data key="d6">Córdoba</data>
+  <data key="d7">1989</data>
+</node>
+<node id="ECabana">
+  <data key="d0">0.5</data>
+  <data key="d1">Enrique Cabaña</data>
+  <data key="d2">2.0582</data>
+  <data key="d3">3563.5</data>
+  <data key="d4">2151.9</data>
+  <data key="d5">Enrique Cabaña</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+</node>
+<node id="JKalemke">
+  <data key="d0">0.74639</data>
+  <data key="d1">Juan Kalemkerian</data>
+  <data key="d2">2.4552</data>
+  <data key="d3">3776.3</data>
+  <data key="d4">2156.9</data>
+  <data key="d5">Juan Kalemkerian</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2006</data>
+</node>
+<node id="MScavino">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marco Scavino</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">3776.3</data>
+  <data key="d4">2084.9</data>
+  <data key="d5">Marco Scavino</data>
+  <data key="d6">Padova</data>
+  <data key="d7">1999</data>
+</node>
+<node id="EMor">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ernesto Mordecki</data>
+  <data key="d2">2.3963</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">806.87</data>
+  <data key="d5">Ernesto Mordecki</data>
+  <data key="d6">Steklov</data>
+  <data key="d7">1994</data>
+</node>
+<node id="ASosa">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andrés Sosa</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">914.87</data>
+  <data key="d5">Andrés Sosa</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2018</data>
+</node>
+<node id="FDal">
+  <data key="d0">0.74639</data>
+  <data key="d1">Federico Dalmao</data>
+  <data key="d2">2.357</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">986.87</data>
+  <data key="d5">Federico Dalmao</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2013</data>
+</node>
+<node id="FCro">
+  <data key="d0">0.74639</data>
+  <data key="d1">Fabián Crocce</data>
+  <data key="d2">2.0624</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">842.87</data>
+  <data key="d5">Fabián Crocce</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2012</data>
+</node>
+<node id="FOliu">
+  <data key="d0">0.74639</data>
+  <data key="d1">Facundo Oliú</data>
+  <data key="d2">1.9249</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">698.87</data>
+  <data key="d5">Facundo Oliú</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2025</data>
+</node>
+<node id="FDOlivera">
+  <data key="d0">0.74639</data>
+  <data key="d1">Federico De Olivera</data>
+  <data key="d2">2.6909</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">770.87</data>
+  <data key="d5">Federico De Olivera</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2016</data>
+</node>
+<node id="LAspi">
+  <data key="d0">0.74639</data>
+  <data key="d1">Laura Aspirot</data>
+  <data key="d2">1.9053</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">626.87</data>
+  <data key="d5">Laura Aspirot</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2019</data>
+</node>
+<node id="JBarbajan">
+  <data key="d0">0.74639</data>
+  <data key="d1">José Fajardo</data>
+  <data key="d2">1.866</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">914.87</data>
+  <data key="d5">José Fajardo</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="MWsche">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mario Wschebor</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1058.9</data>
+  <data key="d5">Mario Wschebor</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1972</data>
+</node>
+<node id="JLeon">
+  <data key="d0">0.74639</data>
+  <data key="d1">José León</data>
+  <data key="d2">3.5945</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1130.9</data>
+  <data key="d5">José León</data>
+  <data key="d6">Central de Venezuela</data>
+  <data key="d7">1982</data>
+</node>
+<node id="GPerera">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gonzalo Perera</data>
+  <data key="d2">2.1999</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1058.9</data>
+  <data key="d5">Gonzalo Perera</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">1994</data>
+</node>
+<node id="DArmentano">
+  <data key="d0">0.74639</data>
+  <data key="d1">Diego Armentano</data>
+  <data key="d2">2.3963</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1202.9</data>
+  <data key="d5">Diego Armentano</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2012</data>
+</node>
+<node id="SChrist">
+  <data key="d0">0.74639</data>
+  <data key="d1">Sören Christensen</data>
+  <data key="d2">4.0462</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">698.87</data>
+  <data key="d5">Sören Christensen</data>
+  <data key="d6">Christian Albrecht de Kiel</data>
+  <data key="d7">2010</data>
+</node>
+<node id="AIrle">
+  <data key="d0">0.74639</data>
+  <data key="d1">Albrecht Irle</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">698.87</data>
+  <data key="d5">Albrecht Irle</data>
+  <data key="d6">Münster</data>
+  <data key="d7">1973</data>
+</node>
+<node id="SSmale">
+  <data key="d0">0.74639</data>
+  <data key="d1">Stephen Smale</data>
+  <data key="d2">2.1606</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">1853.9</data>
+  <data key="d5">Stephen Smale</data>
+  <data key="d6">Michigan</data>
+  <data key="d7">1957</data>
+</node>
+<node id="MShub">
+  <data key="d0">0.74639</data>
+  <data key="d1">Michael Shub</data>
+  <data key="d2">2.1802</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1382.9</data>
+  <data key="d5">Michael Shub</data>
+  <data key="d6">California</data>
+  <data key="d7">1967</data>
+</node>
+<node id="JPalis">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jacob Palis, Jr.</data>
+  <data key="d2">2.1802</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">2028.9</data>
+  <data key="d5">Jacob Palis, Jr.</data>
+  <data key="d6">California</data>
+  <data key="d7">1968</data>
+</node>
+<node id="MGuille">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mauricio Guillermo</data>
+  <data key="d2">2.5731</data>
+  <data key="d3">3772.1</data>
+  <data key="d4">2292.9</data>
+  <data key="d5">Mauricio Guillermo</data>
+  <data key="d6">Paris Diderot</data>
+  <data key="d7">2008</data>
+</node>
+<node id="JKrivine">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-Louis Krivine</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">3552.9</data>
+  <data key="d4">2292.9</data>
+  <data key="d5">Jean-Louis Krivine</data>
+  <data key="d6">Paris</data>
+  <data key="d7">1967</data>
+</node>
+<node id="HHerbelin">
+  <data key="d0">0.74639</data>
+  <data key="d1">Hugo Herbelin</data>
+  <data key="d2">3.5748</data>
+  <data key="d3">2344.4</data>
+  <data key="d4">3160.9</data>
+  <data key="d5">Hugo Herbelin</data>
+  <data key="d6">Paris Diderot - Paris 7</data>
+  <data key="d7">1995</data>
+</node>
+<node id="AMiquel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alexandre Miquel</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">2599.6</data>
+  <data key="d4">3160.9</data>
+  <data key="d5">Alexandre Miquel</data>
+  <data key="d6">Paris Diderot</data>
+  <data key="d7">2001</data>
+</node>
+<node id="EMiquey">
+  <data key="d0">0.74639</data>
+  <data key="d1">Étienne Miquey</data>
+  <data key="d2">3.5355</data>
+  <data key="d3">2853.4</data>
+  <data key="d4">3205.9</data>
+  <data key="d5">Étienne Miquey</data>
+  <data key="d6">Udelar - Paris Diderot</data>
+  <data key="d7">2017</data>
+</node>
+<node id="FCastro">
+  <data key="d0">0.74639</data>
+  <data key="d1">Félix Castro</data>
+  <data key="d2">3.1623</data>
+  <data key="d3">2853.4</data>
+  <data key="d4">3124.9</data>
+  <data key="d5">Félix Castro</data>
+  <data key="d6">Udelar - Paris Cité</data>
+  <data key="d7">2024</data>
+</node>
+<node id="ECat">
+  <data key="d0">0.74639</data>
+  <data key="d1">Eleonora Catsigeras</data>
+  <data key="d2">2.7302</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2563.9</data>
+  <data key="d5">Eleonora Catsigeras</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1995</data>
+</node>
+<node id="ACalderon">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alfredo Calderón</data>
+  <data key="d2">3.3784</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2563.9</data>
+  <data key="d5">Alfredo Calderón</data>
+  <data key="d6">PUCV, UTFSM, UV</data>
+  <data key="d7">2020</data>
+</node>
+<node id="PGuiraud">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pierre Guiraud</data>
+  <data key="d2">2.1802</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2491.9</data>
+  <data key="d5">Pierre Guiraud</data>
+  <data key="d6">Provence</data>
+  <data key="d7">2004</data>
+</node>
+<node id="FRHertz">
+  <data key="d0">0.74639</data>
+  <data key="d1">Federico Rodriguez-Hertz</data>
+  <data key="d2">3.3588</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2347.9</data>
+  <data key="d5">Federico Rodriguez-Hertz</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">2001</data>
+</node>
+<node id="BYemini">
+  <data key="d0">0.74639</data>
+  <data key="d1">Bruno Yemini</data>
+  <data key="d2">3.2802</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">2455.9</data>
+  <data key="d5">Bruno Yemini</data>
+  <data key="d6">UTFSM-PUCV-UV</data>
+  <data key="d7">2022</data>
+</node>
+<node id="FValenzuela">
+  <data key="d0">0.74639</data>
+  <data key="d1">Francisco Valenzuela</data>
+  <data key="d2">2.8481</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2491.9</data>
+  <data key="d5">Francisco Valenzuela</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">2009</data>
+</node>
+<node id="RSaghin">
+  <data key="d0">0.74639</data>
+  <data key="d1">Radu Saghin</data>
+  <data key="d2">2.6713</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2419.9</data>
+  <data key="d5">Radu Saghin</data>
+  <data key="d6">Northwestern</data>
+  <data key="d7">2005</data>
+</node>
+<node id="EPujals">
+  <data key="d0">0.74639</data>
+  <data key="d1">Enrique Pujals</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2275.9</data>
+  <data key="d5">Enrique Pujals</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1996</data>
+</node>
+<node id="JCorrea">
+  <data key="d0">0.74639</data>
+  <data key="d1">Javier Correa</data>
+  <data key="d2">1.9249</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2347.9</data>
+  <data key="d5">Javier Correa</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">2014</data>
+</node>
+<node id="PGuarino">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pablo Guarino</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2275.9</data>
+  <data key="d5">Pablo Guarino</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">2012</data>
+</node>
+<node id="XGom">
+  <data key="d0">0.74639</data>
+  <data key="d1">Xavier Gomez-Mont Avalos</data>
+  <data key="d2">3.5748</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">1564.9</data>
+  <data key="d5">Xavier Gomez-Mont Avalos</data>
+  <data key="d6">Princeton</data>
+  <data key="d7">1978</data>
+</node>
+<node id="RMar">
+  <data key="d0">0.74639</data>
+  <data key="d1">Roberto Markarian</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1810.9</data>
+  <data key="d5">Roberto Markarian</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1990</data>
+</node>
+<node id="MSam">
+  <data key="d0">0.74639</data>
+  <data key="d1">Martin Sambarino</data>
+  <data key="d2">2.4552</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1708.9</data>
+  <data key="d5">Martin Sambarino</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1998</data>
+</node>
+<node id="RMan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ricardo Mañé</data>
+  <data key="d2">1.9838</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2743.9</data>
+  <data key="d5">Ricardo Mañé</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1973</data>
+</node>
+<node id="RUres">
+  <data key="d0">0.74639</data>
+  <data key="d1">Raul Ures</data>
+  <data key="d2">1.7088</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1310.9</data>
+  <data key="d5">Raul Ures</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1993</data>
+</node>
+<node id="MViana">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marcelo Viana</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1882.9</data>
+  <data key="d5">Marcelo Viana</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1990</data>
+</node>
+<node id="WMelo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Welington de Melo</data>
+  <data key="d2">2.5338</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2059.9</data>
+  <data key="d5">Welington de Melo</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1972</data>
+</node>
+<node id="RBott">
+  <data key="d0">0.74639</data>
+  <data key="d1">Raoul Bott</data>
+  <data key="d2">3.0052</data>
+  <data key="d3">1548.0</data>
+  <data key="d4">1853.9</data>
+  <data key="d5">Raoul Bott</data>
+  <data key="d6">Carnegie Mellon</data>
+  <data key="d7">1949</data>
+</node>
+<node id="RPot">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rafael Potrie</data>
+  <data key="d2">1.866</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1623.9</data>
+  <data key="d5">Rafael Potrie</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2012</data>
+</node>
+<node id="Lpineyrua">
+  <data key="d0">0.74639</data>
+  <data key="d1">Luis Piñeyrúa</data>
+  <data key="d2">1.9249</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">1669.9</data>
+  <data key="d5">Luis Piñeyrúa</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2022</data>
+</node>
+<node id="Smartin">
+  <data key="d0">0.74639</data>
+  <data key="d1">Santiago Martinchich</data>
+  <data key="d2">3.398</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">1578.9</data>
+  <data key="d5">Santiago Martinchich</data>
+  <data key="d6">Udelar Paris-Saclay</data>
+  <data key="d7">2023</data>
+</node>
+<node id="LCarv">
+  <data key="d0">0.74639</data>
+  <data key="d1">León Carvajales</data>
+  <data key="d2">2.2588</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">1460.9</data>
+  <data key="d5">León Carvajales</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2020</data>
+</node>
+<node id="ADal">
+  <data key="d0">0.74639</data>
+  <data key="d1">Adriana Da Luz</data>
+  <data key="d2">2.1606</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1505.9</data>
+  <data key="d5">Adriana Da Luz</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2017</data>
+</node>
+<node id="SCrov">
+  <data key="d0">0.74639</data>
+  <data key="d1">Sylvain Crovisier</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1636.9</data>
+  <data key="d5">Sylvain Crovisier</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">2001</data>
+</node>
+<node id="CBon">
+  <data key="d0">0.74639</data>
+  <data key="d1">Christian Bonatti</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">1437.9</data>
+  <data key="d5">Christian Bonatti</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1984</data>
+</node>
+<node id="MShannon">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mario Shannon</data>
+  <data key="d2">2.357</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1310.9</data>
+  <data key="d5">Mario Shannon</data>
+  <data key="d6">Bourgogne</data>
+  <data key="d7">2020</data>
+</node>
+<node id="SAlvarez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Sébastien Alvarez</data>
+  <data key="d2">2.4552</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1238.9</data>
+  <data key="d5">Sébastien Alvarez</data>
+  <data key="d6">Bourgogne</data>
+  <data key="d7">2013</data>
+</node>
+<node id="MPat">
+  <data key="d0">0.74639</data>
+  <data key="d1">Miguel Paternain</data>
+  <data key="d2">2.3374</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2779.9</data>
+  <data key="d5">Miguel Paternain</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1990</data>
+</node>
+<node id="HEnrich">
+  <data key="d0">0.74639</data>
+  <data key="d1">Heber Enrich</data>
+  <data key="d2">1.866</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2707.9</data>
+  <data key="d5">Heber Enrich</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1995</data>
+</node>
+<node id="JBrum">
+  <data key="d0">0.74639</data>
+  <data key="d1">Joaquín Brum</data>
+  <data key="d2">1.9838</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">2707.9</data>
+  <data key="d5">Joaquín Brum</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2017</data>
+</node>
+<node id="JFran">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-François Quint</data>
+  <data key="d2">2.7302</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1382.9</data>
+  <data key="d5">Jean-François Quint</data>
+  <data key="d6">ENS</data>
+  <data key="d7">2001</data>
+</node>
+<node id="ASam">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andrés Sambarino</data>
+  <data key="d2">2.5338</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1416.9</data>
+  <data key="d5">Andrés Sambarino</data>
+  <data key="d6">Paris XIII</data>
+  <data key="d7">2011</data>
+</node>
+<node id="NGuel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Nancy Guelman</data>
+  <data key="d2">2.2588</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1310.9</data>
+  <data key="d5">Nancy Guelman</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2003</data>
+</node>
+<node id="MMatos">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mauricio Peixoto</data>
+  <data key="d2">2.5338</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1954.9</data>
+  <data key="d5">Mauricio Peixoto</data>
+  <data key="d6">Rural de Rio</data>
+  <data key="d7">1948</data>
+</node>
+<node id="JLew">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jorge Lewowicz</data>
+  <data key="d2">3.0445</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1954.9</data>
+  <data key="d5">Jorge Lewowicz</data>
+  <data key="d6">Brown University</data>
+  <data key="d7">1966</data>
+</node>
+<node id="JRod">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jana Rodriguez-Hertz</data>
+  <data key="d2">2.907</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1915.9</data>
+  <data key="d5">Jana Rodriguez-Hertz</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">1999</data>
+</node>
+<node id="JGrois">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jorge Groisman</data>
+  <data key="d2">2.2392</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1843.9</data>
+  <data key="d5">Jorge Groisman</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2007</data>
+</node>
+<node id="JViei">
+  <data key="d0">0.74639</data>
+  <data key="d1">José Vieitez</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1987.9</data>
+  <data key="d5">José Vieitez</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">1992</data>
+</node>
+<node id="GNun">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gabriel Núñez</data>
+  <data key="d2">2.0231</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">1915.9</data>
+  <data key="d5">Gabriel Núñez</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2018</data>
+</node>
+<node id="GCous">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gonzalo Cousillas</data>
+  <data key="d2">2.4749</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">1838.9</data>
+  <data key="d5">Gonzalo Cousillas</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2025</data>
+</node>
+<node id="AArtigue">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alfonso Artigue</data>
+  <data key="d2">2.141</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">2042.9</data>
+  <data key="d5">Alfonso Artigue</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2015</data>
+</node>
+<node id="MAchigar">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mauricio Achigar</data>
+  <data key="d2">2.3177</data>
+  <data key="d3">3313.3</data>
+  <data key="d4">2005.9</data>
+  <data key="d5">Mauricio Achigar</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2019</data>
+</node>
+<node id="AGasull">
+  <data key="d0">0.74639</data>
+  <data key="d1">Armengol Gasull</data>
+  <data key="d2">3.9284</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1771.9</data>
+  <data key="d5">Armengol Gasull</data>
+  <data key="d6">Autónoma de Barcelona</data>
+  <data key="d7">1986</data>
+</node>
+<node id="HJudah">
+  <data key="d0">0.74639</data>
+  <data key="d1">Haim Judah</data>
+  <data key="d2">4.2426</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2203.9</data>
+  <data key="d5">Haim Judah</data>
+  <data key="d6">Hebrew Univ. of Jerusalem</data>
+  <data key="d7">1987</data>
+</node>
+<node id="JBagaria">
+  <data key="d0">0.74639</data>
+  <data key="d1">Joan Bagaria</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">2131.9</data>
+  <data key="d5">Joan Bagaria</data>
+  <data key="d6">UC Berkeley</data>
+  <data key="d7">1991</data>
+</node>
+<node id="WWoodin">
+  <data key="d0">0.74639</data>
+  <data key="d1">William Woodin</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2131.9</data>
+  <data key="d5">William Woodin</data>
+  <data key="d6">UC Berkeley</data>
+  <data key="d7">1984</data>
+</node>
+<node id="LRosa">
+  <data key="d0">0.74639</data>
+  <data key="d1">Luis Rosa</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">3313.3</data>
+  <data key="d4">2113.9</data>
+  <data key="d5">Luis Rosa</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2025</data>
+</node>
+<node id="ERego">
+  <data key="d0">0.74639</data>
+  <data key="d1">Elias Rego</data>
+  <data key="d2">1.7481</data>
+  <data key="d3">3313.3</data>
+  <data key="d4">1854.9</data>
+  <data key="d5">Elias Rego</data>
+  <data key="d6">UFRJ</data>
+  <data key="d7">2021</data>
+</node>
+<node id="AArbieto">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alexander Arbieto</data>
+  <data key="d2">2.4356</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">1756.9</data>
+  <data key="d5">Alexander Arbieto</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">2004</data>
+</node>
+<node id="MJose">
+  <data key="d0">0.74639</data>
+  <data key="d1">Maria Jose Pacifico</data>
+  <data key="d2">2.632</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2059.9</data>
+  <data key="d5">Maria Jose Pacifico</data>
+  <data key="d6">IMPA</data>
+  <data key="d7">1980</data>
+</node>
+<node id="HRosen">
+  <data key="d0">0.74639</data>
+  <data key="d1">Harold Rosenberg</data>
+  <data key="d2">2.4749</data>
+  <data key="d3">1548.0</data>
+  <data key="d4">1537.9</data>
+  <data key="d5">Harold Rosenberg</data>
+  <data key="d6">Berkeley</data>
+  <data key="d7">1963</data>
+</node>
+<node id="Mherman">
+  <data key="d0">0.74639</data>
+  <data key="d1">Michael Herman</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">1636.9</data>
+  <data key="d5">Michael Herman</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1976</data>
+</node>
+<node id="JYoccoz">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-Christophe Yoccoz</data>
+  <data key="d2">3.457</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1708.9</data>
+  <data key="d5">Jean-Christophe Yoccoz</data>
+  <data key="d6">École Polytechnique</data>
+  <data key="d7">1985</data>
+</node>
+<node id="PCalvez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Patrice Le Calvez</data>
+  <data key="d2">2.5927</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1636.9</data>
+  <data key="d5">Patrice Le Calvez</data>
+  <data key="d6">Paris Diderot</data>
+  <data key="d7">1987</data>
+</node>
+<node id="JXavier">
+  <data key="d0">0.74639</data>
+  <data key="d1">Juliana Xavier</data>
+  <data key="d2">2.141</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">1564.9</data>
+  <data key="d5">Juliana Xavier</data>
+  <data key="d6">Paris XIII</data>
+  <data key="d7">2011</data>
+</node>
+<node id="JAlonso">
+  <data key="d0">0.74639</data>
+  <data key="d1">Juan Alonso</data>
+  <data key="d2">1.9053</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">2635.9</data>
+  <data key="d5">Juan Alonso</data>
+  <data key="d6">Cornell</data>
+  <data key="d7">2012</data>
+</node>
+<node id="KVogt">
+  <data key="d0">0.74639</data>
+  <data key="d1">Karen Vogtmann</data>
+  <data key="d2">3.3588</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">2635.9</data>
+  <data key="d5">Karen Vogtmann</data>
+  <data key="d6">California, Berkeley</data>
+  <data key="d7">1977</data>
+</node>
+<node id="MFariello">
+  <data key="d0">0.74639</data>
+  <data key="d1">María Inés Fariello</data>
+  <data key="d2">2.6517</data>
+  <data key="d3">3821.2</data>
+  <data key="d4">440.87</data>
+  <data key="d5">María Inés Fariello</data>
+  <data key="d6">Paul Sabatier</data>
+  <data key="d7">2013</data>
+</node>
+<node id="MSCristobal">
+  <data key="d0">0.74639</data>
+  <data key="d1">Magali SanCristobal</data>
+  <data key="d2">2.7106</data>
+  <data key="d3">3592.2</data>
+  <data key="d4">512.87</data>
+  <data key="d5">Magali SanCristobal</data>
+  <data key="d6">?</data>
+  <data key="d7"></data>
+</node>
+<node id="SBoitard">
+  <data key="d0">0.74639</data>
+  <data key="d1">Simon Boitard</data>
+  <data key="d2">2.0035</data>
+  <data key="d3">3592.2</data>
+  <data key="d4">440.87</data>
+  <data key="d5">Simon Boitard</data>
+  <data key="d6">?</data>
+  <data key="d7"></data>
+</node>
+<node id="HNaya">
+  <data key="d0">0.74639</data>
+  <data key="d1">Hugo Naya</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">3592.2</data>
+  <data key="d4">368.87</data>
+  <data key="d5">Hugo Naya</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2004</data>
+</node>
+<node id="JMorel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-Michel Morel</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">511.18</data>
+  <data key="d4">2419.9</data>
+  <data key="d5">Jean-Michel Morel</data>
+  <data key="d6">Paris VI</data>
+  <data key="d7">1985</data>
+</node>
+<node id="PMuse">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pablo Musé</data>
+  <data key="d2">1.9838</data>
+  <data key="d3">731.02</data>
+  <data key="d4">2419.9</data>
+  <data key="d5">Pablo Musé</data>
+  <data key="d6">Cachan</data>
+  <data key="d7">2004</data>
+</node>
+<node id="AAlmansa">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andrés Almansa</data>
+  <data key="d2">2.5927</data>
+  <data key="d3">731.02</data>
+  <data key="d4">2347.9</data>
+  <data key="d5">Andrés Almansa</data>
+  <data key="d6">ENS Cachan</data>
+  <data key="d7">2002</data>
+</node>
+<node id="MDelbracio">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mauricio Delbracio</data>
+  <data key="d2">3.6141</data>
+  <data key="d3">1003.2</data>
+  <data key="d4">2292.9</data>
+  <data key="d5">Mauricio Delbracio</data>
+  <data key="d6">Udelar - ENS Cachan</data>
+  <data key="d7">2013</data>
+</node>
+<node id="IReyOtero">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ives Rey-Otero</data>
+  <data key="d2">2.5927</data>
+  <data key="d3">1275.4</data>
+  <data key="d4">2463.9</data>
+  <data key="d5">Ives Rey-Otero</data>
+  <data key="d6">ENS Cachan</data>
+  <data key="d7">2015</data>
+</node>
+<node id="MGardella">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marina Gardella</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">1003.2</data>
+  <data key="d4">2436.9</data>
+  <data key="d5">Marina Gardella</data>
+  <data key="d6">Paris-Saclay</data>
+  <data key="d7">2023</data>
+</node>
+<node id="GSapiro">
+  <data key="d0">0.74639</data>
+  <data key="d1">Guillermo Sapiro</data>
+  <data key="d2">2.3374</data>
+  <data key="d3">731.02</data>
+  <data key="d4">2555.9</data>
+  <data key="d5">Guillermo Sapiro</data>
+  <data key="d6">Technion</data>
+  <data key="d7">1993</data>
+</node>
+<node id="MFiori">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marcelo Fiori</data>
+  <data key="d2">1.866</data>
+  <data key="d3">1003.2</data>
+  <data key="d4">2508.9</data>
+  <data key="d5">Marcelo Fiori</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2015</data>
+</node>
+<node id="FMemoli">
+  <data key="d0">0.74639</data>
+  <data key="d1">Facundo Mémoli</data>
+  <data key="d2">2.3177</data>
+  <data key="d3">1003.2</data>
+  <data key="d4">2580.9</data>
+  <data key="d5">Facundo Mémoli</data>
+  <data key="d6">Minnesota</data>
+  <data key="d7">2005</data>
+</node>
+<node id="MGon">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mario González</data>
+  <data key="d2">3.9677</data>
+  <data key="d3">1003.2</data>
+  <data key="d4">2364.9</data>
+  <data key="d5">Mario González</data>
+  <data key="d6">Udelar - Paris Descartes</data>
+  <data key="d7">2021</data>
+</node>
+<node id="IDaub">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ingrid Daubechies</data>
+  <data key="d2">2.4552</data>
+  <data key="d3">324.87</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Ingrid Daubechies</data>
+  <data key="d6">Vrije</data>
+  <data key="d7">1980</data>
+</node>
+<node id="RWard">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rachel Ward</data>
+  <data key="d2">2.1802</data>
+  <data key="d3">527.74</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Rachel Ward</data>
+  <data key="d6">Princeton</data>
+  <data key="d7">2009</data>
+</node>
+<node id="SVillar">
+  <data key="d0">0.74639</data>
+  <data key="d1">Soledad Villar</data>
+  <data key="d2">2.8677</data>
+  <data key="d3">745.47</data>
+  <data key="d4">160.87</data>
+  <data key="d5">Soledad Villar</data>
+  <data key="d6">Texas at Austin</data>
+  <data key="d7">2017</data>
+</node>
+<node id="GRub">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gerardo Rubino</data>
+  <data key="d2">2.2195</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">506.87</data>
+  <data key="d5">Gerardo Rubino</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="FRobledo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Franco Robledo</data>
+  <data key="d2">3.1427</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">516.87</data>
+  <data key="d5">Franco Robledo</data>
+  <data key="d6">Udelar - Rennes I</data>
+  <data key="d7">2005</data>
+</node>
+<node id="HCancela">
+  <data key="d0">0.74639</data>
+  <data key="d1">Héctor Cancela</data>
+  <data key="d2">2.1606</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">478.87</data>
+  <data key="d5">Héctor Cancela</data>
+  <data key="d6">INRIA</data>
+  <data key="d7">1996</data>
+</node>
+<node id="CRisso">
+  <data key="d0">0.74639</data>
+  <data key="d1">Claudio Risso</data>
+  <data key="d2">1.9642</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">544.87</data>
+  <data key="d5">Claudio Risso</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2014</data>
+</node>
+<node id="PRBocca">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pablo Rodríguez-Bocca</data>
+  <data key="d2">3.1427</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">444.87</data>
+  <data key="d5">Pablo Rodríguez-Bocca</data>
+  <data key="d6">Udelar - Rennes I</data>
+  <data key="d7">2008</data>
+</node>
+<node id="JGraneri">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jorge Graneri</data>
+  <data key="d2">1.9642</data>
+  <data key="d3">2442.3</data>
+  <data key="d4">368.87</data>
+  <data key="d5">Jorge Graneri</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2019</data>
+</node>
+<node id="PRomero">
+  <data key="d0">0.74639</data>
+  <data key="d1">Pablo Romero</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">3071.5</data>
+  <data key="d4">458.87</data>
+  <data key="d5">Pablo Romero</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2012</data>
+</node>
+<node id="EMizraji">
+  <data key="d0">0.74639</data>
+  <data key="d1">Eduardo Mizraji</data>
+  <data key="d2">2.1802</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">368.87</data>
+  <data key="d5">Eduardo Mizraji</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">1980</data>
+</node>
+<node id="FPesarin">
+  <data key="d0">0.74639</data>
+  <data key="d1">Fortunato Pesarin</data>
+  <data key="d2">2.4552</data>
+  <data key="d3">3563.5</data>
+  <data key="d4">2084.9</data>
+  <data key="d5">Fortunato Pesarin</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="GGiannakis">
+  <data key="d0">0.74639</data>
+  <data key="d1">Georgios Giannakis</data>
+  <data key="d2">3.3391</data>
+  <data key="d3">738.09</data>
+  <data key="d4">1084.9</data>
+  <data key="d5">Georgios Giannakis</data>
+  <data key="d6">Southern California</data>
+  <data key="d7">1986</data>
+</node>
+<node id="GMateos">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gonzalo Mateos</data>
+  <data key="d2">2.2981</data>
+  <data key="d3">1018.8</data>
+  <data key="d4">1084.9</data>
+  <data key="d5">Gonzalo Mateos</data>
+  <data key="d6">Minnesota</data>
+  <data key="d7">2012</data>
+</node>
+<node id="BMarenco">
+  <data key="d0">0.74639</data>
+  <data key="d1">Bernardo Marenco</data>
+  <data key="d2">2.5338</data>
+  <data key="d3">1274.0</data>
+  <data key="d4">1066.9</data>
+  <data key="d5">Bernardo Marenco</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2025</data>
+</node>
+<node id="PBermolen">
+  <data key="d0">0.74639</data>
+  <data key="d1">Paola Bermolen</data>
+  <data key="d2">2.2392</data>
+  <data key="d3">1018.8</data>
+  <data key="d4">1012.9</data>
+  <data key="d5">Paola Bermolen</data>
+  <data key="d6">ParisTech</data>
+  <data key="d7">2010</data>
+</node>
+<node id="VGoi">
+  <data key="d0">0.74639</data>
+  <data key="d1">Valeria Goicoechea</data>
+  <data key="d2">2.632</data>
+  <data key="d3">1274.0</data>
+  <data key="d4">976.87</data>
+  <data key="d5">Valeria Goicoechea</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2022</data>
+</node>
+<node id="FBac">
+  <data key="d0">0.74639</data>
+  <data key="d1">François Baccelli</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">738.09</data>
+  <data key="d4">1012.9</data>
+  <data key="d5">François Baccelli</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1980</data>
+</node>
+<node id="DRos">
+  <data key="d0">0.74639</data>
+  <data key="d1">Dario Rossi</data>
+  <data key="d2">1.6892</data>
+  <data key="d3">738.09</data>
+  <data key="d4">940.87</data>
+  <data key="d5">Dario Rossi</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="JMat">
+  <data key="d0">0.74639</data>
+  <data key="d1">Matthieu Jonckheere</data>
+  <data key="d2">3.457</data>
+  <data key="d3">1018.8</data>
+  <data key="d4">940.87</data>
+  <data key="d5">Matthieu Jonckheere</data>
+  <data key="d6">École Polytechnique</data>
+  <data key="d7">2005</data>
+</node>
+<node id="VYohai">
+  <data key="d0">0.74639</data>
+  <data key="d1">Victor Yohai</data>
+  <data key="d2">2.0231</data>
+  <data key="d3">1607.2</data>
+  <data key="d4">3268.9</data>
+  <data key="d5">Victor Yohai</data>
+  <data key="d6">Berkeley</data>
+  <data key="d7">1969</data>
+</node>
+<node id="RFraiman">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ricardo Fraiman</data>
+  <data key="d2">2.2981</data>
+  <data key="d3">1810.8</data>
+  <data key="d4">3268.9</data>
+  <data key="d5">Ricardo Fraiman</data>
+  <data key="d6">UBA</data>
+  <data key="d7">1980</data>
+</node>
+<node id="MBourel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mathias Bourel</data>
+  <data key="d2">2.5731</data>
+  <data key="d3">2044.1</data>
+  <data key="d4">3340.9</data>
+  <data key="d5">Mathias Bourel</data>
+  <data key="d6">Aix-Marseille</data>
+  <data key="d7">2013</data>
+</node>
+<node id="AChol">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alejandro Cholaquidis</data>
+  <data key="d2">2.907</data>
+  <data key="d3">2044.1</data>
+  <data key="d4">3196.9</data>
+  <data key="d5">Alejandro Cholaquidis</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2014</data>
+</node>
+<node id="ICan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Isabel Cañete</data>
+  <data key="d2">1.9642</data>
+  <data key="d3">2044.1</data>
+  <data key="d4">3268.9</data>
+  <data key="d5">Isabel Cañete</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2003</data>
+</node>
+<node id="LMor">
+  <data key="d0">0.74639</data>
+  <data key="d1">Leonardo Moreno</data>
+  <data key="d2">2.4356</data>
+  <data key="d3">2044.1</data>
+  <data key="d4">3124.9</data>
+  <data key="d5">Leonardo Moreno</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2019</data>
+</node>
+<node id="CDeniau">
+  <data key="d0">0.74639</data>
+  <data key="d1">Claude Deniau</data>
+  <data key="d2">2.082</data>
+  <data key="d3">1607.2</data>
+  <data key="d4">3340.9</data>
+  <data key="d5">Claude Deniau</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="BGhattas">
+  <data key="d0">0.74639</data>
+  <data key="d1">Badih Ghattas</data>
+  <data key="d2">2.5731</data>
+  <data key="d3">1810.8</data>
+  <data key="d4">3340.9</data>
+  <data key="d5">Badih Ghattas</data>
+  <data key="d6">Aix-Marseille</data>
+  <data key="d7">2000</data>
+</node>
+<node id="ACuev">
+  <data key="d0">0.74639</data>
+  <data key="d1">Antonio Cuevas</data>
+  <data key="d2">2.1999</data>
+  <data key="d3">1810.8</data>
+  <data key="d4">3196.9</data>
+  <data key="d5">Antonio Cuevas</data>
+  <data key="d6">1981</data>
+  <data key="d7"></data>
+</node>
+<node id="FGamboa">
+  <data key="d0">0.74639</data>
+  <data key="d1">Fabrice Gamboa</data>
+  <data key="d2">2.5534</data>
+  <data key="d3">1810.8</data>
+  <data key="d4">3124.9</data>
+  <data key="d5">Fabrice Gamboa</data>
+  <data key="d6">Paris-Sud XI</data>
+  <data key="d7">1989</data>
+</node>
+<node id="JPKahane">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-Pierre Kahane</data>
+  <data key="d2">2.6909</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">1058.9</data>
+  <data key="d5">Jean-Pierre Kahane</data>
+  <data key="d6">CNRS</data>
+  <data key="d7">1954</data>
+</node>
+<node id="JDed">
+  <data key="d0">0.74639</data>
+  <data key="d1">Jean-Pierre Dedieu</data>
+  <data key="d2">2.6124</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1166.9</data>
+  <data key="d5">Jean-Pierre Dedieu</data>
+  <data key="d6">1975</data>
+  <data key="d7"></data>
+</node>
+<node id="FCarrasco">
+  <data key="d0">0.74639</data>
+  <data key="d1">Federico Carrasco</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">2760.4</data>
+  <data key="d4">1202.9</data>
+  <data key="d5">Federico Carrasco</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2025</data>
+</node>
+<node id="AKolmo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andrei Kolmogorov</data>
+  <data key="d2">2.5927</data>
+  <data key="d3">1548.0</data>
+  <data key="d4">806.87</data>
+  <data key="d5">Andrei Kolmogorov</data>
+  <data key="d6">Lomonosov</data>
+  <data key="d7">1925</data>
+</node>
+<node id="AShiry">
+  <data key="d0">0.74639</data>
+  <data key="d1">Albert Shiryaev</data>
+  <data key="d2">2.1606</data>
+  <data key="d3">1820.9</data>
+  <data key="d4">806.87</data>
+  <data key="d5">Albert Shiryaev</data>
+  <data key="d6">Steklov</data>
+  <data key="d7">1961</data>
+</node>
+<node id="FLedra">
+  <data key="d0">0.74639</data>
+  <data key="d1">François Ledrappier</data>
+  <data key="d2">2.6909</data>
+  <data key="d3">2131.2</data>
+  <data key="d4">1492.9</data>
+  <data key="d5">François Ledrappier</data>
+  <data key="d6">Paris VI</data>
+  <data key="d7">1975</data>
+</node>
+<node id="FRod">
+  <data key="d0">0.74639</data>
+  <data key="d1">Fernando Rodriguez-Villegas</data>
+  <data key="d2">3.732</data>
+  <data key="d3">3351.1</data>
+  <data key="d4">212.87</data>
+  <data key="d5">Fernando Rodriguez-Villegas</data>
+  <data key="d6">Ohio State</data>
+  <data key="d7">1990</data>
+</node>
+<node id="GTor">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gonzalo Tornaría</data>
+  <data key="d2">2.8677</data>
+  <data key="d3">3624.7</data>
+  <data key="d4">212.87</data>
+  <data key="d5">Gonzalo Tornaría</data>
+  <data key="d6">Texas at Austin</data>
+  <data key="d7">2005</data>
+</node>
+<node id="GRam">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gustavo Rama</data>
+  <data key="d2">2.1213</data>
+  <data key="d3">3840.3</data>
+  <data key="d4">212.87</data>
+  <data key="d5">Gustavo Rama</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2020</data>
+</node>
+<node id="RExel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ruy Exel</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">846.28</data>
+  <data key="d4">2072.9</data>
+  <data key="d5">Ruy Exel</data>
+  <data key="d6">Berkeley</data>
+  <data key="d7">1985</data>
+</node>
+<node id="FAbadie">
+  <data key="d0">0.74639</data>
+  <data key="d1">Fernando Abadie</data>
+  <data key="d2">2.3767</data>
+  <data key="d3">1088.8</data>
+  <data key="d4">2072.9</data>
+  <data key="d5">Fernando Abadie</data>
+  <data key="d6">USP</data>
+  <data key="d7">1999</data>
+</node>
+<node id="DFerraro">
+  <data key="d0">0.74639</data>
+  <data key="d1">Damián Ferraro</data>
+  <data key="d2">2.1999</data>
+  <data key="d3">1289.5</data>
+  <data key="d4">2108.9</data>
+  <data key="d5">Damián Ferraro</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2016</data>
+</node>
+<node id="ABuss">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alcides Buss</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">1088.8</data>
+  <data key="d4">2144.9</data>
+  <data key="d5">Alcides Buss</data>
+  <data key="d6">Münster</data>
+  <data key="d7">2007</data>
+</node>
+<node id="BAbadie">
+  <data key="d0">0.74639</data>
+  <data key="d1">Beatriz Abadie</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">846.28</data>
+  <data key="d4">2000.9</data>
+  <data key="d5">Beatriz Abadie</data>
+  <data key="d6">Berkeley</data>
+  <data key="d7">1992</data>
+</node>
+<node id="MAristide">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marc Aristide Rieffel</data>
+  <data key="d2">2.7106</data>
+  <data key="d3">591.79</data>
+  <data key="d4">2000.9</data>
+  <data key="d5">Marc Aristide Rieffel</data>
+  <data key="d6">Columbia</data>
+  <data key="d7">1963</data>
+</node>
+<node id="CPhillips">
+  <data key="d0">0.74639</data>
+  <data key="d1">Christopher Phillips</data>
+  <data key="d2">3.3588</data>
+  <data key="d3">846.28</data>
+  <data key="d4">1928.9</data>
+  <data key="d5">Christopher Phillips</data>
+  <data key="d6">California, Berkeley</data>
+  <data key="d7">1984</data>
+</node>
+<node id="EGardella">
+  <data key="d0">0.74639</data>
+  <data key="d1">Eusebio Gardella</data>
+  <data key="d2">2.357</data>
+  <data key="d3">1088.8</data>
+  <data key="d4">1928.9</data>
+  <data key="d5">Eusebio Gardella</data>
+  <data key="d6">Oregon</data>
+  <data key="d7">2015</data>
+</node>
+<node id="VDlab">
+  <data key="d0">0.74639</data>
+  <data key="d1">Vlastimil B. Dlab</data>
+  <data key="d2">2.632</data>
+  <data key="d3">848.08</data>
+  <data key="d4">3280.9</data>
+  <data key="d5">Vlastimil B. Dlab</data>
+  <data key="d6">Charles Univ.</data>
+  <data key="d7">1959</data>
+</node>
+<node id="IAssem">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ibrahim Assem</data>
+  <data key="d2">2.1213</data>
+  <data key="d3">1055.2</data>
+  <data key="d4">3280.9</data>
+  <data key="d5">Ibrahim Assem</data>
+  <data key="d6">Carleton</data>
+  <data key="d7">1981</data>
+</node>
+<node id="VGubitosi">
+  <data key="d0">0.74639</data>
+  <data key="d1">Viviana Gubitosi</data>
+  <data key="d2">3.5159</data>
+  <data key="d3">1294.1</data>
+  <data key="d4">3280.9</data>
+  <data key="d5">Viviana Gubitosi</data>
+  <data key="d6">Sherbrooke, Canadá</data>
+  <data key="d7">2013</data>
+</node>
+<node id="RParra">
+  <data key="d0">0.74639</data>
+  <data key="d1">Rafael Parra</data>
+  <data key="d2">2.3177</data>
+  <data key="d3">654.66</data>
+  <data key="d4">2832.9</data>
+  <data key="d5">Rafael Parra</data>
+  <data key="d6">Los Andes</data>
+  <data key="d7">2012</data>
+</node>
+<node id="JRada">
+  <data key="d0">0.74639</data>
+  <data key="d1">Juan Rada</data>
+  <data key="d2">1.866</data>
+  <data key="d3">347.83</data>
+  <data key="d4">2832.9</data>
+  <data key="d5">Juan Rada</data>
+  <data key="d6">Murcia</data>
+  <data key="d7">1996</data>
+</node>
+<node id="DBravo">
+  <data key="d0">0.74639</data>
+  <data key="d1">Diego Bravo</data>
+  <data key="d2">2.3177</data>
+  <data key="d3">654.66</data>
+  <data key="d4">2760.9</data>
+  <data key="d5">Diego Bravo</data>
+  <data key="d6">Los Andes</data>
+  <data key="d7">2011</data>
+</node>
+<node id="FCubria">
+  <data key="d0">0.74639</data>
+  <data key="d1">Florencia Cubría</data>
+  <data key="d2">2.2785</data>
+  <data key="d3">957.24</data>
+  <data key="d4">2796.9</data>
+  <data key="d5">Florencia Cubría</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2023</data>
+</node>
+<node id="EEnochs">
+  <data key="d0">0.74639</data>
+  <data key="d1">Edgar Enochs</data>
+  <data key="d2">1.9838</data>
+  <data key="d3">347.83</data>
+  <data key="d4">2760.9</data>
+  <data key="d5">Edgar Enochs</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="VTrevisan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Vilmar Trevisan</data>
+  <data key="d2">2.2981</data>
+  <data key="d3">654.66</data>
+  <data key="d4">2904.9</data>
+  <data key="d5">Vilmar Trevisan</data>
+  <data key="d6">Kent State</data>
+  <data key="d7">1992</data>
+</node>
+<node id="SWang">
+  <data key="d0">0.74639</data>
+  <data key="d1">Shyh-Horng Wang</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">347.83</data>
+  <data key="d4">2976.9</data>
+  <data key="d5">Shyh-Horng Wang</data>
+  <data key="d6">MIT</data>
+  <data key="d7">1971</data>
+</node>
+<node id="OVilla">
+  <data key="d0">0.74639</data>
+  <data key="d1">Orlando Villamayor</data>
+  <data key="d2">2.6124</data>
+  <data key="d3">857.6</data>
+  <data key="d4">1428.9</data>
+  <data key="d5">Orlando Villamayor</data>
+  <data key="d6">Córdoba</data>
+  <data key="d7">1946</data>
+</node>
+<node id="ASol">
+  <data key="d0">0.74639</data>
+  <data key="d1">Andrea Solotar</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">1080.3</data>
+  <data key="d4">1464.9</data>
+  <data key="d5">Andrea Solotar</data>
+  <data key="d6">UBA</data>
+  <data key="d7">1988</data>
+</node>
+<node id="GCort">
+  <data key="d0">0.74639</data>
+  <data key="d1">Guillermo Cortiñas</data>
+  <data key="d2">2.5731</data>
+  <data key="d3">1080.3</data>
+  <data key="d4">1392.9</data>
+  <data key="d5">Guillermo Cortiñas</data>
+  <data key="d6">UBA</data>
+  <data key="d7">1989</data>
+</node>
+<node id="FCoel">
+  <data key="d0">0.74639</data>
+  <data key="d1">Flavio Coelho</data>
+  <data key="d2">2.141</data>
+  <data key="d3">857.6</data>
+  <data key="d4">1644.9</data>
+  <data key="d5">Flavio Coelho</data>
+  <data key="d6">Liverpool</data>
+  <data key="d7">1990</data>
+</node>
+<node id="MLan">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marcelo Lanzilotta</data>
+  <data key="d2">2.5142</data>
+  <data key="d3">1080.3</data>
+  <data key="d4">1572.9</data>
+  <data key="d5">Marcelo Lanzilotta</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2000</data>
+</node>
+<node id="STrep">
+  <data key="d0">0.74639</data>
+  <data key="d1">Sonia Trepode</data>
+  <data key="d2">2.0428</data>
+  <data key="d3">1080.3</data>
+  <data key="d4">1644.9</data>
+  <data key="d5">Sonia Trepode</data>
+  <data key="d6">USP</data>
+  <data key="d7">1996</data>
+</node>
+<node id="AJones">
+  <data key="d0">0.74639</data>
+  <data key="d1">Alfredo Jones</data>
+  <data key="d2">1.9445</data>
+  <data key="d3">857.6</data>
+  <data key="d4">1572.9</data>
+  <data key="d5">Alfredo Jones</data>
+  <data key="d6">Illinois</data>
+  <data key="d7">1962</data>
+</node>
+<node id="IRein">
+  <data key="d0">0.74639</data>
+  <data key="d1">Irving Reiner</data>
+  <data key="d2">1.9053</data>
+  <data key="d3">658.96</data>
+  <data key="d4">1572.9</data>
+  <data key="d5">Irving Reiner</data>
+  <data key="d6">Cornell</data>
+  <data key="d7">1947</data>
+</node>
+<node id="GMata">
+  <data key="d0">0.74639</data>
+  <data key="d1">Gustavo Mata</data>
+  <data key="d2">2.0035</data>
+  <data key="d3">1288.8</data>
+  <data key="d4">1644.9</data>
+  <data key="d5">Gustavo Mata</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2015</data>
+</node>
+<node id="JVivero">
+  <data key="d0">0.74639</data>
+  <data key="d1">José Vivero</data>
+  <data key="d2">1.8463</data>
+  <data key="d3">1288.8</data>
+  <data key="d4">1500.9</data>
+  <data key="d5">José Vivero</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2022</data>
+</node>
+<node id="DArt">
+  <data key="d0">0.74639</data>
+  <data key="d1">Dalia Artenstein</data>
+  <data key="d2">2.2195</data>
+  <data key="d3">1288.8</data>
+  <data key="d4">1572.9</data>
+  <data key="d5">Dalia Artenstein</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2015</data>
+</node>
+<node id="Jcop">
+  <data key="d0">0.74639</data>
+  <data key="d1">Javier Cóppola</data>
+  <data key="d2">2.1017</data>
+  <data key="d3">1288.8</data>
+  <data key="d4">1428.9</data>
+  <data key="d5">Javier Cóppola</data>
+  <data key="d6">Udelar</data>
+  <data key="d7">2023</data>
+</node>
+<node id="EEllis">
+  <data key="d0">0.74639</data>
+  <data key="d1">Eugenia Ellis</data>
+  <data key="d2">2.1999</data>
+  <data key="d3">1288.8</data>
+  <data key="d4">1356.9</data>
+  <data key="d5">Eugenia Ellis</data>
+  <data key="d6">Valladolid</data>
+  <data key="d7">2011</data>
+</node>
+<node id="MPerez">
+  <data key="d0">0.74639</data>
+  <data key="d1">Marco Pérez</data>
+  <data key="d2">3.3391</data>
+  <data key="d3">3744.5</data>
+  <data key="d4">2448.9</data>
+  <data key="d5">Marco Pérez</data>
+  <data key="d6">Québec à Montréal</data>
+  <data key="d7">2014</data>
+</node>
+<node id="AJoyal">
+  <data key="d0">0.74639</data>
+  <data key="d1">André Joyal</data>
+  <data key="d2">1.7285</data>
+  <data key="d3">3526.1</data>
+  <data key="d4">2448.9</data>
+  <data key="d5">André Joyal</data>
+  <data key="d6">SD</data>
+  <data key="d7"></data>
+</node>
+<node id="AGon">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ana González</data>
+  <data key="d2">3.0641</data>
+  <data key="d3">3754.4</data>
+  <data key="d4">2604.9</data>
+  <data key="d5">Ana González</data>
+  <data key="d6">CINVESTAV-IPN</data>
+  <data key="d7">2010</data>
+</node>
+<node id="ELara">
+  <data key="d0">0.74639</data>
+  <data key="d1">Ernesto Lara</data>
+  <data key="d2">2.0624</data>
+  <data key="d3">3533.8</data>
+  <data key="d4">2604.9</data>
+  <data key="d5">Ernesto Lara</data>
+  <data key="d6">Stanford</data>
+  <data key="d7">1997</data>
+</node>
+<node id="OMalherbe">
+  <data key="d0">0.74639</data>
+  <data key="d1">Octavio Malherbe</data>
+  <data key="d2">2.4356</data>
+  <data key="d3">3777.0</data>
+  <data key="d4">1392.9</data>
+  <data key="d5">Octavio Malherbe</data>
+  <data key="d6">Ottawa</data>
+  <data key="d7">2010</data>
+</node>
+<node id="PSelinger">
+  <data key="d0">0.74639</data>
+  <data key="d1">Peter Selinger</data>
+  <data key="d2">2.632</data>
+  <data key="d3">3558.6</data>
+  <data key="d4">1428.9</data>
+  <data key="d5">Peter Selinger</data>
+  <data key="d6">Pennsylvania</data>
+  <data key="d7">1997</data>
+</node>
+<node id="PScott">
+  <data key="d0">0.74639</data>
+  <data key="d1">Philip Scott</data>
+  <data key="d2">2.1213</data>
+  <data key="d3">3558.6</data>
+  <data key="d4">1356.9</data>
+  <data key="d5">Philip Scott</data>
+  <data key="d6">Waterloo</data>
+  <data key="d7">1976</data>
+</node>
+<node id="MPereira">
+  <data key="d0">0.74639</data>
+  <data key="d1">Mariana Pereira</data>
+  <data key="d2">2.4356</data>
+  <data key="d3">3777.0</data>
+  <data key="d4">2916.9</data>
+  <data key="d5">Mariana Pereira</data>
+  <data key="d6">Texas A&amp;M</data>
+  <data key="d7">2006</data>
+</node>
+<node id="SWithe">
+  <data key="d0">0.74639</data>
+  <data key="d1">Sarah Witherspoon</data>
+  <data key="d2">2.6124</data>
+  <data key="d3">3559.3</data>
+  <data key="d4">2916.9</data>
+  <data key="d5">Sarah Witherspoon</data>
+  <data key="d6">Chicago</data>
+  <data key="d7">1994</data>
+</node>
+<node id="\n">
+  <data key="d1"></data>
+  <data key="d5"></data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+</node>
+<edge source="SD" target="RMuniz" id="e0">
+  <data key="d9">"e,1167.8,368.87 1132.2,368.87 1139.7,368.87 1148.3,368.87 1157.5,368.87"</data>
+</edge>
+<edge source="JFernandez" target="LPezzo" id="e1">
+  <data key="d9">"e,1339.3,160.87 1303.5,160.87 1311.9,160.87 1320.6,160.87 1329.2,160.87"</data>
+</edge>
+<edge source="NWolanski" target="JFernandez" id="e2">
+  <data key="d9">"e,1133.5,160.87 1097.8,160.87 1106.3,160.87 1114.9,160.87 1123.5,160.87"</data>
+</edge>
+<edge source="SVaradhan" target="IArmendariz" id="e3">
+  <data key="d9">"e,633.54,388.87 597.69,388.87 606.4,388.87 615.03,388.87 623.43,388.87"</data>
+</edge>
+<edge source="IArmendariz" target="NFrevenza" id="e4">
+  <data key="d9">"e,844.5,366.02 787.92,376.13 802.97,373.44 818.98,370.58 834.44,367.82"</data>
+</edge>
+<edge source="PFerrari" target="NFrevenza" id="e5">
+  <data key="d9">"e,844.5,339.72 787.92,329.61 802.97,332.3 818.98,335.16 834.44,337.92"</data>
+</edge>
+<edge source="EAndjel" target="PFerrari" id="e6">
+  <data key="d9">"e,633.49,316.87 550.18,316.87 574.1,316.87 599.73,316.87 623.45,316.87"</data>
+</edge>
+<edge source="SCosta" target="CQureshi" id="e7">
+  <data key="d9">"e,3710.4,1613.8 3654.9,1623.9 3669.7,1621.2 3685.4,1618.4 3700.6,1615.6"</data>
+</edge>
+<edge source="DPanario" target="CQureshi" id="e8">
+  <data key="d9">"e,3710.4,1587.9 3649.3,1576.8 3665.7,1579.8 3683.4,1583 3700.5,1586.1"</data>
+</edge>
+<edge source="OZariski" target="DMumford" id="e9">
+  <data key="d9">"e,1848.7,212.87 1812.9,212.87 1821.3,212.87 1830,212.87 1838.6,212.87"</data>
+</edge>
+<edge source="DMumford" target="MStillman" id="e10">
+  <data key="d9">"e,2040.2,212.87 2004.5,212.87 2012.9,212.87 2021.5,212.87 2030.1,212.87"</data>
+</edge>
+<edge source="MStillman" target="MVelasco" id="e11">
+  <data key="d9">"e,2240.4,212.87 2204.5,212.87 2213,212.87 2221.7,212.87 2230.3,212.87"</data>
+</edge>
+<edge source="ATuring" target="RGandy" id="e12">
+  <data key="d9">"e,514,1772.9 478.28,1772.9 486.7,1772.9 495.34,1772.9 503.94,1772.9"</data>
+</edge>
+<edge source="RGandy" target="MHyland" id="e13">
+  <data key="d9">"e,715.37,1772.9 679.71,1772.9 688.16,1772.9 696.74,1772.9 705.18,1772.9"</data>
+</edge>
+<edge source="MHyland" target="ILopez" id="e14">
+  <data key="d9">"e,905.47,1788.6 854.48,1781.8 867.53,1783.6 881.49,1785.4 895.38,1787.3"</data>
+</edge>
+<edge source="MHyland" target="CVasilak" id="e15">
+  <data key="d9">"e,1140.1,1766.3 856.82,1766.9 869.29,1766.1 882.18,1765.3 894.3,1764.9 986,1761.4 1009,1762.4 1100.8,1764.9 1110.2,1765.1 1120,1765.5 \
+1129.8,1765.9"</data>
+</edge>
+<edge source="ILopez" target="CVasilak" id="e16">
+  <data key="d9">"e,1147.6,1784.4 1092.8,1790.4 1107.3,1788.8 1122.4,1787.2 1137.3,1785.5"</data>
+</edge>
+<edge source="JMarti" target="ECanale" id="e17">
+  <data key="d9">"e,2699,3332.9 2663.3,3332.9 2671.8,3332.9 2680.4,3332.9 2689,3332.9"</data>
+</edge>
+<edge source="ELopez" target="TAcosta" id="e18">
+  <data key="d9">"e,3751.2,628.87 3715.3,628.87 3723.9,628.87 3732.6,628.87 3741,628.87"</data>
+</edge>
+<edge source="WTucker" target="ATayler" id="e19">
+  <data key="d9">"e,3708.8,835.22 3638.4,845.92 3657.5,843.02 3678.4,839.84 3698.9,836.74"</data>
+</edge>
+<edge source="AHammer" target="ATayler" id="e20">
+  <data key="d9">"e,3709,806.54 3646.2,797.01 3663.1,799.57 3681.1,802.3 3698.7,804.98"</data>
+</edge>
+<edge source="AHaef" target="TVust" id="e21">
+  <data key="d9">"e,799.13,792.56 744.81,781.97 759.22,784.78 774.51,787.76 789.13,790.61"</data>
+</edge>
+<edge source="AHaef" target="CWeber" id="e22">
+  <data key="d9">"e,798.51,745.3 744.81,755.77 759.05,752.99 774.16,750.05 788.62,747.23"</data>
+</edge>
+<edge source="TVust" target="IPan" id="e23">
+  <data key="d9">"e,980.52,781.48 927.09,792.23 941.17,789.4 956.21,786.37 970.64,783.47"</data>
+</edge>
+<edge source="CWeber" target="IPan" id="e24">
+  <data key="d9">"e,980.25,756.2 927.6,745.61 941.35,748.38 956.01,751.33 970.11,754.16"</data>
+</edge>
+<edge source="IPan" target="RBalt" id="e25">
+  <data key="d9">"e,1152.1,768.87 1116.6,768.87 1124.8,768.87 1133.3,768.87 1142,768.87"</data>
+</edge>
+<edge source="MAnderson" target="MReiris" id="e26">
+  <data key="d9">"e,699.73,560.87 664.3,560.87 672.68,560.87 681.19,560.87 689.72,560.87"</data>
+</edge>
+<edge source="MReiris" target="JPeraza" id="e27">
+  <data key="d9">"e,1048.8,588.14 958.02,576.14 985.28,579.74 1013.7,583.5 1038.7,586.8"</data>
+</edge>
+<edge source="MReiris" target="IBusta" id="e28">
+  <data key="d9">"e,1028.1,536.34 958.02,545.6 978.01,542.96 998.62,540.23 1018.1,537.67"</data>
+</edge>
+<edge source="MBrion" target="ARittatore" id="e29">
+  <data key="d9">"e,1068.9,1200.9 1032.9,1200.9 1041.5,1200.9 1050.2,1200.9 1058.8,1200.9"</data>
+</edge>
+<edge source="JDixmier" target="MBrion" id="e30">
+  <data key="d9">"e,689.23,1200.9 653.43,1200.9 661.72,1200.9 670.35,1200.9 679.18,1200.9"</data>
+</edge>
+<edge source="MPera" target="FTal" id="e31">
+  <data key="d9">"e,2678.4,2995.9 2553,2995.9 2590.5,2995.9 2632,2995.9 2667.9,2995.9"</data>
+</edge>
+<edge source="FTal" target="AGarcia" id="e32">
+  <data key="d9">"e,3013.6,2937.1 2827.7,2980.4 2879.7,2968.3 2951.8,2951.5 3003.8,2939.4"</data>
+</edge>
+<edge source="THenrik" target="APasseggi" id="e33">
+  <data key="d9">"e,2638.6,2923.9 2564.2,2923.9 2585.2,2923.9 2607.2,2923.9 2628.6,2923.9"</data>
+</edge>
+<edge source="APasseggi" target="AGarcia" id="e34">
+  <data key="d9">"e,3005,2923.9 2882.3,2923.9 2920.2,2923.9 2960.9,2923.9 2994.8,2923.9"</data>
+</edge>
+<edge source="ARov" target="AGarcia" id="e35">
+  <data key="d9">"e,3013.6,2910.6 2822.9,2866.2 2875.2,2878.4 2950.1,2895.8 3003.8,2908.3"</data>
+</edge>
+<edge source="ARov" target="JIgle" id="e36">
+  <data key="d9">"e,3000.5,2851.9 2834.3,2851.9 2881.2,2851.9 2942.2,2851.9 2990.4,2851.9"</data>
+</edge>
+<edge source="JMassera" target="IME" id="e37">
+  <data key="d9">"e,3727.8,1036.3 3672.3,1048.7 3687.9,1045.2 3703.9,1041.6 3717.9,1038.5"</data>
+</edge>
+<edge source="IME" target="IMERL" id="e38">
+  <data key="d9">"e,3833.2,1028.9 3797.5,1028.9 3805.6,1028.9 3814.5,1028.9 3823.2,1028.9"</data>
+</edge>
+<edge source="RLaguardia" target="IME" id="e39">
+  <data key="d9">"e,3727.6,1021.4 3668,1008.1 3684.8,1011.9 3702.2,1015.8 3717.4,1019.2"</data>
+</edge>
+<edge source="RNevan" target="JSchaffer" id="e40">
+  <data key="d9">"e,3769.5,1772.9 3733.7,1772.9 3742.4,1772.9 3751,1772.9 3759.4,1772.9"</data>
+</edge>
+<edge source="MMart" target="PLessa" id="e41">
+  <data key="d9">"e,2384.2,1506.2 2199.3,1549.2 2251.2,1537.2 2322.6,1520.5 2374.5,1508.4"</data>
+</edge>
+<edge source="GRaggio" target="GGuerber" id="e42">
+  <data key="d9">"e,3712.4,1200.9 3676.9,1200.9 3685.2,1200.9 3693.7,1200.9 3702.3,1200.9"</data>
+</edge>
+<edge source="EFaria" target="APortela" id="e43">
+  <data key="d9">"e,3700.4,2760.9 3664.9,2760.9 3673.3,2760.9 3681.8,2760.9 3690.3,2760.9"</data>
+</edge>
+<edge source="AFathi" target="EMaderna" id="e44">
+  <data key="d9">"e,3894.4,3384.9 3858.7,3384.9 3866.9,3384.9 3875.5,3384.9 3884.2,3384.9"</data>
+</edge>
+<edge source="PHaiss" target="MCarrasco" id="e45">
+  <data key="d9">"e,2731.6,232.87 2695.8,232.87 2704.3,232.87 2712.9,232.87 2721.5,232.87"</data>
+</edge>
+<edge source="MCarrasco" target="ESequeira" id="e46">
+  <data key="d9">"e,2964.2,209.98 2905.1,219.72 2921,217.09 2937.9,214.32 2954.1,211.64"</data>
+</edge>
+<edge source="MBourdon" target="ESequeira" id="e47">
+  <data key="d9">"e,2964.3,183.78 2904.8,173.97 2920.8,176.62 2937.8,179.42 2954.2,182.12"</data>
+</edge>
+<edge source="GAcosta" target="JBortha" id="e48">
+  <data key="d9">"e,2179.5,56.87 2143.6,56.87 2151.9,56.87 2160.5,56.87 2169.3,56.87"</data>
+</edge>
+<edge source="RDuran" target="GAcosta" id="e49">
+  <data key="d9">"e,1995,56.87 1959.2,56.87 1967.7,56.87 1976.3,56.87 1984.9,56.87"</data>
+</edge>
+<edge source="JVazquez" target="OGil" id="e50">
+  <data key="d9">"e,3556.6,56.87 3520.9,56.87 3529.4,56.87 3538,56.87 3546.6,56.87"</data>
+</edge>
+<edge source="MCotlar" target="RArocena" id="e51">
+  <data key="d9">"e,3657.8,1928.9 3622.1,1928.9 3630.3,1928.9 3638.8,1928.9 3647.6,1928.9"</data>
+</edge>
+<edge source="RCominetti" target="APiazza" id="e52">
+  <data key="d9">"e,3309.8,3211.3 3238.5,3221.1 3258,3218.4 3279.2,3215.5 3299.7,3212.7"</data>
+</edge>
+<edge source="APiazza" target="PLorenzo" id="e53">
+  <data key="d9">"e,3591.6,3174.1 3522.8,3183.1 3542,3180.6 3562.1,3177.9 3581.5,3175.4"</data>
+</edge>
+<edge source="PCartigny" target="APiazza" id="e54">
+  <data key="d9">"e,3309.6,3182.4 3243.2,3173.3 3261.3,3175.8 3280.6,3178.4 3299.5,3181"</data>
+</edge>
+<edge source="PGajardo" target="PLorenzo" id="e55">
+  <data key="d9">"e,3591.6,3147.6 3484.9,3133.8 3514,3137.6 3548.8,3142.1 3581.5,3146.3"</data>
+</edge>
+<edge source="JDieudonne" target="AGroth" id="e56">
+  <data key="d9">"e,208.31,3048.9 168.33,3048.9 177.92,3048.9 187.93,3048.9 198.1,3048.9"</data>
+</edge>
+<edge source="AGroth" target="JLVerdier" id="e57">
+  <data key="d9">"e,563.41,3048.9 487.42,3048.9 509.59,3048.9 532.14,3048.9 553.2,3048.9"</data>
+</edge>
+<edge source="AGroth" target="PBermolenthelot" id="e58">
+  <data key="d9">"e,567.83,3100.6 436.59,3069.6 474.61,3078.6 519.23,3089.1 558.08,3098.3"</data>
+</edge>
+<edge source="JLVerdier" target="ATreibich" id="e59">
+  <data key="d9">"e,888.02,3104.5 726.13,3065.8 771.73,3076.7 831.14,3090.9 878.18,3102.2"</data>
+</edge>
+<edge source="JLVerdier" target="GGSprinberg" id="e60">
+  <data key="d9">"e,821.97,3048.9 746.25,3048.9 766.93,3048.9 789.42,3048.9 811.74,3048.9"</data>
+</edge>
+<edge source="PBermolenthelot" target="ATreibich" id="e61">
+  <data key="d9">"e,869.99,3120.9 786.18,3120.9 810.89,3120.9 836.32,3120.9 859.74,3120.9"</data>
+</edge>
+<edge source="ATreibich" target="PFledrich" id="e62">
+  <data key="d9">"e,1174.5,3120.9 1044.2,3120.9 1082.1,3120.9 1126.5,3120.9 1164.1,3120.9"</data>
+</edge>
+<edge source="GGSprinberg" target="APereyra" id="e63">
+  <data key="d9">"e,1128.1,3048.9 1092.7,3048.9 1101.1,3048.9 1109.5,3048.9 1117.9,3048.9"</data>
+</edge>
+<edge source="LSchwartz" target="AGroth" id="e64">
+  <data key="d9">"e,254.87,3028.8 122.49,2965.4 145.97,2980.8 178.03,3000.1 208.53,3012.9 220.21,3017.7 232.73,3022.1 245.28,3026"</data>
+</edge>
+<edge source="LSchwartz" target="BBeauzamy" id="e65">
+  <data key="d9">"e,263.35,2916.4 165.5,2930 193.14,2926.2 224.5,2921.8 253.29,2917.8"</data>
+</edge>
+<edge source="BBeauzamy" target="VTrevisan" id="e66">
+  <data key="d9">"e,571.74,2904.9 441.53,2904.9 479.64,2904.9 523.66,2904.9 561.69,2904.9"</data>
+</edge>
+<edge source="GHoch" target="WFerrer" id="e67">
+  <data key="d9">"e,881.18,2976.9 751.59,2976.9 789.91,2976.9 833.67,2976.9 870.87,2976.9"</data>
+</edge>
+<edge source="WFerrer" target="APereyra" id="e68">
+  <data key="d9">"e,1167.5,3029 1019.6,2992.1 1059.8,3002.1 1112.9,3015.4 1157.8,3026.5"</data>
+</edge>
+<edge source="WFerrer" target="MHaim" id="e69">
+  <data key="d9">"e,1175.9,2976.9 1033.1,2976.9 1073.8,2976.9 1124.1,2976.9 1165.8,2976.9"</data>
+</edge>
+<edge source="WFerrer" target="AAbella" id="e70">
+  <data key="d9">"e,1188.2,2919.6 1019.6,2961.6 1066.1,2950 1130.1,2934.1 1178.5,2922.1"</data>
+</edge>
+<edge source="NAndru" target="AAbella" id="e71">
+  <data key="d9">"e,1176.7,2904.9 1072.1,2904.9 1103.7,2904.9 1137.3,2904.9 1166.5,2904.9"</data>
+</edge>
+<edge source="ECabana" target="JKalemke" id="e72">
+  <data key="d9">"e,3688,2154.8 3637.4,2153.6 3650.4,2153.9 3664.1,2154.2 3677.6,2154.6"</data>
+</edge>
+<edge source="ECabana" target="MScavino" id="e73">
+  <data key="d9">"e,3719.4,2102.6 3609.2,2137.7 3638.4,2128.4 3676.9,2116.2 3709.5,2105.8"</data>
+</edge>
+<edge source="EMor" target="ASosa" id="e74">
+  <data key="d9">"e,2385.6,900.64 2182.7,828.65 2218.6,843.75 2268.3,863.77 2312.9,878.87 2333.2,885.73 2355.5,892.32 2375.8,897.95"</data>
+</edge>
+<edge source="EMor" target="FDal" id="e75">
+  <data key="d9">"e,2363.9,976.24 2191.5,826.25 2220.1,837.92 2253.2,855.19 2276.9,878.87 2302.2,904.15 2285.3,928.09 2312.9,950.87 2324.8,960.73 \
+2339.3,967.89 2354.1,973.09"</data>
+</edge>
+<edge source="EMor" target="FCro" id="e76">
+  <data key="d9">"e,2371.4,834.72 2212.2,816.19 2258,821.52 2315.3,828.2 2361.2,833.54"</data>
+</edge>
+<edge source="EMor" target="FOliu" id="e77">
+  <data key="d9">"e,2384,713.54 2182.7,785.09 2218.6,769.99 2268.3,749.97 2312.9,734.87 2332.6,728.2 2354.3,721.78 2374.1,716.26"</data>
+</edge>
+<edge source="EMor" target="FDOlivera" id="e78">
+  <data key="d9">"e,2352.7,781.19 2212.2,797.55 2252.1,792.91 2300.6,787.26 2342.7,782.36"</data>
+</edge>
+<edge source="EMor" target="LAspi" id="e79">
+  <data key="d9">"e,2376.3,634.26 2191.5,787.49 2220.1,775.82 2253.2,758.55 2276.9,734.87 2302.2,709.6 2285.3,685.65 2312.9,662.87 2328.1,650.32 2347.4,\
+642.13 2366.4,636.8"</data>
+</edge>
+<edge source="JBarbajan" target="ASosa" id="e80">
+  <data key="d9">"e,2375.6,914.87 2198.5,914.87 2247.6,914.87 2314.5,914.87 2365.6,914.87"</data>
+</edge>
+<edge source="MWsche" target="JLeon" id="e81">
+  <data key="d9">"e,2355.5,1110.9 2203.5,1075.5 2245.7,1085.3 2299.7,1097.9 2345.6,1108.6"</data>
+</edge>
+<edge source="MWsche" target="FDal" id="e82">
+  <data key="d9">"e,2373.5,1002.7 2203.5,1042.3 2251.4,1031.1 2314.4,1016.4 2363.6,1005"</data>
+</edge>
+<edge source="MWsche" target="GPerera" id="e83">
+  <data key="d9">"e,2362.9,1058.9 2223.3,1058.9 2264.2,1058.9 2312.2,1058.9 2352.8,1058.9"</data>
+</edge>
+<edge source="MWsche" target="DArmentano" id="e84">
+  <data key="d9">"e,2367.7,1189.2 2185.8,1080.5 2214.1,1093.2 2248.8,1110.6 2276.9,1130.9 2295.3,1144.1 2293.4,1155.4 2312.9,1166.9 2326.7,1175 2342.4,\
+1181.3 2358,1186.3"</data>
+</edge>
+<edge source="DArmentano" target="FCarrasco" id="e85">
+  <data key="d9">"e,2669.7,1202.9 2528.9,1202.9 2569.1,1202.9 2617.5,1202.9 2659.4,1202.9"</data>
+</edge>
+<edge source="SChrist" target="FOliu" id="e86">
+  <data key="d9">"e,2373,698.87 2277.3,698.87 2306.8,698.87 2336.7,698.87 2362.8,698.87"</data>
+</edge>
+<edge source="AIrle" target="SChrist" id="e87">
+  <data key="d9">"e,1985.3,698.87 1894.6,698.87 1918.8,698.87 1946.9,698.87 1975,698.87"</data>
+</edge>
+<edge source="SSmale" target="MShub" id="e88">
+  <data key="d9">"e,2069.5,1399.6 1845.7,1828.2 1875.2,1795.1 1924.4,1734.2 1949.6,1672.9 1986.6,1582.8 1928.1,1535.4 1985.6,1456.9 2003.8,1432 2032.7,\
+1414.9 2060,1403.5"</data>
+</edge>
+<edge source="SSmale" target="JPalis" id="e89">
+  <data key="d9">"e,2060.6,2017.1 1845.4,1879.5 1875.1,1910.4 1929.3,1961.8 1985.6,1990.9 2005.7,2001.3 2028.9,2009 2050.7,2014.6"</data>
+</edge>
+<edge source="MShub" target="DArmentano" id="e90">
+  <data key="d9">"e,2388.1,1223.9 2207.7,1376.6 2231.8,1371.5 2257.3,1362.6 2276.9,1346.9 2304.8,1324.5 2288.2,1300.8 2312.9,1274.9 2331.4,1255.5 \
+2356.2,1240 2379.1,1228.3"</data>
+</edge>
+<edge source="JPalis" target="ECat" id="e91">
+  <data key="d9">"e,2354.6,2551.7 2133.7,2056 2139.7,2139.4 2169.6,2394.8 2312.9,2527.9 2322.1,2536.4 2333.3,2543 2345,2548"</data>
+</edge>
+<edge source="JPalis" target="FRHertz" id="e92">
+  <data key="d9">"e,2348.7,2330.8 2141.7,2055.7 2163.1,2112.1 2220.4,2243.3 2312.9,2311.9 2320.9,2317.8 2329.9,2322.8 2339.2,2326.9"</data>
+</edge>
+<edge source="JPalis" target="EPujals" id="e93">
+  <data key="d9">"e,2410.7,2251.4 2163,2053.5 2219.7,2098.8 2340.5,2195.3 2402.7,2245"</data>
+</edge>
+<edge source="JPalis" target="RMar" id="e94">
+  <data key="d9">"e,2357,1821 2208.7,2024.1 2233.4,2018.9 2258.9,2009.1 2276.9,1990.9 2323.3,1943.9 2266.9,1894.2 2312.9,1846.9 2322.5,1837 2334.6,\
+1829.8 2347.5,1824.5"</data>
+</edge>
+<edge source="JPalis" target="MSam" id="e95">
+  <data key="d9">"e,2378.5,1727.5 2209.2,2025 2234,2019.8 2259.6,2009.9 2276.9,1990.9 2342.5,1919 2255.5,1853.5 2312.9,1774.9 2326.9,1755.7 2348,1741.7 \
+2369.2,1731.7"</data>
+</edge>
+<edge source="JPalis" target="RMan" id="e96">
+  <data key="d9">"e,2389.1,2725.8 2132.7,2056 2135.8,2151.1 2157.6,2474.6 2312.9,2671.9 2330.1,2693.7 2355.8,2709.9 2379.7,2721.4"</data>
+</edge>
+<edge source="JPalis" target="RUres" id="e97">
+  <data key="d9">"e,2380.9,1313 2209.6,2026.1 2234.8,2021.2 2260.5,2011 2276.9,1990.9 2367.6,1879.9 2223.1,1458.6 2312.9,1346.9 2327,1329.3 2349.1,\
+1319.8 2370.9,1314.9"</data>
+</edge>
+<edge source="JPalis" target="MViana" id="e98">
+  <data key="d9">"e,2372.3,1891.2 2207,2021.6 2231.3,2016.2 2257.1,2006.9 2276.9,1990.9 2304.7,1968.3 2285.3,1941.7 2312.9,1918.9 2327.1,1907.2 2344.8,\
+1899.3 2362.5,1893.9"</data>
+</edge>
+<edge source="JPalis" target="WMelo" id="e99">
+  <data key="d9">"e,2355.8,2051.3 2206.7,2036.3 2248.4,2040.5 2301,2045.8 2345.8,2050.3"</data>
+</edge>
+<edge source="JKrivine" target="MGuille" id="e100">
+  <data key="d9">"e,3679.3,2292.9 3643.5,2292.9 3652,2292.9 3660.6,2292.9 3669.2,2292.9"</data>
+</edge>
+<edge source="HHerbelin" target="AMiquel" id="e101">
+  <data key="d9">"e,2508.8,3160.9 2473.2,3160.9 2481.7,3160.9 2490.3,3160.9 2498.7,3160.9"</data>
+</edge>
+<edge source="HHerbelin" target="EMiquey" id="e102">
+  <data key="d9">"e,2726.5,3208.3 2426.1,3181.8 2452.4,3187.8 2481.8,3193.5 2509.1,3196.9 2577.1,3205.2 2653.2,3207.8 2716.4,3208.2"</data>
+</edge>
+<edge source="HHerbelin" target="FCastro" id="e103">
+  <data key="d9">"e,2742.3,3118.8 2424.8,3139.8 2451.4,3133.7 2481.4,3127.9 2509.1,3124.9 2583,3116.8 2666.3,3116.6 2732.3,3118.5"</data>
+</edge>
+<edge source="AMiquel" target="EMiquey" id="e104">
+  <data key="d9">"e,2755.5,3188.5 2677.6,3174.6 2699,3178.4 2722.6,3182.7 2745.4,3186.7"</data>
+</edge>
+<edge source="AMiquel" target="FCastro" id="e105">
+  <data key="d9">"e,2755.7,3138.7 2681.7,3149.3 2702,3146.4 2724.2,3143.2 2745.6,3140.1"</data>
+</edge>
+<edge source="ECat" target="ACalderon" id="e106">
+  <data key="d9">"e,2638.6,2563.9 2540.7,2563.9 2568.4,2563.9 2599,2563.9 2628.3,2563.9"</data>
+</edge>
+<edge source="PGuiraud" target="ACalderon" id="e107">
+  <data key="d9">"e,2675,2544.6 2508,2506.6 2553.3,2516.9 2614.3,2530.8 2665,2542.4"</data>
+</edge>
+<edge source="FValenzuela" target="BYemini" id="e108">
+  <data key="d9">"e,2965.9,2468.1 2854.6,2481 2886.4,2477.3 2922.4,2473.1 2955.7,2469.2"</data>
+</edge>
+<edge source="RSaghin" target="BYemini" id="e109">
+  <data key="d9">"e,2966.1,2443.7 2849.6,2430.1 2882.6,2434 2920.7,2438.4 2955.8,2442.5"</data>
+</edge>
+<edge source="EPujals" target="FValenzuela" id="e110">
+  <data key="d9">"e,2661.2,2484.8 2513.9,2282 2535,2287.2 2556.5,2296.2 2571.7,2311.9 2617.7,2359.2 2560.8,2409.5 2607.7,2455.9 2619.9,2467.9 2635.2,\
+2476.2 2651.5,2481.8"</data>
+</edge>
+<edge source="EPujals" target="JCorrea" id="e111">
+  <data key="d9">"e,2700.3,2334.4 2505,2289.9 2558.2,2302 2635,2319.5 2690.2,2332.1"</data>
+</edge>
+<edge source="EPujals" target="PGuarino" id="e112">
+  <data key="d9">"e,2686.9,2275.9 2516.2,2275.9 2564.2,2275.9 2627,2275.9 2676.8,2275.9"</data>
+</edge>
+<edge source="XGom" target="MMart" id="e113">
+  <data key="d9">"e,2047.4,1564.9 1950,1564.9 1979.2,1564.9 2009.7,1564.9 2037.1,1564.9"</data>
+</edge>
+<edge source="MSam" target="RPot" id="e114">
+  <data key="d9">"e,2704.2,1638.7 2509.2,1691.2 2563.5,1676.5 2640.2,1655.9 2694.3,1641.4"</data>
+</edge>
+<edge source="MSam" target="Lpineyrua" id="e115">
+  <data key="d9">"e,3002.9,1674.1 2529.2,1703.5 2651.8,1695.9 2875,1682 2992.9,1674.7"</data>
+</edge>
+<edge source="MSam" target="ADal" id="e116">
+  <data key="d9">"e,2704.7,1524.8 2523.5,1698.2 2540.9,1692.8 2558.1,1684.8 2571.7,1672.9 2602.5,1645.8 2580.1,1618.2 2607.7,1587.9 2631.4,1561.8 \
+2665.4,1542.3 2695.2,1529"</data>
+</edge>
+<edge source="RMan" target="ARov" id="e117">
+  <data key="d9">"e,2695.2,2839.3 2486.1,2765.1 2518.8,2780.8 2565.3,2801.7 2607.7,2815.9 2632.6,2824.2 2660.5,2831.4 2685.5,2837.1"</data>
+</edge>
+<edge source="RMan" target="MPat" id="e118">
+  <data key="d9">"e,2680.9,2770.9 2511.1,2751.6 2557.8,2756.9 2620.3,2764 2670.9,2769.8"</data>
+</edge>
+<edge source="RMan" target="HEnrich" id="e119">
+  <data key="d9">"e,2695.5,2715.2 2511.1,2736.1 2562.4,2730.3 2632.8,2722.3 2685.5,2716.3"</data>
+</edge>
+<edge source="RUres" target="NGuel" id="e120">
+  <data key="d9">"e,2679,1310.9 2503.9,1310.9 2550.6,1310.9 2616,1310.9 2669,1310.9"</data>
+</edge>
+<edge source="MViana" target="AArbieto" id="e121">
+  <data key="d9">"e,2996.9,1742.7 2513.6,1876 2534.5,1870.8 2556,1861.9 2571.7,1846.9 2609.1,1810.9 2565.8,1766.4 2607.7,1735.9 2666.1,1693.4 2870.2,\
+1720.8 2986.9,1741"</data>
+</edge>
+<edge source="WMelo" target="MJose" id="e122">
+  <data key="d9">"e,2665.5,2059.9 2533.9,2059.9 2571.8,2059.9 2616.1,2059.9 2655.4,2059.9"</data>
+</edge>
+<edge source="WMelo" target="PGuarino" id="e123">
+  <data key="d9">"e,2689.7,2268.3 2459.9,2086.5 2486.2,2126.3 2541.3,2200.8 2607.7,2239.9 2629.4,2252.7 2655.5,2260.9 2679.8,2266.2"</data>
+</edge>
+<edge source="RBott" target="SSmale" id="e124">
+  <data key="d9">"e,1743,1853.9 1656.4,1853.9 1681.8,1853.9 1708.5,1853.9 1732.8,1853.9"</data>
+</edge>
+<edge source="RPot" target="Lpineyrua" id="e125">
+  <data key="d9">"e,3006.6,1660.4 2823.6,1633.1 2873.5,1640.6 2943.8,1651 2996.6,1658.9"</data>
+</edge>
+<edge source="RPot" target="Smartin" id="e126">
+  <data key="d9">"e,2969.1,1593.6 2824,1614.8 2862.8,1609.1 2913.7,1601.7 2959.2,1595.1"</data>
+</edge>
+<edge source="RPot" target="LCarv" id="e127">
+  <data key="d9">"e,3027.6,1483.5 2801.8,1602.6 2857.4,1573.3 2957.4,1520.5 3018.5,1488.3"</data>
+</edge>
+<edge source="SCrov" target="RPot" id="e128">
+  <data key="d9">"e,2693.3,1626.6 2533.5,1633.2 2580.8,1631.2 2638.2,1628.9 2683.3,1627"</data>
+</edge>
+<edge source="SCrov" target="Smartin" id="e129">
+  <data key="d9">"e,2954.9,1570.7 2510.9,1618.9 2530.6,1613.4 2552.1,1607.2 2571.7,1600.9 2587.9,1595.7 2591,1591 2607.7,1587.9 2720.4,1567 2851.1,\
+1566.6 2944.8,1570.3"</data>
+</edge>
+<edge source="CBon" target="MMart" id="e130">
+  <data key="d9">"e,2059.2,1551.1 1859.2,1462.3 1891.5,1482.6 1940.1,1510.9 1985.6,1528.9 2005.7,1536.8 2028.2,1543.4 2049.3,1548.7"</data>
+</edge>
+<edge source="CBon" target="ADal" id="e131">
+  <data key="d9">"e,2703,1487.5 1911.9,1433.5 2053.2,1428.2 2335.4,1423.5 2571.7,1456.9 2612.7,1462.7 2657.6,1474.2 2693.2,1484.6"</data>
+</edge>
+<edge source="CBon" target="MShannon" id="e132">
+  <data key="d9">"e,2058.4,1324.8 1859.2,1413.4 1891.5,1393.1 1940.1,1364.8 1985.6,1346.9 2005.5,1339 2027.7,1332.5 2048.6,1327.2"</data>
+</edge>
+<edge source="CBon" target="SAlvarez" id="e133">
+  <data key="d9">"e,2051.1,1250.5 1840.9,1411.5 1868.5,1375 1923.4,1309.9 1985.6,1274.9 2002.6,1265.3 2022.1,1258.2 2041.2,1253"</data>
+</edge>
+<edge source="MPat" target="JBrum" id="e134">
+  <data key="d9">"e,3010.3,2721.9 2828.9,2764.2 2879.6,2752.3 2948.9,2736.2 3000.2,2724.2"</data>
+</edge>
+<edge source="JFran" target="ASam" id="e135">
+  <data key="d9">"e,2674.5,1407.7 2534.3,1392.7 2575.1,1397 2623.2,1402.2 2664.4,1406.7"</data>
+</edge>
+<edge source="ASam" target="LCarv" id="e136">
+  <data key="d9">"e,2996.6,1450.4 2843,1428.5 2887.4,1434.8 2942,1442.6 2986.7,1448.9"</data>
+</edge>
+<edge source="MMatos" target="JLew" id="e137">
+  <data key="d9">"e,2332.6,1954.9 2222.5,1954.9 2253.7,1954.9 2289.2,1954.9 2322.4,1954.9"</data>
+</edge>
+<edge source="JLew" target="JRod" id="e138">
+  <data key="d9">"e,2665.8,1927.4 2540.7,1942.9 2577.1,1938.4 2618.6,1933.2 2655.5,1928.7"</data>
+</edge>
+<edge source="JLew" target="JGrois" id="e139">
+  <data key="d9">"e,2683.9,1852.7 2528.6,1938.1 2543.6,1933.2 2558.6,1926.9 2571.7,1918.9 2591.8,1906.6 2587.3,1891.8 2607.7,1879.9 2627.8,1868.1 \
+2651.4,1860.2 2674,1854.9"</data>
+</edge>
+<edge source="JLew" target="JViei" id="e140">
+  <data key="d9">"e,2695.8,1981.2 2543.3,1965.3 2589.6,1970.1 2643.5,1975.8 2685.9,1980.2"</data>
+</edge>
+<edge source="JRod" target="GNun" id="e141">
+  <data key="d9">"e,2998.2,1915.9 2865.2,1915.9 2905.1,1915.9 2950.1,1915.9 2987.8,1915.9"</data>
+</edge>
+<edge source="JGrois" target="GCous" id="e142">
+  <data key="d9">"e,2982.5,1840.3 2841,1842.6 2881.1,1841.9 2930,1841.1 2972.4,1840.5"</data>
+</edge>
+<edge source="JViei" target="AArtigue" id="e143">
+  <data key="d9">"e,3002.5,2030.8 2821.8,1998.6 2870.5,2007.3 2939.5,2019.6 2992.5,2029"</data>
+</edge>
+<edge source="JViei" target="MAchigar" id="e144">
+  <data key="d9">"e,3230,2003.2 2826.8,1990 2924.3,1993.2 3108.5,1999.2 3219.8,2002.8"</data>
+</edge>
+<edge source="AArtigue" target="LRosa" id="e145">
+  <data key="d9">"e,3259,2098.1 3130.8,2060.1 3166.7,2070.8 3212.7,2084.4 3249.4,2095.3"</data>
+</edge>
+<edge source="AArtigue" target="MAchigar" id="e146">
+  <data key="d9">"e,3237.8,2017.4 3142.2,2032.1 3168.9,2028 3199.7,2023.2 3227.7,2018.9"</data>
+</edge>
+<edge source="AArtigue" target="ERego" id="e147">
+  <data key="d9">"e,3283.8,1878.7 3105.5,2018.7 3130.1,2000.6 3164.3,1975 3193.8,1951.9 3221.7,1930 3252.7,1904.6 3275.9,1885.3"</data>
+</edge>
+<edge source="AGasull" target="GCous" id="e148">
+  <data key="d9">"e,2998.7,1823.3 2854.6,1792.1 2897.3,1801.3 2947.4,1812.2 2988.7,1821.1"</data>
+</edge>
+<edge source="HJudah" target="JBagaria" id="e149">
+  <data key="d9">"e,2999.1,2148.5 2853.3,2182.5 2896.5,2172.4 2947.5,2160.5 2989.2,2150.8"</data>
+</edge>
+<edge source="JBagaria" target="LRosa" id="e150">
+  <data key="d9">"e,3247.8,2118.7 3160.8,2125.2 3186,2123.3 3213.2,2121.3 3237.6,2119.5"</data>
+</edge>
+<edge source="WWoodin" target="JBagaria" id="e151">
+  <data key="d9">"e,2979.6,2131.9 2852.5,2131.9 2889.1,2131.9 2931.5,2131.9 2969.1,2131.9"</data>
+</edge>
+<edge source="AArbieto" target="ERego" id="e152">
+  <data key="d9">"e,3269.5,1835.4 3128.3,1777.3 3149,1785.1 3172.6,1794.2 3193.8,1802.9 3215.7,1811.8 3239.7,1822.2 3260.3,1831.3"</data>
+</edge>
+<edge source="MJose" target="AArtigue" id="e153">
+  <data key="d9">"e,2995.3,2047 2853.7,2054.8 2895.4,2052.5 2944.3,2049.8 2985.1,2047.6"</data>
+</edge>
+<edge source="HRosen" target="CBon" id="e154">
+  <data key="d9">"e,1762.9,1458.9 1605.1,1517.1 1648.2,1501.2 1707.9,1479.2 1753.4,1462.4"</data>
+</edge>
+<edge source="HRosen" target="Mherman" id="e155">
+  <data key="d9">"e,1751.1,1619.4 1596.1,1560.6 1623.7,1573.4 1659.5,1589.1 1692.2,1600.9 1707.8,1606.5 1724.7,1611.8 1741,1616.5"</data>
+</edge>
+<edge source="Mherman" target="JYoccoz" id="e156">
+  <data key="d9">"e,2046,1689.2 1893.4,1653.6 1935.8,1663.5 1990.1,1676.2 2036,1686.9"</data>
+</edge>
+<edge source="Mherman" target="PCalvez" id="e157">
+  <data key="d9">"e,2037.9,1636.9 1913.1,1636.9 1949.1,1636.9 1990.6,1636.9 2027.6,1636.9"</data>
+</edge>
+<edge source="JYoccoz" target="SCrov" id="e158">
+  <data key="d9">"e,2369.8,1653.5 2216.7,1689.2 2261.3,1678.8 2315.8,1666.1 2359.9,1655.8"</data>
+</edge>
+<edge source="PCalvez" target="JXavier" id="e159">
+  <data key="d9">"e,2377.8,1579.7 2204.3,1620.1 2253.5,1608.6 2318.3,1593.5 2367.8,1582"</data>
+</edge>
+<edge source="JAlonso" target="JBrum" id="e160">
+  <data key="d9">"e,3010.4,2693.9 2819.9,2649.5 2871.3,2661.5 2946,2678.9 3000.5,2691.6"</data>
+</edge>
+<edge source="KVogt" target="JAlonso" id="e161">
+  <data key="d9">"e,2691.8,2635.9 2563.3,2635.9 2602.9,2635.9 2645.8,2635.9 2681.4,2635.9"</data>
+</edge>
+<edge source="MSCristobal" target="MFariello" id="e162">
+  <data key="d9">"e,3757.3,460.84 3657.1,492.62 3685.2,483.69 3718.5,473.15 3747.6,463.92"</data>
+</edge>
+<edge source="SBoitard" target="MFariello" id="e163">
+  <data key="d9">"e,3725.6,440.87 3664.4,440.87 3680.6,440.87 3698.2,440.87 3715.4,440.87"</data>
+</edge>
+<edge source="HNaya" target="MFariello" id="e164">
+  <data key="d9">"e,3756.9,420.79 3645,385.3 3675.3,394.89 3713.9,407.15 3747.2,417.71"</data>
+</edge>
+<edge source="JMorel" target="PMuse" id="e165">
+  <data key="d9">"e,659.46,2419.9 601.73,2419.9 617.51,2419.9 633.86,2419.9 649.39,2419.9"</data>
+</edge>
+<edge source="JMorel" target="AAlmansa" id="e166">
+  <data key="d9">"e,668.98,2368 572.28,2400 599.21,2391.1 631.15,2380.5 659.22,2371.3"</data>
+</edge>
+<edge source="JMorel" target="MDelbracio" id="e167">
+  <data key="d9">"e,888.09,2280.3 533.45,2393.4 556.16,2367.4 594.73,2329.1 637.69,2311.9 713.52,2281.5 805.43,2276.9 877.99,2279.8"</data>
+</edge>
+<edge source="JMorel" target="IReyOtero" id="e168">
+  <data key="d9">"e,1261.5,2490.6 523.14,2446.5 540.83,2485.8 579.67,2558.2 637.69,2591.9 723.81,2641.9 760.93,2611.3 860.36,2616.9 987.13,2624 1031,\
+2670.5 1146,2616.9 1197.6,2592.8 1235.8,2536.7 1256.6,2499.6"</data>
+</edge>
+<edge source="JMorel" target="MGardella" id="e169">
+  <data key="d9">"e,922.17,2449.8 570.5,2440.3 591.42,2446.6 615.35,2452.7 637.69,2455.9 730.58,2468.9 837.93,2460.5 911.95,2451.1"</data>
+</edge>
+<edge source="PMuse" target="MFiori" id="e170">
+  <data key="d9">"e,944.03,2496.1 777.46,2440.5 801.74,2451 832.33,2463.6 860.36,2472.9 884.1,2480.7 910.55,2487.9 934.12,2493.7"</data>
+</edge>
+<edge source="PMuse" target="MGon" id="e171">
+  <data key="d9">"e,905.51,2384.6 794.35,2407.2 824.34,2401.1 861.17,2393.6 895.44,2386.6"</data>
+</edge>
+<edge source="PMuse" target="MDelbracio" id="e172">
+  <data key="d9">"e,899.32,2309.2 789.23,2403.9 801.62,2398.8 814.07,2392.2 824.36,2383.9 847.05,2365.5 836.58,2345.8 860.36,2328.9 869.31,2322.5 \
+879.28,2317.2 889.67,2312.9"</data>
+</edge>
+<edge source="PMuse" target="MGardella" id="e173">
+  <data key="d9">"e,913.2,2431.3 801.6,2424.2 832.42,2426.2 869.24,2428.5 902.87,2430.6"</data>
+</edge>
+<edge source="AAlmansa" target="MGon" id="e174">
+  <data key="d9">"e,867.16,2356.4 822.36,2353.6 833.52,2354.3 845.13,2355 856.84,2355.7"</data>
+</edge>
+<edge source="AAlmansa" target="MDelbracio" id="e175">
+  <data key="d9">"e,909.77,2311.7 807.64,2332.5 836.24,2326.7 869.27,2319.9 899.91,2313.7"</data>
+</edge>
+<edge source="MDelbracio" target="IReyOtero" id="e176">
+  <data key="d9">"e,1256.5,2437.5 1102.8,2310.2 1117.9,2315 1132.8,2321.1 1146,2328.9 1189.3,2354.2 1227.2,2398.3 1250.4,2429.2"</data>
+</edge>
+<edge source="GSapiro" target="MFiori" id="e177">
+  <data key="d9">"e,941.07,2519.5 805.49,2543.1 844.51,2536.3 892.25,2528 930.93,2521.3"</data>
+</edge>
+<edge source="GSapiro" target="FMemoli" id="e178">
+  <data key="d9">"e,922.9,2573.5 811.99,2563.3 843.72,2566.2 880.34,2569.6 912.93,2572.6"</data>
+</edge>
+<edge source="IDaub" target="RWard" id="e179">
+  <data key="d9">"e,448.97,160.87 413.39,160.87 421.81,160.87 430.35,160.87 438.77,160.87"</data>
+</edge>
+<edge source="RWard" target="SVillar" id="e180">
+  <data key="d9">"e,642.04,160.87 606.32,160.87 614.66,160.87 623.25,160.87 631.89,160.87"</data>
+</edge>
+<edge source="GRub" target="FRobledo" id="e181">
+  <data key="d9">"e,2647,517.6 2210.5,511.01 2242.2,512.52 2279.3,514.05 2312.9,514.87 2422.4,517.54 2547.1,517.87 2636.8,517.63"</data>
+</edge>
+<edge source="GRub" target="HCancela" id="e182">
+  <data key="d9">"e,2366.8,485.62 2208.6,499.95 2253.6,495.88 2310.5,490.72 2356.8,486.52"</data>
+</edge>
+<edge source="GRub" target="CRisso" id="e183">
+  <data key="d9">"e,3001.6,549.13 2205.1,517.52 2238,522.08 2277.3,527.18 2312.9,530.87 2578.4,558.39 2646.3,559.65 2913.2,552.87 2938.6,552.22 2966.4,\
+550.99 2991.4,549.68"</data>
+</edge>
+<edge source="GRub" target="PRBocca" id="e184">
+  <data key="d9">"e,2656.2,434.3 2179.4,485.18 2215.1,469.96 2266,450.93 2312.9,442.87 2425,423.6 2555.3,427.08 2646.1,433.56"</data>
+</edge>
+<edge source="GRub" target="JGraneri" id="e185">
+  <data key="d9">"e,2384.6,384.54 2171,483.34 2206.9,462.22 2262.3,431.33 2312.9,409.87 2332.6,401.51 2354.7,393.89 2374.8,387.55"</data>
+</edge>
+<edge source="GRub" target="LAspi" id="e186">
+  <data key="d9">"e,2386.8,610.84 2178.5,528.67 2214.7,545.34 2266.5,568.35 2312.9,585.87 2333.6,593.68 2356.5,601.31 2377.2,607.83"</data>
+</edge>
+<edge source="FRobledo" target="CRisso" id="e187">
+  <data key="d9">"e,3002.6,538.72 2866.5,526.39 2907.8,530.13 2954.3,534.35 2992.5,537.81"</data>
+</edge>
+<edge source="FRobledo" target="PRomero" id="e188">
+  <data key="d9">"e,3005.5,471.07 2850,500.25 2896,491.62 2951.6,481.18 2995.5,472.95"</data>
+</edge>
+<edge source="HCancela" target="FRobledo" id="e189">
+  <data key="d9">"e,2659,504.8 2516.2,487.64 2555.6,492.36 2604.9,498.3 2648.9,503.58"</data>
+</edge>
+<edge source="HCancela" target="PRBocca" id="e190">
+  <data key="d9">"e,2657.1,455.87 2517,470.94 2555.7,466.78 2603.9,461.6 2647.1,456.95"</data>
+</edge>
+<edge source="PRBocca" target="PRomero" id="e191">
+  <data key="d9">"e,2998.4,455.61 2871.7,449.87 2910,451.6 2952.4,453.52 2988.1,455.14"</data>
+</edge>
+<edge source="EMizraji" target="JGraneri" id="e192">
+  <data key="d9">"e,2371.3,368.87 2209.8,368.87 2256.1,368.87 2314.6,368.87 2361.3,368.87"</data>
+</edge>
+<edge source="FPesarin" target="MScavino" id="e193">
+  <data key="d9">"e,3700.4,2084.9 3652.1,2084.9 3664.8,2084.9 3677.8,2084.9 3690.4,2084.9"</data>
+</edge>
+<edge source="GGiannakis" target="GMateos" id="e194">
+  <data key="d9">"e,936.01,1084.9 858.48,1084.9 881.06,1084.9 904.34,1084.9 925.9,1084.9"</data>
+</edge>
+<edge source="GMateos" target="BMarenco" id="e195">
+  <data key="d9">"e,1185,1073.1 1099.9,1079.2 1123.7,1077.5 1150,1075.6 1174.9,1073.8"</data>
+</edge>
+<edge source="PBermolen" target="BMarenco" id="e196">
+  <data key="d9">"e,1199.4,1051.2 1087.3,1027.3 1118.6,1034 1156.2,1042 1189.3,1049"</data>
+</edge>
+<edge source="PBermolen" target="VGoi" id="e197">
+  <data key="d9">"e,1188.9,988.81 1093.3,1002.4 1120.1,998.6 1150.7,994.25 1179,990.22"</data>
+</edge>
+<edge source="FBac" target="PBermolen" id="e198">
+  <data key="d9">"e,938.02,1012.9 830.34,1012.9 861.7,1012.9 896.78,1012.9 928.02,1012.9"</data>
+</edge>
+<edge source="DRos" target="PBermolen" id="e199">
+  <data key="d9">"e,954.55,996.54 790.86,954.24 834.15,965.43 896.41,981.52 944.76,994.01"</data>
+</edge>
+<edge source="JMat" target="VGoi" id="e200">
+  <data key="d9">"e,1188.9,964.92 1123.1,955.56 1141.6,958.19 1160.7,960.91 1178.9,963.5"</data>
+</edge>
+<edge source="VYohai" target="RFraiman" id="e201">
+  <data key="d9">"e,1727.9,3268.9 1680.1,3268.9 1692.3,3268.9 1705.2,3268.9 1717.8,3268.9"</data>
+</edge>
+<edge source="RFraiman" target="MBourel" id="e202">
+  <data key="d9">"e,1980.3,3321.3 1871,3287.3 1901.4,3296.8 1938.5,3308.3 1970.5,3318.3"</data>
+</edge>
+<edge source="RFraiman" target="AChol" id="e203">
+  <data key="d9">"e,1976.6,3217.6 1871,3250.4 1900.1,3241.4 1935.6,3230.3 1966.7,3220.7"</data>
+</edge>
+<edge source="RFraiman" target="ICan" id="e204">
+  <data key="d9">"e,1973.2,3268.9 1893.6,3268.9 1916.2,3268.9 1940.6,3268.9 1963,3268.9"</data>
+</edge>
+<edge source="RFraiman" target="LMor" id="e205">
+  <data key="d9">"e,1973.2,3140.8 1874.5,3251.4 1885,3246.6 1895.1,3240.5 1903.4,3232.9 1929.8,3208.7 1912.5,3184.5 1939.4,3160.9 1946.6,3154.5 1955,\
+3149.3 1963.9,3145"</data>
+</edge>
+<edge source="CDeniau" target="BGhattas" id="e206">
+  <data key="d9">"e,1717.9,3340.9 1682.4,3340.9 1690.7,3340.9 1699.3,3340.9 1707.9,3340.9"</data>
+</edge>
+<edge source="BGhattas" target="MBourel" id="e207">
+  <data key="d9">"e,1951,3340.9 1903.5,3340.9 1915.7,3340.9 1928.3,3340.9 1940.7,3340.9"</data>
+</edge>
+<edge source="ACuev" target="AChol" id="e208">
+  <data key="d9">"e,1939,3196.9 1890.1,3196.9 1902.6,3196.9 1915.8,3196.9 1929,3196.9"</data>
+</edge>
+<edge source="FGamboa" target="LMor" id="e209">
+  <data key="d9">"e,1956.2,3124.9 1902.9,3124.9 1917,3124.9 1931.6,3124.9 1945.9,3124.9"</data>
+</edge>
+<edge source="JPKahane" target="MWsche" id="e210">
+  <data key="d9">"e,2039.2,1058.9 1917.8,1058.9 1953,1058.9 1993,1058.9 2028.7,1058.9"</data>
+</edge>
+<edge source="JDed" target="DArmentano" id="e211">
+  <data key="d9">"e,2361.2,1193.5 2218.7,1176.9 2260,1181.8 2309.3,1187.5 2351,1192.4"</data>
+</edge>
+<edge source="AKolmo" target="AShiry" id="e212">
+  <data key="d9">"e,1742.7,806.87 1641.5,806.87 1670.9,806.87 1703.4,806.87 1732.5,806.87"</data>
+</edge>
+<edge source="AShiry" target="EMor" id="e213">
+  <data key="d9">"e,2044.7,806.87 1898.9,806.87 1940,806.87 1991,806.87 2034.7,806.87"</data>
+</edge>
+<edge source="FLedra" target="PLessa" id="e214">
+  <data key="d9">"e,2375.6,1492.9 2228.3,1492.9 2272.5,1492.9 2324.2,1492.9 2365.6,1492.9"</data>
+</edge>
+<edge source="FRod" target="GTor" id="e215">
+  <data key="d9">"e,3521.5,212.87 3485.6,212.87 3494.1,212.87 3502.7,212.87 3511.2,212.87"</data>
+</edge>
+<edge source="GTor" target="GRam" id="e216">
+  <data key="d9">"e,3763.8,212.87 3728.2,212.87 3736.7,212.87 3745.2,212.87 3753.6,212.87"</data>
+</edge>
+<edge source="RExel" target="FAbadie" id="e217">
+  <data key="d9">"e,1003,2072.9 922.05,2072.9 944.39,2072.9 969.19,2072.9 992.64,2072.9"</data>
+</edge>
+<edge source="FAbadie" target="DFerraro" id="e218">
+  <data key="d9">"e,1219.3,2096.3 1163.2,2086.2 1178.3,2088.9 1194.2,2091.8 1209.4,2094.5"</data>
+</edge>
+<edge source="ABuss" target="DFerraro" id="e219">
+  <data key="d9">"e,1219.4,2121.4 1155.1,2133 1172.5,2129.9 1191.4,2126.5 1209.5,2123.2"</data>
+</edge>
+<edge source="MAristide" target="RExel" id="e220">
+  <data key="d9">"e,786.72,2056.2 660.12,2020.1 696.17,2030.4 740.49,2043 776.73,2053.3"</data>
+</edge>
+<edge source="MAristide" target="BAbadie" id="e221">
+  <data key="d9">"e,770.6,2000.9 689.69,2000.9 712.96,2000.9 737.65,2000.9 760.33,2000.9"</data>
+</edge>
+<edge source="MAristide" target="CPhillips" id="e222">
+  <data key="d9">"e,771.03,1950 660.12,1981.7 691.1,1972.8 728.18,1962.3 760.99,1952.9"</data>
+</edge>
+<edge source="CPhillips" target="EGardella" id="e223">
+  <data key="d9">"e,1003.7,1928.9 967.52,1928.9 976.2,1928.9 984.88,1928.9 993.38,1928.9"</data>
+</edge>
+<edge source="VDlab" target="IAssem" id="e224">
+  <data key="d9">"e,978.82,3280.9 942.93,3280.9 951.48,3280.9 960.11,3280.9 968.59,3280.9"</data>
+</edge>
+<edge source="IAssem" target="VGubitosi" id="e225">
+  <data key="d9">"e,1167.3,3280.9 1131.8,3280.9 1140,3280.9 1148.5,3280.9 1157.1,3280.9"</data>
+</edge>
+<edge source="JRada" target="RParra" id="e226">
+  <data key="d9">"e,570.96,2832.9 415.35,2832.9 457.95,2832.9 513.83,2832.9 560.78,2832.9"</data>
+</edge>
+<edge source="JRada" target="DBravo" id="e227">
+  <data key="d9">"e,587.03,2776.6 406.17,2819.3 454.45,2807.9 523.93,2791.5 576.98,2779"</data>
+</edge>
+<edge source="DBravo" target="FCubria" id="e228">
+  <data key="d9">"e,879.87,2787.7 733.06,2770.1 774.85,2775.1 826.56,2781.3 869.68,2786.5"</data>
+</edge>
+<edge source="EEnochs" target="DBravo" id="e229">
+  <data key="d9">"e,571.19,2760.9 419.53,2760.9 461.64,2760.9 515.55,2760.9 561.03,2760.9"</data>
+</edge>
+<edge source="VTrevisan" target="FCubria" id="e230">
+  <data key="d9">"e,909.24,2818.7 720.9,2888.7 741.92,2883 765.2,2876.2 786.18,2868.9 824.76,2855.4 867.07,2837.5 899.83,2823"</data>
+</edge>
+<edge source="SWang" target="VTrevisan" id="e231">
+  <data key="d9">"e,587.35,2920.5 419.15,2960.3 466.52,2949.1 528.98,2934.3 577.52,2922.9"</data>
+</edge>
+<edge source="OVilla" target="ASol" id="e232">
+  <data key="d9">"e,1011.1,1453.7 939.51,1442.1 959.61,1445.3 981.12,1448.9 1001.1,1452.1"</data>
+</edge>
+<edge source="OVilla" target="GCort" id="e233">
+  <data key="d9">"e,999.1,1405.9 939.51,1415.7 955.61,1413 972.61,1410.3 988.99,1407.6"</data>
+</edge>
+<edge source="ASol" target="JVivero" id="e234">
+  <data key="d9">"e,1227.5,1490.4 1148.6,1476.6 1170.7,1480.5 1195.2,1484.7 1217.5,1488.6"</data>
+</edge>
+<edge source="ASol" target="DArt" id="e235">
+  <data key="d9">"e,1239.5,1551.6 1119.9,1487.8 1145,1502.4 1178.5,1521.4 1208.9,1536.9 1215.8,1540.4 1223.1,1543.9 1230.4,1547.4"</data>
+</edge>
+<edge source="ASol" target="Jcop" id="e236">
+  <data key="d9">"e,1220.6,1440.6 1148.6,1453.1 1168.4,1449.7 1190.3,1445.9 1210.7,1442.3"</data>
+</edge>
+<edge source="GCort" target="EEllis" id="e237">
+  <data key="d9">"e,1218.1,1369 1159.9,1379.2 1175.7,1376.4 1192.2,1373.5 1207.9,1370.8"</data>
+</edge>
+<edge source="FCoel" target="MLan" id="e238">
+  <data key="d9">"e,1018.7,1592.6 914.57,1626.6 943.26,1617.2 978.48,1605.8 1009,1595.8"</data>
+</edge>
+<edge source="FCoel" target="STrep" id="e239">
+  <data key="d9">"e,1006.4,1644.9 934.85,1644.9 954.67,1644.9 976.12,1644.9 996.27,1644.9"</data>
+</edge>
+<edge source="MLan" target="GMata" id="e240">
+  <data key="d9">"e,1235.6,1626.7 1139.6,1593.2 1166.6,1602.6 1198.7,1613.8 1226.1,1623.4"</data>
+</edge>
+<edge source="MLan" target="JVivero" id="e241">
+  <data key="d9">"e,1238,1518.2 1139.6,1552.5 1167.4,1542.9 1200.5,1531.3 1228.4,1521.6"</data>
+</edge>
+<edge source="MLan" target="DArt" id="e242">
+  <data key="d9">"e,1208.9,1572.9 1171,1572.9 1180.1,1572.9 1189.5,1572.9 1198.6,1572.9"</data>
+</edge>
+<edge source="STrep" target="GMata" id="e243">
+  <data key="d9">"e,1216.3,1644.9 1154.1,1644.9 1171,1644.9 1189.1,1644.9 1206.3,1644.9"</data>
+</edge>
+<edge source="AJones" target="MLan" id="e244">
+  <data key="d9">"e,989.63,1572.9 927.81,1572.9 944.19,1572.9 961.98,1572.9 979.42,1572.9"</data>
+</edge>
+<edge source="IRein" target="AJones" id="e245">
+  <data key="d9">"e,787.46,1572.9 727.63,1572.9 743.64,1572.9 760.85,1572.9 777.32,1572.9"</data>
+</edge>
+<edge source="AJoyal" target="MPerez" id="e246">
+  <data key="d9">"e,3624.1,2448.9 3588.5,2448.9 3596.7,2448.9 3605.3,2448.9 3614.1,2448.9"</data>
+</edge>
+<edge source="ELara" target="AGon" id="e247">
+  <data key="d9">"e,3644,2604.9 3608.2,2604.9 3616.5,2604.9 3625.1,2604.9 3633.8,2604.9"</data>
+</edge>
+<edge source="PSelinger" target="OMalherbe" id="e248">
+  <data key="d9">"e,3699.7,1405.6 3640.8,1415.4 3656.8,1412.7 3673.6,1409.9 3689.8,1407.2"</data>
+</edge>
+<edge source="PScott" target="OMalherbe" id="e249">
+  <data key="d9">"e,3699.7,1380.2 3628.1,1368.3 3647.7,1371.5 3669.3,1375.1 3689.8,1378.5"</data>
+</edge>
+<edge source="SWithe" target="MPereira" id="e250">
+  <data key="d9">"e,3689.1,2916.9 3653.4,2916.9 3661.8,2916.9 3670.3,2916.9 3678.8,2916.9"</data>
+</edge>
+</graph></graphml>
