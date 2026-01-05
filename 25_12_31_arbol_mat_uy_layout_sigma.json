@@ -1,0 +1,3785 @@
+{
+  "nodes": [
+    {
+      "id": "SD",
+      "label": "NA",
+      "institution": "",
+      "year": "",
+      "x": 2755.7,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "RMuniz",
+      "label": "Richard Muñiz",
+      "institution": "CIMAT, México",
+      "year": "2006",
+      "x": 2921.9,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "JFernandez",
+      "label": "Julián Fernandez",
+      "institution": "UBA",
+      "year": "2002",
+      "x": 1394.1,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "LPezzo",
+      "label": "Leandro Del Pezzo",
+      "institution": "UBA",
+      "year": "2009",
+      "x": 1607.5,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "NWolanski",
+      "label": "Noemí Wolanski",
+      "institution": "UBA",
+      "year": "1983",
+      "x": 1191.2,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "SVaradhan",
+      "label": "Srinivasa Varadhan",
+      "institution": "Indian Statistical Institute",
+      "year": "1963",
+      "x": 460.47,
+      "y": 287.87,
+      "size": 2
+    },
+    {
+      "id": "IArmendariz",
+      "label": "Ines Armendariz",
+      "institution": "New York",
+      "year": "2001",
+      "x": 722.03,
+      "y": 287.87,
+      "size": 2
+    },
+    {
+      "id": "NFrevenza",
+      "label": "Nicolás Frevenza",
+      "institution": "UBA",
+      "year": "2017",
+      "x": 925.62,
+      "y": 251.87,
+      "size": 2
+    },
+    {
+      "id": "PFerrari",
+      "label": "Pablo Ferrari",
+      "institution": "São Paulo",
+      "year": "1982",
+      "x": 722.03,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "EAndjel",
+      "label": "Enrique Andjel",
+      "institution": "California, LA",
+      "year": "1980",
+      "x": 460.47,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "SCosta",
+      "label": "Sueli Costa",
+      "institution": "Campinas",
+      "year": "1982",
+      "x": 3697.1,
+      "y": 1294.9,
+      "size": 2
+    },
+    {
+      "id": "CQureshi",
+      "label": "Claudio Qureshi",
+      "institution": "Campinas",
+      "year": "2015",
+      "x": 3897.2,
+      "y": 1258.9,
+      "size": 2
+    },
+    {
+      "id": "DPanario",
+      "label": "Daniel Panario",
+      "institution": "Toronto",
+      "year": "1997",
+      "x": 3697.1,
+      "y": 1222.9,
+      "size": 2
+    },
+    {
+      "id": "OZariski",
+      "label": "Oscar Zariski",
+      "institution": "Roma",
+      "year": "1925",
+      "x": 1830.7,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "DMumford",
+      "label": "David Mumford",
+      "institution": "Harvard",
+      "year": "1961",
+      "x": 2013.1,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "MStillman",
+      "label": "Michael Stillman",
+      "institution": "Harvard",
+      "year": "1983",
+      "x": 2208.9,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "MVelasco",
+      "label": "Mauricio Velasco",
+      "institution": "Cornell",
+      "year": "2007",
+      "x": 2411.0,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "ATuring",
+      "label": "Alan Turing",
+      "institution": "Princeton",
+      "year": "1938",
+      "x": 460.33,
+      "y": 2123.9,
+      "size": 2
+    },
+    {
+      "id": "RGandy",
+      "label": "Robin Gandy",
+      "institution": "Cambridge",
+      "year": "1953",
+      "x": 660.38,
+      "y": 2123.9,
+      "size": 2
+    },
+    {
+      "id": "MHyland",
+      "label": "Martin Hyland",
+      "institution": "Oxford",
+      "year": "1975",
+      "x": 853.35,
+      "y": 2123.9,
+      "size": 2
+    },
+    {
+      "id": "ILopez",
+      "label": "Ignacio López Franco",
+      "institution": "Cambridge",
+      "year": "2008",
+      "x": 1064.0,
+      "y": 2151.9,
+      "size": 2
+    },
+    {
+      "id": "CVasilak",
+      "label": "Christina Vasilakopoulou",
+      "institution": "Cambridge",
+      "year": "2014",
+      "x": 1319.2,
+      "y": 2123.9,
+      "size": 2
+    },
+    {
+      "id": "JMarti",
+      "label": "José Gómez Martí",
+      "institution": "Politécnica de Catalunya",
+      "year": "1986",
+      "x": 2037.0,
+      "y": 56.87,
+      "size": 2
+    },
+    {
+      "id": "ECanale",
+      "label": "Eduardo Canale",
+      "institution": "Politécnica de Catalunya",
+      "year": "2003",
+      "x": 2354.5,
+      "y": 56.87,
+      "size": 2
+    },
+    {
+      "id": "TAcosta",
+      "label": "Telmo Acosta",
+      "institution": "São Carlos",
+      "year": "2024",
+      "x": 3949.4,
+      "y": 1434.9,
+      "size": 2
+    },
+    {
+      "id": "ELopez",
+      "label": "Edivaldo Lopes dos Santos",
+      "institution": "São Paulo",
+      "year": "2005",
+      "x": 3703.4,
+      "y": 1434.9,
+      "size": 2
+    },
+    {
+      "id": "WTucker",
+      "label": "Warwick Tucker",
+      "institution": "Uppsala",
+      "year": "1998",
+      "x": 3675.2,
+      "y": 711.87,
+      "size": 2
+    },
+    {
+      "id": "ATayler",
+      "label": "Audrey Tyler",
+      "institution": "Monash, Australia",
+      "year": "2023",
+      "x": 3916.9,
+      "y": 675.87,
+      "size": 2
+    },
+    {
+      "id": "AHammer",
+      "label": "Andy Hammerlindl",
+      "institution": "Toronto",
+      "year": "2009",
+      "x": 3675.2,
+      "y": 639.87,
+      "size": 2
+    },
+    {
+      "id": "AHaef",
+      "label": "André Haefliger",
+      "institution": "Paris",
+      "year": "1958",
+      "x": 3234.1,
+      "y": 3166.9,
+      "size": 2
+    },
+    {
+      "id": "TVust",
+      "label": "Thierry Vust",
+      "institution": "Genève",
+      "year": "1974",
+      "x": 3420.7,
+      "y": 3202.9,
+      "size": 2
+    },
+    {
+      "id": "CWeber",
+      "label": "Claude Weber",
+      "institution": "Genève",
+      "year": "1967",
+      "x": 3420.7,
+      "y": 3130.9,
+      "size": 2
+    },
+    {
+      "id": "IPan",
+      "label": "Iván Pan",
+      "institution": "Génève",
+      "year": "1996",
+      "x": 3601.7,
+      "y": 3166.9,
+      "size": 2
+    },
+    {
+      "id": "RBalt",
+      "label": "Rene Baltazar",
+      "institution": "Udelar - UFRGS",
+      "year": "2014",
+      "x": 3818.0,
+      "y": 3166.9,
+      "size": 2
+    },
+    {
+      "id": "MAnderson",
+      "label": "Michael Anderson",
+      "institution": "California, Berkeley",
+      "year": "1981",
+      "x": 760.01,
+      "y": 887.87,
+      "size": 2
+    },
+    {
+      "id": "MReiris",
+      "label": "Martín Reiris",
+      "institution": "New York at Stony Brook",
+      "year": "2005",
+      "x": 1061.2,
+      "y": 887.87,
+      "size": 2
+    },
+    {
+      "id": "JPeraza",
+      "label": "Javier Peraza",
+      "institution": "Udelar",
+      "year": "2024",
+      "x": 1338.3,
+      "y": 923.87,
+      "size": 2
+    },
+    {
+      "id": "IBusta",
+      "label": "Ignacio Bustamante",
+      "institution": "Udelar",
+      "year": "2025",
+      "x": 1338.3,
+      "y": 851.87,
+      "size": 2
+    },
+    {
+      "id": "ARittatore",
+      "label": "Álvaro Rittatore",
+      "institution": "Joseph Fourier Grenoble I",
+      "year": "1997",
+      "x": 1285.3,
+      "y": 692.87,
+      "size": 2
+    },
+    {
+      "id": "MBrion",
+      "label": "Michel Brion",
+      "institution": "Pierre-et-Marie-Curie - Paris VI",
+      "year": "1982",
+      "x": 927.54,
+      "y": 692.87,
+      "size": 2
+    },
+    {
+      "id": "JDixmier",
+      "label": "Jacques Dixmier",
+      "institution": "Paris",
+      "year": "1949",
+      "x": 636.98,
+      "y": 692.87,
+      "size": 2
+    },
+    {
+      "id": "MPera",
+      "label": "Manuel de Pera Garcia",
+      "institution": "Sao Paulo",
+      "year": "1988",
+      "x": 2547.8,
+      "y": 3003.9,
+      "size": 2
+    },
+    {
+      "id": "FTal",
+      "label": "Fábio Tal",
+      "institution": "Sao Paulo",
+      "year": "2001",
+      "x": 2865.9,
+      "y": 3003.9,
+      "size": 2
+    },
+    {
+      "id": "AGarcia",
+      "label": "Alejo García Sassi",
+      "institution": "Udelar - Sao Paulo",
+      "year": "2024",
+      "x": 3177.0,
+      "y": 2931.9,
+      "size": 2
+    },
+    {
+      "id": "THenrik",
+      "label": "Tobias Henrik Jager",
+      "institution": "Friedrich-Alexander",
+      "year": "2005",
+      "x": 2547.8,
+      "y": 2931.9,
+      "size": 2
+    },
+    {
+      "id": "APasseggi",
+      "label": "Alejandro Passeggi",
+      "institution": "Friedrich-Alexander",
+      "year": "2013",
+      "x": 2865.9,
+      "y": 2931.9,
+      "size": 2
+    },
+    {
+      "id": "ARov",
+      "label": "Alvaro Rovella",
+      "institution": "IMPA",
+      "year": "1991",
+      "x": 2865.9,
+      "y": 2859.9,
+      "size": 2
+    },
+    {
+      "id": "JIgle",
+      "label": "Jorge Iglesias",
+      "institution": "Udelar",
+      "year": "2006",
+      "x": 3177.0,
+      "y": 2859.9,
+      "size": 2
+    },
+    {
+      "id": "JMassera",
+      "label": "José Luis Massera",
+      "institution": "(1915-2002)",
+      "year": "",
+      "x": 3661.1,
+      "y": 923.87,
+      "size": 2
+    },
+    {
+      "id": "IME",
+      "label": "IME",
+      "institution": "1942",
+      "year": "",
+      "x": 3824.4,
+      "y": 887.87,
+      "size": 2
+    },
+    {
+      "id": "RLaguardia",
+      "label": "Rafael Laguardia",
+      "institution": "(1906-1980)",
+      "year": "",
+      "x": 3661.1,
+      "y": 851.87,
+      "size": 2
+    },
+    {
+      "id": "IMERL",
+      "label": "IMERL",
+      "institution": "1987",
+      "year": "",
+      "x": 3937.5,
+      "y": 887.87,
+      "size": 2
+    },
+    {
+      "id": "JSchaffer",
+      "label": "Jorge Schäffer",
+      "institution": "Zurich",
+      "year": "1957",
+      "x": 3905.6,
+      "y": 1593.9,
+      "size": 2
+    },
+    {
+      "id": "RNevan",
+      "label": "Rolf Nevanlinna",
+      "institution": "Helsingin yliopisto",
+      "year": "1919",
+      "x": 3681.5,
+      "y": 1593.9,
+      "size": 2
+    },
+    {
+      "id": "MMart",
+      "label": "Matilde Martinez",
+      "institution": "CIMAT",
+      "year": "2005",
+      "x": 2236.7,
+      "y": 1570.9,
+      "size": 2
+    },
+    {
+      "id": "PLessa",
+      "label": "Pablo Lessa",
+      "institution": "Udelar",
+      "year": "2014",
+      "x": 2547.8,
+      "y": 1498.9,
+      "size": 2
+    },
+    {
+      "id": "GGuerber",
+      "label": "Gustavo Guerberoff",
+      "institution": "Nacional de Córdoba",
+      "year": "1997",
+      "x": 3904.2,
+      "y": 1063.9,
+      "size": 2
+    },
+    {
+      "id": "GRaggio",
+      "label": "Guido Raggio",
+      "institution": "ETH Zürich",
+      "year": "1981",
+      "x": 3653.9,
+      "y": 1063.9,
+      "size": 2
+    },
+    {
+      "id": "APortela",
+      "label": "Aldo Portela",
+      "institution": "São Paulo",
+      "year": "2004",
+      "x": 3897.2,
+      "y": 2335.9,
+      "size": 2
+    },
+    {
+      "id": "EFaria",
+      "label": "Edson de Faria",
+      "institution": "City Univ. NY",
+      "year": "1992",
+      "x": 3684.4,
+      "y": 2335.9,
+      "size": 2
+    },
+    {
+      "id": "EMaderna",
+      "label": "Ezequiel Maderna",
+      "institution": "ENS Lyon",
+      "year": "2000",
+      "x": 3360.1,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "AFathi",
+      "label": "Albert Fathi",
+      "institution": "NA",
+      "year": "1980",
+      "x": 3174.2,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "PHaiss",
+      "label": "Peter Haissinsky",
+      "institution": "Paris-Sud XI",
+      "year": "1998",
+      "x": 2651.1,
+      "y": 234.87,
+      "size": 2
+    },
+    {
+      "id": "MCarrasco",
+      "label": "Matias Carrasco",
+      "institution": "Aix-Marseille",
+      "year": "2011",
+      "x": 2871.7,
+      "y": 234.87,
+      "size": 2
+    },
+    {
+      "id": "ESequeira",
+      "label": "Emiliano Sequeira",
+      "institution": "Udelar - Lille",
+      "year": "2020",
+      "x": 3092.3,
+      "y": 198.87,
+      "size": 2
+    },
+    {
+      "id": "MBourdon",
+      "label": "Marc Bourdon",
+      "institution": "Paris-Sud XI",
+      "year": "1993",
+      "x": 2871.7,
+      "y": 162.87,
+      "size": 2
+    },
+    {
+      "id": "JBortha",
+      "label": "Juan Pablo Borthagaray",
+      "institution": "UBA",
+      "year": "2017",
+      "x": 3758.6,
+      "y": 56.87,
+      "size": 2
+    },
+    {
+      "id": "GAcosta",
+      "label": "Gabriel Acosta",
+      "institution": "UBA",
+      "year": "1999",
+      "x": 3533.8,
+      "y": 56.87,
+      "size": 2
+    },
+    {
+      "id": "RDuran",
+      "label": "Ricardo Durán",
+      "institution": "UBA",
+      "year": "1981",
+      "x": 3350.0,
+      "y": 56.87,
+      "size": 2
+    },
+    {
+      "id": "HBrezis",
+      "label": "Haim Brézis",
+      "institution": "Paris 1966",
+      "year": "1972",
+      "x": 140.71,
+      "y": 3003.9,
+      "size": 2
+    },
+    {
+      "id": "JVazquez",
+      "label": "Juan Vázquez",
+      "institution": "Complutense de Madrid",
+      "year": "1979",
+      "x": 458.14,
+      "y": 3075.9,
+      "size": 2
+    },
+    {
+      "id": "JMorel",
+      "label": "Jean-Michel Morel",
+      "institution": "Paris VI",
+      "year": "1985",
+      "x": 458.14,
+      "y": 2922.9,
+      "size": 2
+    },
+    {
+      "id": "JDiaz",
+      "label": "Jesus Diaz",
+      "institution": "Complutense de Madrid",
+      "year": "1976",
+      "x": 140.71,
+      "y": 3075.9,
+      "size": 2
+    },
+    {
+      "id": "OGil",
+      "label": "Omar Gil",
+      "institution": "Autónoma de Madrid",
+      "year": "1996",
+      "x": 762.84,
+      "y": 3157.9,
+      "size": 2
+    },
+    {
+      "id": "PMuse",
+      "label": "Pablo Musé",
+      "institution": "Cachan",
+      "year": "2004",
+      "x": 762.84,
+      "y": 2895.9,
+      "size": 2
+    },
+    {
+      "id": "AAlmansa",
+      "label": "Andrés Almansa",
+      "institution": "ENS Cachan",
+      "year": "2002",
+      "x": 762.84,
+      "y": 2823.9,
+      "size": 2
+    },
+    {
+      "id": "MDelbracio",
+      "label": "Mauricio Delbracio",
+      "institution": "Udelar - ENS Cachan",
+      "year": "2013",
+      "x": 1069.7,
+      "y": 2759.9,
+      "size": 2
+    },
+    {
+      "id": "IReyOtero",
+      "label": "Ives Rey-Otero",
+      "institution": "ENS Cachan",
+      "year": "2015",
+      "x": 1341.8,
+      "y": 2930.9,
+      "size": 2
+    },
+    {
+      "id": "MGardella",
+      "label": "Marina Gardella",
+      "institution": "Paris-Saclay",
+      "year": "2023",
+      "x": 1069.7,
+      "y": 2903.9,
+      "size": 2
+    },
+    {
+      "id": "RArocena",
+      "label": "Rodrigo Arocena",
+      "institution": "Central de Venezuela",
+      "year": "1979",
+      "x": 3902.8,
+      "y": 1752.9,
+      "size": 2
+    },
+    {
+      "id": "MCotlar",
+      "label": "Mischa Cotlar",
+      "institution": "Chicago",
+      "year": "1953",
+      "x": 3663.8,
+      "y": 1752.9,
+      "size": 2
+    },
+    {
+      "id": "RCominetti",
+      "label": "Roberto Cominetti",
+      "institution": "Blaise Pascal",
+      "year": "1989",
+      "x": 562.86,
+      "y": 535.87,
+      "size": 2
+    },
+    {
+      "id": "APiazza",
+      "label": "Adriana Piazza",
+      "institution": "Chile y Montpellier II",
+      "year": "2007",
+      "x": 825.85,
+      "y": 499.87,
+      "size": 2
+    },
+    {
+      "id": "PCartigny",
+      "label": "Pierre Cartigny",
+      "institution": "Globe de Paris",
+      "year": "1997",
+      "x": 562.86,
+      "y": 463.87,
+      "size": 2
+    },
+    {
+      "id": "PLorenzo",
+      "label": "Pilar Lorenzo",
+      "institution": "UTFSM-PUCV-UV",
+      "year": "2022",
+      "x": 1105.1,
+      "y": 463.87,
+      "size": 2
+    },
+    {
+      "id": "PGajardo",
+      "label": "Pedro Gajardo",
+      "institution": "NA",
+      "year": "",
+      "x": 825.85,
+      "y": 427.87,
+      "size": 2
+    },
+    {
+      "id": "JDieudonne",
+      "label": "Jean Dieudonné",
+      "institution": "ENS Paris",
+      "year": "1931",
+      "x": 146.37,
+      "y": 2570.9,
+      "size": 2
+    },
+    {
+      "id": "AGroth",
+      "label": "Alexander Grothendieck",
+      "institution": "Henri Poincaré Nancy 1",
+      "year": "1953",
+      "x": 414.3,
+      "y": 2570.9,
+      "size": 2
+    },
+    {
+      "id": "JLVerdier",
+      "label": "Jean-Louis Verdier",
+      "institution": "Paris",
+      "year": "1967",
+      "x": 721.12,
+      "y": 2570.9,
+      "size": 2
+    },
+    {
+      "id": "PBermolenthelot",
+      "label": "Pierre Berthelot",
+      "institution": "Paris Diderot - Paris 7",
+      "year": "1972",
+      "x": 721.12,
+      "y": 2642.9,
+      "size": 2
+    },
+    {
+      "id": "ATreibich",
+      "label": "Armando Treibich",
+      "institution": "Rennes 1",
+      "year": "1991",
+      "x": 1023.7,
+      "y": 2642.9,
+      "size": 2
+    },
+    {
+      "id": "GGSprinberg",
+      "label": "Gerardo Gonzalez-Sprinberg",
+      "institution": "Paris Diderot - Paris 7",
+      "year": "1977",
+      "x": 1023.7,
+      "y": 2570.9,
+      "size": 2
+    },
+    {
+      "id": "PFledrich",
+      "label": "Pierre Flédrich",
+      "institution": "Artois",
+      "year": "2003",
+      "x": 1315.0,
+      "y": 2642.9,
+      "size": 2
+    },
+    {
+      "id": "LSchwartz",
+      "label": "Laurent Schwartz",
+      "institution": "Strasbourg",
+      "year": "1943",
+      "x": 146.37,
+      "y": 2462.9,
+      "size": 2
+    },
+    {
+      "id": "BBeauzamy",
+      "label": "Bernard Beauzamy",
+      "institution": "Paris Diderot",
+      "year": "1976",
+      "x": 414.3,
+      "y": 2426.9,
+      "size": 2
+    },
+    {
+      "id": "APereyra",
+      "label": "Angel Pereyra",
+      "institution": "Grenoble I - Udelar",
+      "year": "2000",
+      "x": 1315.0,
+      "y": 2570.9,
+      "size": 2
+    },
+    {
+      "id": "GHoch",
+      "label": "Gerhard Hochschild",
+      "institution": "Princeton",
+      "year": "1941",
+      "x": 721.12,
+      "y": 2498.9,
+      "size": 2
+    },
+    {
+      "id": "WFerrer",
+      "label": "Walter Ferrer",
+      "institution": "Berkeley",
+      "year": "1980",
+      "x": 1023.7,
+      "y": 2498.9,
+      "size": 2
+    },
+    {
+      "id": "MHaim",
+      "label": "Mariana Haim",
+      "institution": "Udelar",
+      "year": "2006",
+      "x": 1315.0,
+      "y": 2498.9,
+      "size": 2
+    },
+    {
+      "id": "AAbella",
+      "label": "Andres Abella",
+      "institution": "Udelar",
+      "year": "1999",
+      "x": 1315.0,
+      "y": 2426.9,
+      "size": 2
+    },
+    {
+      "id": "NAndru",
+      "label": "Nicolás Andruskiewitsch",
+      "institution": "Córdoba",
+      "year": "1989",
+      "x": 1023.7,
+      "y": 2426.9,
+      "size": 2
+    },
+    {
+      "id": "ECabana",
+      "label": "Enrique Cabaña",
+      "institution": "NA",
+      "year": "",
+      "x": 3678.0,
+      "y": 1983.9,
+      "size": 2
+    },
+    {
+      "id": "JKalemke",
+      "label": "Juan Kalemkerian",
+      "institution": "Udelar",
+      "year": "2006",
+      "x": 3890.8,
+      "y": 1983.9,
+      "size": 2
+    },
+    {
+      "id": "MScavino",
+      "label": "Marco Scavino",
+      "institution": "Padova",
+      "year": "1999",
+      "x": 3890.8,
+      "y": 1911.9,
+      "size": 2
+    },
+    {
+      "id": "EMor",
+      "label": "Ernesto Mordecki",
+      "institution": "Steklov",
+      "year": "1994",
+      "x": 2236.7,
+      "y": 812.87,
+      "size": 2
+    },
+    {
+      "id": "ASosa",
+      "label": "Andrés Sosa",
+      "institution": "Udelar",
+      "year": "2018",
+      "x": 2547.8,
+      "y": 920.87,
+      "size": 2
+    },
+    {
+      "id": "FDal",
+      "label": "Federico Dalmao",
+      "institution": "Udelar",
+      "year": "2013",
+      "x": 2547.8,
+      "y": 992.87,
+      "size": 2
+    },
+    {
+      "id": "FCro",
+      "label": "Fabián Crocce",
+      "institution": "Udelar",
+      "year": "2012",
+      "x": 2547.8,
+      "y": 848.87,
+      "size": 2
+    },
+    {
+      "id": "FOliu",
+      "label": "Facundo Oliú",
+      "institution": "Udelar",
+      "year": "2025",
+      "x": 2547.8,
+      "y": 704.87,
+      "size": 2
+    },
+    {
+      "id": "FDOlivera",
+      "label": "Federico De Olivera",
+      "institution": "Udelar",
+      "year": "2016",
+      "x": 2547.8,
+      "y": 776.87,
+      "size": 2
+    },
+    {
+      "id": "LAspi",
+      "label": "Laura Aspirot",
+      "institution": "Udelar",
+      "year": "2019",
+      "x": 2547.8,
+      "y": 632.87,
+      "size": 2
+    },
+    {
+      "id": "JBarbajan",
+      "label": "José Fajardo",
+      "institution": "NA",
+      "year": "",
+      "x": 2236.7,
+      "y": 920.87,
+      "size": 2
+    },
+    {
+      "id": "MWsche",
+      "label": "Mario Wschebor",
+      "institution": "Paris-Sud XI",
+      "year": "1972",
+      "x": 2236.7,
+      "y": 1100.9,
+      "size": 2
+    },
+    {
+      "id": "JLeon",
+      "label": "José León",
+      "institution": "Central de Venezuela",
+      "year": "1982",
+      "x": 2547.8,
+      "y": 1136.9,
+      "size": 2
+    },
+    {
+      "id": "GPerera",
+      "label": "Gonzalo Perera",
+      "institution": "Udelar",
+      "year": "1994",
+      "x": 2547.8,
+      "y": 1064.9,
+      "size": 2
+    },
+    {
+      "id": "DArmentano",
+      "label": "Diego Armentano",
+      "institution": "Udelar",
+      "year": "2012",
+      "x": 2547.8,
+      "y": 1208.9,
+      "size": 2
+    },
+    {
+      "id": "SChrist",
+      "label": "Sören Christensen",
+      "institution": "Christian Albrecht de Kiel",
+      "year": "2010",
+      "x": 2236.7,
+      "y": 704.87,
+      "size": 2
+    },
+    {
+      "id": "AIrle",
+      "label": "Albrecht Irle",
+      "institution": "Münster",
+      "year": "1973",
+      "x": 1926.3,
+      "y": 704.87,
+      "size": 2
+    },
+    {
+      "id": "SSmale",
+      "label": "Stephen Smale",
+      "institution": "Michigan",
+      "year": "1957",
+      "x": 1926.3,
+      "y": 1858.9,
+      "size": 2
+    },
+    {
+      "id": "MShub",
+      "label": "Michael Shub",
+      "institution": "California",
+      "year": "1967",
+      "x": 2236.7,
+      "y": 1388.9,
+      "size": 2
+    },
+    {
+      "id": "JPalis",
+      "label": "Jacob Palis, Jr.",
+      "institution": "California",
+      "year": "1968",
+      "x": 2236.7,
+      "y": 2030.9,
+      "size": 2
+    },
+    {
+      "id": "MGuille",
+      "label": "Mauricio Guillermo",
+      "institution": "Paris Diderot",
+      "year": "2008",
+      "x": 3886.5,
+      "y": 2494.9,
+      "size": 2
+    },
+    {
+      "id": "JKrivine",
+      "label": "Jean-Louis Krivine",
+      "institution": "Paris",
+      "year": "1967",
+      "x": 3667.4,
+      "y": 2494.9,
+      "size": 2
+    },
+    {
+      "id": "HHerbelin",
+      "label": "Hugo Herbelin",
+      "institution": "Paris Diderot - Paris 7",
+      "year": "1995",
+      "x": 2441.9,
+      "y": 3166.9,
+      "size": 2
+    },
+    {
+      "id": "AMiquel",
+      "label": "Alexandre Miquel",
+      "institution": "Paris Diderot",
+      "year": "2001",
+      "x": 2697.1,
+      "y": 3166.9,
+      "size": 2
+    },
+    {
+      "id": "EMiquey",
+      "label": "Étienne Miquey",
+      "institution": "Udelar - Paris Diderot",
+      "year": "2017",
+      "x": 2950.9,
+      "y": 3211.9,
+      "size": 2
+    },
+    {
+      "id": "FCastro",
+      "label": "Félix Castro",
+      "institution": "Udelar - Paris Cité",
+      "year": "2024",
+      "x": 2950.9,
+      "y": 3130.9,
+      "size": 2
+    },
+    {
+      "id": "ECat",
+      "label": "Eleonora Catsigeras",
+      "institution": "IMPA",
+      "year": "1995",
+      "x": 2547.8,
+      "y": 2571.9,
+      "size": 2
+    },
+    {
+      "id": "ACalderon",
+      "label": "Alfredo Calderón",
+      "institution": "PUCV, UTFSM, UV",
+      "year": "2020",
+      "x": 2865.9,
+      "y": 2571.9,
+      "size": 2
+    },
+    {
+      "id": "PGuiraud",
+      "label": "Pierre Guiraud",
+      "institution": "Provence",
+      "year": "2004",
+      "x": 2547.8,
+      "y": 2499.9,
+      "size": 2
+    },
+    {
+      "id": "FRHertz",
+      "label": "Federico Rodriguez-Hertz",
+      "institution": "IMPA",
+      "year": "2001",
+      "x": 2547.8,
+      "y": 2355.9,
+      "size": 2
+    },
+    {
+      "id": "BYemini",
+      "label": "Bruno Yemini",
+      "institution": "UTFSM-PUCV-UV",
+      "year": "2022",
+      "x": 3177.0,
+      "y": 2463.9,
+      "size": 2
+    },
+    {
+      "id": "FValenzuela",
+      "label": "Francisco Valenzuela",
+      "institution": "IMPA",
+      "year": "2009",
+      "x": 2865.9,
+      "y": 2499.9,
+      "size": 2
+    },
+    {
+      "id": "RSaghin",
+      "label": "Radu Saghin",
+      "institution": "Northwestern",
+      "year": "2005",
+      "x": 2865.9,
+      "y": 2427.9,
+      "size": 2
+    },
+    {
+      "id": "EPujals",
+      "label": "Enrique Pujals",
+      "institution": "IMPA",
+      "year": "1996",
+      "x": 2547.8,
+      "y": 2283.9,
+      "size": 2
+    },
+    {
+      "id": "JCorrea",
+      "label": "Javier Correa",
+      "institution": "IMPA",
+      "year": "2014",
+      "x": 2865.9,
+      "y": 2355.9,
+      "size": 2
+    },
+    {
+      "id": "PGuarino",
+      "label": "Pablo Guarino",
+      "institution": "IMPA",
+      "year": "2012",
+      "x": 2865.9,
+      "y": 2283.9,
+      "size": 2
+    },
+    {
+      "id": "XGom",
+      "label": "Xavier Gomez-Mont Avalos",
+      "institution": "Princeton",
+      "year": "1978",
+      "x": 1926.3,
+      "y": 1570.9,
+      "size": 2
+    },
+    {
+      "id": "RMar",
+      "label": "Roberto Markarian",
+      "institution": "IMPA",
+      "year": "1990",
+      "x": 2547.8,
+      "y": 1812.9,
+      "size": 2
+    },
+    {
+      "id": "MSam",
+      "label": "Martin Sambarino",
+      "institution": "IMPA",
+      "year": "1998",
+      "x": 2547.8,
+      "y": 1714.9,
+      "size": 2
+    },
+    {
+      "id": "RMan",
+      "label": "Ricardo Mañé",
+      "institution": "IMPA",
+      "year": "1973",
+      "x": 2547.8,
+      "y": 2751.9,
+      "size": 2
+    },
+    {
+      "id": "RUres",
+      "label": "Raul Ures",
+      "institution": "IMPA",
+      "year": "1993",
+      "x": 2547.8,
+      "y": 1316.9,
+      "size": 2
+    },
+    {
+      "id": "MViana",
+      "label": "Marcelo Viana",
+      "institution": "IMPA",
+      "year": "1990",
+      "x": 2547.8,
+      "y": 1884.9,
+      "size": 2
+    },
+    {
+      "id": "WMelo",
+      "label": "Welington de Melo",
+      "institution": "IMPA",
+      "year": "1972",
+      "x": 2547.8,
+      "y": 2067.9,
+      "size": 2
+    },
+    {
+      "id": "RBott",
+      "label": "Raoul Bott",
+      "institution": "Carnegie Mellon",
+      "year": "1949",
+      "x": 1630.1,
+      "y": 1858.9,
+      "size": 2
+    },
+    {
+      "id": "RPot",
+      "label": "Rafael Potrie",
+      "institution": "Udelar",
+      "year": "2012",
+      "x": 2865.9,
+      "y": 1631.9,
+      "size": 2
+    },
+    {
+      "id": "Lpineyrua",
+      "label": "Luis Piñeyrúa",
+      "institution": "Udelar",
+      "year": "2022",
+      "x": 3177.0,
+      "y": 1664.9,
+      "size": 2
+    },
+    {
+      "id": "Smartin",
+      "label": "Santiago Martinchich",
+      "institution": "Udelar Paris-Saclay",
+      "year": "2023",
+      "x": 3177.0,
+      "y": 1584.9,
+      "size": 2
+    },
+    {
+      "id": "LCarv",
+      "label": "León Carvajales",
+      "institution": "Udelar",
+      "year": "2020",
+      "x": 3177.0,
+      "y": 1455.9,
+      "size": 2
+    },
+    {
+      "id": "ADal",
+      "label": "Adriana Da Luz",
+      "institution": "Udelar Bourgogne",
+      "year": "2017",
+      "x": 2865.9,
+      "y": 1504.9,
+      "size": 2
+    },
+    {
+      "id": "SCrov",
+      "label": "Sylvain Crovisier",
+      "institution": "Paris-Sud XI",
+      "year": "2001",
+      "x": 2547.8,
+      "y": 1642.9,
+      "size": 2
+    },
+    {
+      "id": "CBon",
+      "label": "Christian Bonatti",
+      "institution": "Paris-Sud XI",
+      "year": "1984",
+      "x": 1926.3,
+      "y": 1443.9,
+      "size": 2
+    },
+    {
+      "id": "MShannon",
+      "label": "Mario Shannon",
+      "institution": "Bourgogne",
+      "year": "2020",
+      "x": 2236.7,
+      "y": 1316.9,
+      "size": 2
+    },
+    {
+      "id": "SAlvarez",
+      "label": "Sébastien Alvarez",
+      "institution": "Bourgogne",
+      "year": "2013",
+      "x": 2236.7,
+      "y": 1244.9,
+      "size": 2
+    },
+    {
+      "id": "GLevitt",
+      "label": "Gilbert Levitt",
+      "institution": "Paris Diderot - Paris 7",
+      "year": "1983",
+      "x": 1630.1,
+      "y": 1443.9,
+      "size": 2
+    },
+    {
+      "id": "MPat",
+      "label": "Miguel Paternain",
+      "institution": "IMPA",
+      "year": "1990",
+      "x": 2865.9,
+      "y": 2787.9,
+      "size": 2
+    },
+    {
+      "id": "HEnrich",
+      "label": "Heber Enrich",
+      "institution": "IMPA",
+      "year": "1995",
+      "x": 2865.9,
+      "y": 2715.9,
+      "size": 2
+    },
+    {
+      "id": "JBrum",
+      "label": "Joaquín Brum",
+      "institution": "Udelar",
+      "year": "2017",
+      "x": 3177.0,
+      "y": 2715.9,
+      "size": 2
+    },
+    {
+      "id": "JFran",
+      "label": "Jean-François Quint",
+      "institution": "ENS",
+      "year": "2001",
+      "x": 2547.8,
+      "y": 1388.9,
+      "size": 2
+    },
+    {
+      "id": "ASam",
+      "label": "Andrés Sambarino",
+      "institution": "Paris XIII",
+      "year": "2011",
+      "x": 2865.9,
+      "y": 1398.9,
+      "size": 2
+    },
+    {
+      "id": "NGuel",
+      "label": "Nancy Guelman",
+      "institution": "Udelar",
+      "year": "2003",
+      "x": 2865.9,
+      "y": 1316.9,
+      "size": 2
+    },
+    {
+      "id": "MMatos",
+      "label": "Mauricio Peixoto",
+      "institution": "Rural de Rio",
+      "year": "1948",
+      "x": 2236.7,
+      "y": 1956.9,
+      "size": 2
+    },
+    {
+      "id": "JLew",
+      "label": "Jorge Lewowicz",
+      "institution": "Brown University",
+      "year": "1966",
+      "x": 2547.8,
+      "y": 1956.9,
+      "size": 2
+    },
+    {
+      "id": "JRod",
+      "label": "Jana Rodriguez-Hertz",
+      "institution": "Udelar",
+      "year": "1999",
+      "x": 2865.9,
+      "y": 1923.9,
+      "size": 2
+    },
+    {
+      "id": "JGrois",
+      "label": "Jorge Groisman",
+      "institution": "Udelar",
+      "year": "2007",
+      "x": 2865.9,
+      "y": 1851.9,
+      "size": 2
+    },
+    {
+      "id": "JViei",
+      "label": "José Vieitez",
+      "institution": "Udelar",
+      "year": "1992",
+      "x": 2865.9,
+      "y": 1995.9,
+      "size": 2
+    },
+    {
+      "id": "GNun",
+      "label": "Gabriel Núñez",
+      "institution": "Udelar",
+      "year": "2018",
+      "x": 3177.0,
+      "y": 1923.9,
+      "size": 2
+    },
+    {
+      "id": "GCous",
+      "label": "Gonzalo Cousillas",
+      "institution": "Udelar",
+      "year": "2025",
+      "x": 3177.0,
+      "y": 1824.9,
+      "size": 2
+    },
+    {
+      "id": "AArtigue",
+      "label": "Alfonso Artigue",
+      "institution": "Udelar",
+      "year": "2015",
+      "x": 3177.0,
+      "y": 2050.9,
+      "size": 2
+    },
+    {
+      "id": "MAchigar",
+      "label": "Mauricio Achigar",
+      "institution": "Udelar",
+      "year": "2019",
+      "x": 3418.7,
+      "y": 2013.9,
+      "size": 2
+    },
+    {
+      "id": "AGasull",
+      "label": "Armengol Gasull",
+      "institution": "Autónoma de Barcelona",
+      "year": "1986",
+      "x": 2865.9,
+      "y": 1779.9,
+      "size": 2
+    },
+    {
+      "id": "HJudah",
+      "label": "Haim Judah",
+      "institution": "Hebrew Univ. of Jerusalem",
+      "year": "1987",
+      "x": 2865.9,
+      "y": 2211.9,
+      "size": 2
+    },
+    {
+      "id": "JBagaria",
+      "label": "Joan Bagaria",
+      "institution": "UC Berkeley",
+      "year": "1991",
+      "x": 3177.0,
+      "y": 2139.9,
+      "size": 2
+    },
+    {
+      "id": "WWoodin",
+      "label": "William Woodin",
+      "institution": "UC Berkeley",
+      "year": "1984",
+      "x": 2865.9,
+      "y": 2139.9,
+      "size": 2
+    },
+    {
+      "id": "LRosa",
+      "label": "Luis Rosa",
+      "institution": "Udelar",
+      "year": "2025",
+      "x": 3418.7,
+      "y": 2121.9,
+      "size": 2
+    },
+    {
+      "id": "ERego",
+      "label": "Elias Rego",
+      "institution": "UFRJ",
+      "year": "2021",
+      "x": 3418.7,
+      "y": 1846.9,
+      "size": 2
+    },
+    {
+      "id": "AArbieto",
+      "label": "Alexander Arbieto",
+      "institution": "IMPA",
+      "year": "2004",
+      "x": 3177.0,
+      "y": 1738.9,
+      "size": 2
+    },
+    {
+      "id": "MJose",
+      "label": "Maria Jose Pacifico",
+      "institution": "IMPA",
+      "year": "1980",
+      "x": 2865.9,
+      "y": 2067.9,
+      "size": 2
+    },
+    {
+      "id": "HRosen",
+      "label": "Harold Rosenberg",
+      "institution": "Berkeley",
+      "year": "1963",
+      "x": 1630.1,
+      "y": 1579.9,
+      "size": 2
+    },
+    {
+      "id": "Mherman",
+      "label": "Michael Herman",
+      "institution": "Paris-Sud XI",
+      "year": "1976",
+      "x": 1926.3,
+      "y": 1642.9,
+      "size": 2
+    },
+    {
+      "id": "JYoccoz",
+      "label": "Jean-Christophe Yoccoz",
+      "institution": "École Polytechnique",
+      "year": "1985",
+      "x": 2236.7,
+      "y": 1714.9,
+      "size": 2
+    },
+    {
+      "id": "PCalvez",
+      "label": "Patrice Le Calvez",
+      "institution": "Paris Diderot",
+      "year": "1987",
+      "x": 2236.7,
+      "y": 1642.9,
+      "size": 2
+    },
+    {
+      "id": "JXavier",
+      "label": "Juliana Xavier",
+      "institution": "Paris XIII",
+      "year": "2011",
+      "x": 2547.8,
+      "y": 1570.9,
+      "size": 2
+    },
+    {
+      "id": "JAlonso",
+      "label": "Juan Alonso",
+      "institution": "Cornell",
+      "year": "2012",
+      "x": 2865.9,
+      "y": 2643.9,
+      "size": 2
+    },
+    {
+      "id": "KVogt",
+      "label": "Karen Vogtmann",
+      "institution": "California, Berkeley",
+      "year": "1977",
+      "x": 2547.8,
+      "y": 2643.9,
+      "size": 2
+    },
+    {
+      "id": "MFariello",
+      "label": "María Inés Fariello",
+      "institution": "Paul Sabatier",
+      "year": "2013",
+      "x": 3936.7,
+      "y": 446.87,
+      "size": 2
+    },
+    {
+      "id": "MSCristobal",
+      "label": "Magali SanCristobal",
+      "institution": "NA",
+      "year": "",
+      "x": 3707.7,
+      "y": 518.87,
+      "size": 2
+    },
+    {
+      "id": "SBoitard",
+      "label": "Simon Boitard",
+      "institution": "NA",
+      "year": "",
+      "x": 3707.7,
+      "y": 446.87,
+      "size": 2
+    },
+    {
+      "id": "HNaya",
+      "label": "Hugo Naya",
+      "institution": "Udelar",
+      "year": "2004",
+      "x": 3707.7,
+      "y": 374.87,
+      "size": 2
+    },
+    {
+      "id": "GSapiro",
+      "label": "Guillermo Sapiro",
+      "institution": "Technion",
+      "year": "1993",
+      "x": 762.84,
+      "y": 3026.9,
+      "size": 2
+    },
+    {
+      "id": "MFiori",
+      "label": "Marcelo Fiori",
+      "institution": "Udelar",
+      "year": "2015",
+      "x": 1069.7,
+      "y": 2975.9,
+      "size": 2
+    },
+    {
+      "id": "FMemoli",
+      "label": "Facundo Mémoli",
+      "institution": "Minnesota",
+      "year": "2005",
+      "x": 1069.7,
+      "y": 3047.9,
+      "size": 2
+    },
+    {
+      "id": "MGon",
+      "label": "Mario González",
+      "institution": "Udelar - Paris Descartes",
+      "year": "2021",
+      "x": 1069.7,
+      "y": 2831.9,
+      "size": 2
+    },
+    {
+      "id": "IDaub",
+      "label": "Ingrid Daubechies",
+      "institution": "Vrije",
+      "year": "1980",
+      "x": 3614.3,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "RWard",
+      "label": "Rachel Ward",
+      "institution": "Princeton",
+      "year": "2009",
+      "x": 3817.2,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "SVillar",
+      "label": "Soledad Villar",
+      "institution": "Texas at Austin",
+      "year": "2017",
+      "x": 4034.9,
+      "y": 3342.9,
+      "size": 2
+    },
+    {
+      "id": "RMarie",
+      "label": "Raymond Marie",
+      "institution": "NA",
+      "year": "",
+      "x": 1926.3,
+      "y": 512.87,
+      "size": 2
+    },
+    {
+      "id": "GRub",
+      "label": "Gerardo Rubino",
+      "institution": "Rennes",
+      "year": "1984",
+      "x": 2236.7,
+      "y": 512.87,
+      "size": 2
+    },
+    {
+      "id": "FRobledo",
+      "label": "Franco Robledo",
+      "institution": "Udelar - Rennes I",
+      "year": "2005",
+      "x": 2865.9,
+      "y": 522.87,
+      "size": 2
+    },
+    {
+      "id": "HCancela",
+      "label": "Héctor Cancela",
+      "institution": "INRIA",
+      "year": "1996",
+      "x": 2547.8,
+      "y": 484.87,
+      "size": 2
+    },
+    {
+      "id": "CRisso",
+      "label": "Claudio Risso",
+      "institution": "Udelar",
+      "year": "2014",
+      "x": 3177.0,
+      "y": 577.87,
+      "size": 2
+    },
+    {
+      "id": "PRBocca",
+      "label": "Pablo Rodríguez-Bocca",
+      "institution": "Udelar - Rennes I",
+      "year": "2008",
+      "x": 2865.9,
+      "y": 450.87,
+      "size": 2
+    },
+    {
+      "id": "JGraneri",
+      "label": "Jorge Graneri",
+      "institution": "Udelar",
+      "year": "2019",
+      "x": 2547.8,
+      "y": 374.87,
+      "size": 2
+    },
+    {
+      "id": "PRomero",
+      "label": "Pablo Romero",
+      "institution": "Udelar",
+      "year": "2012",
+      "x": 3177.0,
+      "y": 467.87,
+      "size": 2
+    },
+    {
+      "id": "JPiccini",
+      "label": "Juan Piccini",
+      "institution": "Udelar",
+      "year": "2022",
+      "x": 3418.7,
+      "y": 495.87,
+      "size": 2
+    },
+    {
+      "id": "EMizraji",
+      "label": "Eduardo Mizraji",
+      "institution": "Udelar",
+      "year": "1980",
+      "x": 2236.7,
+      "y": 374.87,
+      "size": 2
+    },
+    {
+      "id": "FPesarin",
+      "label": "Fortunato Pesarin",
+      "institution": "NA",
+      "year": "",
+      "x": 3678.0,
+      "y": 1911.9,
+      "size": 2
+    },
+    {
+      "id": "GGiannakis",
+      "label": "Georgios Giannakis",
+      "institution": "Southern California",
+      "year": "1986",
+      "x": 804.56,
+      "y": 1207.9,
+      "size": 2
+    },
+    {
+      "id": "GMateos",
+      "label": "Gonzalo Mateos",
+      "institution": "Minnesota",
+      "year": "2012",
+      "x": 1085.2,
+      "y": 1207.9,
+      "size": 2
+    },
+    {
+      "id": "BMarenco",
+      "label": "Bernardo Marenco",
+      "institution": "Udelar",
+      "year": "2025",
+      "x": 1340.4,
+      "y": 1189.9,
+      "size": 2
+    },
+    {
+      "id": "PBermolen",
+      "label": "Paola Bermolen",
+      "institution": "ParisTech",
+      "year": "2010",
+      "x": 1085.2,
+      "y": 1135.9,
+      "size": 2
+    },
+    {
+      "id": "VGoi",
+      "label": "Valeria Goicoechea",
+      "institution": "Udelar",
+      "year": "2022",
+      "x": 1340.4,
+      "y": 1099.9,
+      "size": 2
+    },
+    {
+      "id": "FBac",
+      "label": "François Baccelli",
+      "institution": "Paris-Sud XI",
+      "year": "1980",
+      "x": 804.56,
+      "y": 1135.9,
+      "size": 2
+    },
+    {
+      "id": "DRos",
+      "label": "Dario Rossi",
+      "institution": "NA",
+      "year": "",
+      "x": 804.56,
+      "y": 1063.9,
+      "size": 2
+    },
+    {
+      "id": "JMat",
+      "label": "Matthieu Jonckheere",
+      "institution": "École Polytechnique",
+      "year": "2005",
+      "x": 1085.2,
+      "y": 1063.9,
+      "size": 2
+    },
+    {
+      "id": "VYohai",
+      "label": "Victor Yohai",
+      "institution": "Berkeley",
+      "year": "1969",
+      "x": 1688.0,
+      "y": 3274.9,
+      "size": 2
+    },
+    {
+      "id": "RFraiman",
+      "label": "Ricardo Fraiman",
+      "institution": "UBA",
+      "year": "1980",
+      "x": 1892.2,
+      "y": 3274.9,
+      "size": 2
+    },
+    {
+      "id": "MBourel",
+      "label": "Mathias Bourel",
+      "institution": "Aix-Marseille",
+      "year": "2013",
+      "x": 2125.5,
+      "y": 3346.9,
+      "size": 2
+    },
+    {
+      "id": "AChol",
+      "label": "Alejandro Cholaquidis",
+      "institution": "Udelar",
+      "year": "2014",
+      "x": 2125.5,
+      "y": 3202.9,
+      "size": 2
+    },
+    {
+      "id": "ICan",
+      "label": "Isabel Cañete",
+      "institution": "Udelar",
+      "year": "2003",
+      "x": 2125.5,
+      "y": 3274.9,
+      "size": 2
+    },
+    {
+      "id": "LMor",
+      "label": "Leonardo Moreno",
+      "institution": "Udelar",
+      "year": "2019",
+      "x": 2125.5,
+      "y": 3130.9,
+      "size": 2
+    },
+    {
+      "id": "CDeniau",
+      "label": "Claude Deniau",
+      "institution": "NA",
+      "year": "",
+      "x": 1688.0,
+      "y": 3346.9,
+      "size": 2
+    },
+    {
+      "id": "BGhattas",
+      "label": "Badih Ghattas",
+      "institution": "Aix-Marseille",
+      "year": "2000",
+      "x": 1892.2,
+      "y": 3346.9,
+      "size": 2
+    },
+    {
+      "id": "ACuev",
+      "label": "Antonio Cuevas",
+      "institution": "NA",
+      "year": "1981",
+      "x": 1892.2,
+      "y": 3202.9,
+      "size": 2
+    },
+    {
+      "id": "FGamboa",
+      "label": "Fabrice Gamboa",
+      "institution": "Paris-Sud XI",
+      "year": "1989",
+      "x": 1892.2,
+      "y": 3130.9,
+      "size": 2
+    },
+    {
+      "id": "JPKahane",
+      "label": "Jean-Pierre Kahane",
+      "institution": "CNRS",
+      "year": "1954",
+      "x": 1926.3,
+      "y": 1100.9,
+      "size": 2
+    },
+    {
+      "id": "JDed",
+      "label": "Jean-Pierre Dedieu",
+      "institution": "NA",
+      "year": "1975",
+      "x": 2236.7,
+      "y": 1172.9,
+      "size": 2
+    },
+    {
+      "id": "FCarrasco",
+      "label": "Federico Carrasco",
+      "institution": "Udelar",
+      "year": "2025",
+      "x": 2865.9,
+      "y": 1208.9,
+      "size": 2
+    },
+    {
+      "id": "AKolmo",
+      "label": "Andrei Kolmogorov",
+      "institution": "Lomonosov",
+      "year": "1925",
+      "x": 1630.1,
+      "y": 812.87,
+      "size": 2
+    },
+    {
+      "id": "AShiry",
+      "label": "Albert Shiryaev",
+      "institution": "Steklov",
+      "year": "1961",
+      "x": 1926.3,
+      "y": 812.87,
+      "size": 2
+    },
+    {
+      "id": "FLedra",
+      "label": "François Ledrappier",
+      "institution": "Paris VI",
+      "year": "1975",
+      "x": 2236.7,
+      "y": 1498.9,
+      "size": 2
+    },
+    {
+      "id": "FRod",
+      "label": "Fernando Rodriguez-Villegas",
+      "institution": "Ohio State",
+      "year": "1990",
+      "x": 3413.6,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "GTor",
+      "label": "Gonzalo Tornaría",
+      "institution": "Texas at Austin",
+      "year": "2005",
+      "x": 3687.2,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "GRam",
+      "label": "Gustavo Rama",
+      "institution": "Udelar",
+      "year": "2020",
+      "x": 3902.8,
+      "y": 215.87,
+      "size": 2
+    },
+    {
+      "id": "RExel",
+      "label": "Ruy Exel",
+      "institution": "Berkeley",
+      "year": "1985",
+      "x": 912.75,
+      "y": 1896.9,
+      "size": 2
+    },
+    {
+      "id": "FAbadie",
+      "label": "Fernando Abadie",
+      "institution": "Sao Paulo",
+      "year": "1999",
+      "x": 1155.2,
+      "y": 1896.9,
+      "size": 2
+    },
+    {
+      "id": "DFerraro",
+      "label": "Damián Ferraro",
+      "institution": "Udelar",
+      "year": "2016",
+      "x": 1356.0,
+      "y": 1932.9,
+      "size": 2
+    },
+    {
+      "id": "ABuss",
+      "label": "Alcides Buss",
+      "institution": "Münster",
+      "year": "2007",
+      "x": 1155.2,
+      "y": 1968.9,
+      "size": 2
+    },
+    {
+      "id": "BAbadie",
+      "label": "Beatriz Abadie",
+      "institution": "Berkeley",
+      "year": "1992",
+      "x": 912.75,
+      "y": 1824.9,
+      "size": 2
+    },
+    {
+      "id": "MAristide",
+      "label": "Marc Aristide Rieffel",
+      "institution": "Columbia",
+      "year": "1963",
+      "x": 658.25,
+      "y": 1824.9,
+      "size": 2
+    },
+    {
+      "id": "CPhillips",
+      "label": "Christopher Phillips",
+      "institution": "California, Berkeley",
+      "year": "1984",
+      "x": 912.75,
+      "y": 1752.9,
+      "size": 2
+    },
+    {
+      "id": "EGardella",
+      "label": "Eusebio Gardella",
+      "institution": "Oregon",
+      "year": "2015",
+      "x": 1155.2,
+      "y": 1752.9,
+      "size": 2
+    },
+    {
+      "id": "VDlab",
+      "label": "Vlastimil B. Dlab",
+      "institution": "Charles Univ.",
+      "year": "1959",
+      "x": 968.55,
+      "y": 3289.9,
+      "size": 2
+    },
+    {
+      "id": "IAssem",
+      "label": "Ibrahim Assem",
+      "institution": "Carleton",
+      "year": "1981",
+      "x": 1175.7,
+      "y": 3289.9,
+      "size": 2
+    },
+    {
+      "id": "VGubitosi",
+      "label": "Viviana Gubitosi",
+      "institution": "Sherbrooke, Canadá",
+      "year": "2013",
+      "x": 1414.6,
+      "y": 3289.9,
+      "size": 2
+    },
+    {
+      "id": "DLewis",
+      "label": "Donald John Lewis",
+      "institution": "Michigan",
+      "year": "1950",
+      "x": 146.37,
+      "y": 2354.9,
+      "size": 2
+    },
+    {
+      "id": "EEnochs",
+      "label": "Edgar Enochs",
+      "institution": "Notre Dame",
+      "year": "1958",
+      "x": 414.3,
+      "y": 2354.9,
+      "size": 2
+    },
+    {
+      "id": "DBravo",
+      "label": "Diego Bravo",
+      "institution": "Los Andes",
+      "year": "2011",
+      "x": 721.12,
+      "y": 2354.9,
+      "size": 2
+    },
+    {
+      "id": "JRada",
+      "label": "Juan Rada",
+      "institution": "Murcia",
+      "year": "1996",
+      "x": 414.3,
+      "y": 2282.9,
+      "size": 2
+    },
+    {
+      "id": "RParra",
+      "label": "Rafael Parra",
+      "institution": "Los Andes",
+      "year": "2012",
+      "x": 721.12,
+      "y": 2282.9,
+      "size": 2
+    },
+    {
+      "id": "FCubria",
+      "label": "Florencia Cubría",
+      "institution": "Udelar",
+      "year": "2023",
+      "x": 1023.7,
+      "y": 2354.9,
+      "size": 2
+    },
+    {
+      "id": "VTrevisan",
+      "label": "Vilmar Trevisan",
+      "institution": "Kent State",
+      "year": "1992",
+      "x": 721.12,
+      "y": 2426.9,
+      "size": 2
+    },
+    {
+      "id": "SWang",
+      "label": "Shyh-Horng Wang",
+      "institution": "MIT",
+      "year": "1971",
+      "x": 414.3,
+      "y": 2498.9,
+      "size": 2
+    },
+    {
+      "id": "OVilla",
+      "label": "Orlando Villamayor",
+      "institution": "Córdoba",
+      "year": "1946",
+      "x": 924.06,
+      "y": 1400.9,
+      "size": 2
+    },
+    {
+      "id": "ASol",
+      "label": "Andrea Solotar",
+      "institution": "UBA",
+      "year": "1988",
+      "x": 1146.7,
+      "y": 1436.9,
+      "size": 2
+    },
+    {
+      "id": "GCort",
+      "label": "Guillermo Cortiñas",
+      "institution": "UBA",
+      "year": "1989",
+      "x": 1146.7,
+      "y": 1364.9,
+      "size": 2
+    },
+    {
+      "id": "FCoel",
+      "label": "Flavio Coelho",
+      "institution": "Liverpool",
+      "year": "1990",
+      "x": 924.06,
+      "y": 1616.9,
+      "size": 2
+    },
+    {
+      "id": "MLan",
+      "label": "Marcelo Lanzilotta",
+      "institution": "Udelar",
+      "year": "2000",
+      "x": 1146.7,
+      "y": 1544.9,
+      "size": 2
+    },
+    {
+      "id": "STrep",
+      "label": "Sonia Trepode",
+      "institution": "Sao Paulo",
+      "year": "1996",
+      "x": 1146.7,
+      "y": 1616.9,
+      "size": 2
+    },
+    {
+      "id": "AJones",
+      "label": "Alfredo Jones",
+      "institution": "Illinois",
+      "year": "1962",
+      "x": 924.06,
+      "y": 1544.9,
+      "size": 2
+    },
+    {
+      "id": "IRein",
+      "label": "Irving Reiner",
+      "institution": "Cornell",
+      "year": "1947",
+      "x": 725.43,
+      "y": 1544.9,
+      "size": 2
+    },
+    {
+      "id": "GMata",
+      "label": "Gustavo Mata",
+      "institution": "Udelar",
+      "year": "2015",
+      "x": 1355.3,
+      "y": 1616.9,
+      "size": 2
+    },
+    {
+      "id": "JVivero",
+      "label": "José Vivero",
+      "institution": "Udelar",
+      "year": "2022",
+      "x": 1355.3,
+      "y": 1472.9,
+      "size": 2
+    },
+    {
+      "id": "DArt",
+      "label": "Dalia Artenstein",
+      "institution": "Udelar",
+      "year": "2015",
+      "x": 1355.3,
+      "y": 1544.9,
+      "size": 2
+    },
+    {
+      "id": "Jcop",
+      "label": "Javier Cóppola",
+      "institution": "Udelar",
+      "year": "2023",
+      "x": 1355.3,
+      "y": 1400.9,
+      "size": 2
+    },
+    {
+      "id": "EEllis",
+      "label": "Eugenia Ellis",
+      "institution": "Valladolid",
+      "year": "2011",
+      "x": 1355.3,
+      "y": 1328.9,
+      "size": 2
+    },
+    {
+      "id": "MPerez",
+      "label": "Marco Pérez",
+      "institution": "Québec à Montréal",
+      "year": "2014",
+      "x": 3859.0,
+      "y": 2653.9,
+      "size": 2
+    },
+    {
+      "id": "AJoyal",
+      "label": "André Joyal",
+      "institution": "NA",
+      "year": "",
+      "x": 3640.5,
+      "y": 2653.9,
+      "size": 2
+    },
+    {
+      "id": "AGon",
+      "label": "Ana González",
+      "institution": "CINVESTAV-IPN",
+      "year": "2010",
+      "x": 3868.9,
+      "y": 2812.9,
+      "size": 2
+    },
+    {
+      "id": "ELara",
+      "label": "Ernesto Lara",
+      "institution": "Stanford",
+      "year": "1997",
+      "x": 3648.3,
+      "y": 2812.9,
+      "size": 2
+    },
+    {
+      "id": "OMalherbe",
+      "label": "Octavio Malherbe",
+      "institution": "Ottawa",
+      "year": "2010",
+      "x": 3891.5,
+      "y": 2159.9,
+      "size": 2
+    },
+    {
+      "id": "PSelinger",
+      "label": "Peter Selinger",
+      "institution": "Pennsylvania",
+      "year": "1997",
+      "x": 3673.1,
+      "y": 2195.9,
+      "size": 2
+    },
+    {
+      "id": "PScott",
+      "label": "Philip Scott",
+      "institution": "Waterloo",
+      "year": "1976",
+      "x": 3673.1,
+      "y": 2123.9,
+      "size": 2
+    },
+    {
+      "id": "MPereira",
+      "label": "Mariana Pereira",
+      "institution": "Texas A&M",
+      "year": "2006",
+      "x": 3891.5,
+      "y": 2971.9,
+      "size": 2
+    },
+    {
+      "id": "SWithe",
+      "label": "Sarah Witherspoon",
+      "institution": "Chicago",
+      "year": "1994",
+      "x": 3673.8,
+      "y": 2971.9,
+      "size": 2
+    },
+    {
+      "id": "\\n",
+      "label": "",
+      "institution": "",
+      "year": "",
+      "x": 0.0,
+      "y": 0.0,
+      "size": 2
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "SD",
+      "target": "RMuniz"
+    },
+    {
+      "id": "e1",
+      "source": "JFernandez",
+      "target": "LPezzo"
+    },
+    {
+      "id": "e2",
+      "source": "NWolanski",
+      "target": "JFernandez"
+    },
+    {
+      "id": "e3",
+      "source": "SVaradhan",
+      "target": "IArmendariz"
+    },
+    {
+      "id": "e4",
+      "source": "IArmendariz",
+      "target": "NFrevenza"
+    },
+    {
+      "id": "e5",
+      "source": "PFerrari",
+      "target": "NFrevenza"
+    },
+    {
+      "id": "e6",
+      "source": "EAndjel",
+      "target": "PFerrari"
+    },
+    {
+      "id": "e7",
+      "source": "SCosta",
+      "target": "CQureshi"
+    },
+    {
+      "id": "e8",
+      "source": "DPanario",
+      "target": "CQureshi"
+    },
+    {
+      "id": "e9",
+      "source": "OZariski",
+      "target": "DMumford"
+    },
+    {
+      "id": "e10",
+      "source": "DMumford",
+      "target": "MStillman"
+    },
+    {
+      "id": "e11",
+      "source": "MStillman",
+      "target": "MVelasco"
+    },
+    {
+      "id": "e12",
+      "source": "ATuring",
+      "target": "RGandy"
+    },
+    {
+      "id": "e13",
+      "source": "RGandy",
+      "target": "MHyland"
+    },
+    {
+      "id": "e14",
+      "source": "MHyland",
+      "target": "ILopez"
+    },
+    {
+      "id": "e15",
+      "source": "MHyland",
+      "target": "CVasilak"
+    },
+    {
+      "id": "e16",
+      "source": "ILopez",
+      "target": "CVasilak"
+    },
+    {
+      "id": "e17",
+      "source": "JMarti",
+      "target": "ECanale"
+    },
+    {
+      "id": "e18",
+      "source": "ELopez",
+      "target": "TAcosta"
+    },
+    {
+      "id": "e19",
+      "source": "WTucker",
+      "target": "ATayler"
+    },
+    {
+      "id": "e20",
+      "source": "AHammer",
+      "target": "ATayler"
+    },
+    {
+      "id": "e21",
+      "source": "AHaef",
+      "target": "TVust"
+    },
+    {
+      "id": "e22",
+      "source": "AHaef",
+      "target": "CWeber"
+    },
+    {
+      "id": "e23",
+      "source": "TVust",
+      "target": "IPan"
+    },
+    {
+      "id": "e24",
+      "source": "CWeber",
+      "target": "IPan"
+    },
+    {
+      "id": "e25",
+      "source": "IPan",
+      "target": "RBalt"
+    },
+    {
+      "id": "e26",
+      "source": "MAnderson",
+      "target": "MReiris"
+    },
+    {
+      "id": "e27",
+      "source": "MReiris",
+      "target": "JPeraza"
+    },
+    {
+      "id": "e28",
+      "source": "MReiris",
+      "target": "IBusta"
+    },
+    {
+      "id": "e29",
+      "source": "MBrion",
+      "target": "ARittatore"
+    },
+    {
+      "id": "e30",
+      "source": "JDixmier",
+      "target": "MBrion"
+    },
+    {
+      "id": "e31",
+      "source": "MPera",
+      "target": "FTal"
+    },
+    {
+      "id": "e32",
+      "source": "FTal",
+      "target": "AGarcia"
+    },
+    {
+      "id": "e33",
+      "source": "THenrik",
+      "target": "APasseggi"
+    },
+    {
+      "id": "e34",
+      "source": "APasseggi",
+      "target": "AGarcia"
+    },
+    {
+      "id": "e35",
+      "source": "ARov",
+      "target": "AGarcia"
+    },
+    {
+      "id": "e36",
+      "source": "ARov",
+      "target": "JIgle"
+    },
+    {
+      "id": "e37",
+      "source": "JMassera",
+      "target": "IME"
+    },
+    {
+      "id": "e38",
+      "source": "IME",
+      "target": "IMERL"
+    },
+    {
+      "id": "e39",
+      "source": "RLaguardia",
+      "target": "IME"
+    },
+    {
+      "id": "e40",
+      "source": "RNevan",
+      "target": "JSchaffer"
+    },
+    {
+      "id": "e41",
+      "source": "MMart",
+      "target": "PLessa"
+    },
+    {
+      "id": "e42",
+      "source": "GRaggio",
+      "target": "GGuerber"
+    },
+    {
+      "id": "e43",
+      "source": "EFaria",
+      "target": "APortela"
+    },
+    {
+      "id": "e44",
+      "source": "AFathi",
+      "target": "EMaderna"
+    },
+    {
+      "id": "e45",
+      "source": "PHaiss",
+      "target": "MCarrasco"
+    },
+    {
+      "id": "e46",
+      "source": "MCarrasco",
+      "target": "ESequeira"
+    },
+    {
+      "id": "e47",
+      "source": "MBourdon",
+      "target": "ESequeira"
+    },
+    {
+      "id": "e48",
+      "source": "GAcosta",
+      "target": "JBortha"
+    },
+    {
+      "id": "e49",
+      "source": "RDuran",
+      "target": "GAcosta"
+    },
+    {
+      "id": "e50",
+      "source": "HBrezis",
+      "target": "JVazquez"
+    },
+    {
+      "id": "e51",
+      "source": "HBrezis",
+      "target": "JMorel"
+    },
+    {
+      "id": "e52",
+      "source": "JVazquez",
+      "target": "OGil"
+    },
+    {
+      "id": "e53",
+      "source": "JMorel",
+      "target": "PMuse"
+    },
+    {
+      "id": "e54",
+      "source": "JMorel",
+      "target": "AAlmansa"
+    },
+    {
+      "id": "e55",
+      "source": "JMorel",
+      "target": "MDelbracio"
+    },
+    {
+      "id": "e56",
+      "source": "JMorel",
+      "target": "IReyOtero"
+    },
+    {
+      "id": "e57",
+      "source": "JMorel",
+      "target": "MGardella"
+    },
+    {
+      "id": "e58",
+      "source": "JDiaz",
+      "target": "JVazquez"
+    },
+    {
+      "id": "e59",
+      "source": "PMuse",
+      "target": "MFiori"
+    },
+    {
+      "id": "e60",
+      "source": "PMuse",
+      "target": "MGon"
+    },
+    {
+      "id": "e61",
+      "source": "PMuse",
+      "target": "MDelbracio"
+    },
+    {
+      "id": "e62",
+      "source": "PMuse",
+      "target": "MGardella"
+    },
+    {
+      "id": "e63",
+      "source": "AAlmansa",
+      "target": "MGon"
+    },
+    {
+      "id": "e64",
+      "source": "AAlmansa",
+      "target": "MDelbracio"
+    },
+    {
+      "id": "e65",
+      "source": "MDelbracio",
+      "target": "IReyOtero"
+    },
+    {
+      "id": "e66",
+      "source": "MCotlar",
+      "target": "RArocena"
+    },
+    {
+      "id": "e67",
+      "source": "RCominetti",
+      "target": "APiazza"
+    },
+    {
+      "id": "e68",
+      "source": "APiazza",
+      "target": "PLorenzo"
+    },
+    {
+      "id": "e69",
+      "source": "PCartigny",
+      "target": "APiazza"
+    },
+    {
+      "id": "e70",
+      "source": "PGajardo",
+      "target": "PLorenzo"
+    },
+    {
+      "id": "e71",
+      "source": "JDieudonne",
+      "target": "AGroth"
+    },
+    {
+      "id": "e72",
+      "source": "AGroth",
+      "target": "JLVerdier"
+    },
+    {
+      "id": "e73",
+      "source": "AGroth",
+      "target": "PBermolenthelot"
+    },
+    {
+      "id": "e74",
+      "source": "JLVerdier",
+      "target": "ATreibich"
+    },
+    {
+      "id": "e75",
+      "source": "JLVerdier",
+      "target": "GGSprinberg"
+    },
+    {
+      "id": "e76",
+      "source": "PBermolenthelot",
+      "target": "ATreibich"
+    },
+    {
+      "id": "e77",
+      "source": "ATreibich",
+      "target": "PFledrich"
+    },
+    {
+      "id": "e78",
+      "source": "GGSprinberg",
+      "target": "APereyra"
+    },
+    {
+      "id": "e79",
+      "source": "LSchwartz",
+      "target": "AGroth"
+    },
+    {
+      "id": "e80",
+      "source": "LSchwartz",
+      "target": "BBeauzamy"
+    },
+    {
+      "id": "e81",
+      "source": "BBeauzamy",
+      "target": "VTrevisan"
+    },
+    {
+      "id": "e82",
+      "source": "GHoch",
+      "target": "WFerrer"
+    },
+    {
+      "id": "e83",
+      "source": "WFerrer",
+      "target": "APereyra"
+    },
+    {
+      "id": "e84",
+      "source": "WFerrer",
+      "target": "MHaim"
+    },
+    {
+      "id": "e85",
+      "source": "WFerrer",
+      "target": "AAbella"
+    },
+    {
+      "id": "e86",
+      "source": "NAndru",
+      "target": "AAbella"
+    },
+    {
+      "id": "e87",
+      "source": "ECabana",
+      "target": "JKalemke"
+    },
+    {
+      "id": "e88",
+      "source": "ECabana",
+      "target": "MScavino"
+    },
+    {
+      "id": "e89",
+      "source": "EMor",
+      "target": "ASosa"
+    },
+    {
+      "id": "e90",
+      "source": "EMor",
+      "target": "FDal"
+    },
+    {
+      "id": "e91",
+      "source": "EMor",
+      "target": "FCro"
+    },
+    {
+      "id": "e92",
+      "source": "EMor",
+      "target": "FOliu"
+    },
+    {
+      "id": "e93",
+      "source": "EMor",
+      "target": "FDOlivera"
+    },
+    {
+      "id": "e94",
+      "source": "EMor",
+      "target": "LAspi"
+    },
+    {
+      "id": "e95",
+      "source": "JBarbajan",
+      "target": "ASosa"
+    },
+    {
+      "id": "e96",
+      "source": "MWsche",
+      "target": "JLeon"
+    },
+    {
+      "id": "e97",
+      "source": "MWsche",
+      "target": "FDal"
+    },
+    {
+      "id": "e98",
+      "source": "MWsche",
+      "target": "GPerera"
+    },
+    {
+      "id": "e99",
+      "source": "MWsche",
+      "target": "DArmentano"
+    },
+    {
+      "id": "e100",
+      "source": "DArmentano",
+      "target": "FCarrasco"
+    },
+    {
+      "id": "e101",
+      "source": "SChrist",
+      "target": "FOliu"
+    },
+    {
+      "id": "e102",
+      "source": "AIrle",
+      "target": "SChrist"
+    },
+    {
+      "id": "e103",
+      "source": "SSmale",
+      "target": "MShub"
+    },
+    {
+      "id": "e104",
+      "source": "SSmale",
+      "target": "JPalis"
+    },
+    {
+      "id": "e105",
+      "source": "MShub",
+      "target": "DArmentano"
+    },
+    {
+      "id": "e106",
+      "source": "JPalis",
+      "target": "ECat"
+    },
+    {
+      "id": "e107",
+      "source": "JPalis",
+      "target": "FRHertz"
+    },
+    {
+      "id": "e108",
+      "source": "JPalis",
+      "target": "EPujals"
+    },
+    {
+      "id": "e109",
+      "source": "JPalis",
+      "target": "RMar"
+    },
+    {
+      "id": "e110",
+      "source": "JPalis",
+      "target": "MSam"
+    },
+    {
+      "id": "e111",
+      "source": "JPalis",
+      "target": "RMan"
+    },
+    {
+      "id": "e112",
+      "source": "JPalis",
+      "target": "RUres"
+    },
+    {
+      "id": "e113",
+      "source": "JPalis",
+      "target": "MViana"
+    },
+    {
+      "id": "e114",
+      "source": "JPalis",
+      "target": "WMelo"
+    },
+    {
+      "id": "e115",
+      "source": "JKrivine",
+      "target": "MGuille"
+    },
+    {
+      "id": "e116",
+      "source": "HHerbelin",
+      "target": "AMiquel"
+    },
+    {
+      "id": "e117",
+      "source": "HHerbelin",
+      "target": "EMiquey"
+    },
+    {
+      "id": "e118",
+      "source": "HHerbelin",
+      "target": "FCastro"
+    },
+    {
+      "id": "e119",
+      "source": "AMiquel",
+      "target": "EMiquey"
+    },
+    {
+      "id": "e120",
+      "source": "AMiquel",
+      "target": "FCastro"
+    },
+    {
+      "id": "e121",
+      "source": "ECat",
+      "target": "ACalderon"
+    },
+    {
+      "id": "e122",
+      "source": "PGuiraud",
+      "target": "ACalderon"
+    },
+    {
+      "id": "e123",
+      "source": "FValenzuela",
+      "target": "BYemini"
+    },
+    {
+      "id": "e124",
+      "source": "RSaghin",
+      "target": "BYemini"
+    },
+    {
+      "id": "e125",
+      "source": "EPujals",
+      "target": "FValenzuela"
+    },
+    {
+      "id": "e126",
+      "source": "EPujals",
+      "target": "JCorrea"
+    },
+    {
+      "id": "e127",
+      "source": "EPujals",
+      "target": "PGuarino"
+    },
+    {
+      "id": "e128",
+      "source": "XGom",
+      "target": "MMart"
+    },
+    {
+      "id": "e129",
+      "source": "MSam",
+      "target": "RPot"
+    },
+    {
+      "id": "e130",
+      "source": "MSam",
+      "target": "Lpineyrua"
+    },
+    {
+      "id": "e131",
+      "source": "MSam",
+      "target": "ADal"
+    },
+    {
+      "id": "e132",
+      "source": "RMan",
+      "target": "ARov"
+    },
+    {
+      "id": "e133",
+      "source": "RMan",
+      "target": "MPat"
+    },
+    {
+      "id": "e134",
+      "source": "RMan",
+      "target": "HEnrich"
+    },
+    {
+      "id": "e135",
+      "source": "RUres",
+      "target": "NGuel"
+    },
+    {
+      "id": "e136",
+      "source": "MViana",
+      "target": "AArbieto"
+    },
+    {
+      "id": "e137",
+      "source": "WMelo",
+      "target": "MJose"
+    },
+    {
+      "id": "e138",
+      "source": "WMelo",
+      "target": "PGuarino"
+    },
+    {
+      "id": "e139",
+      "source": "RBott",
+      "target": "SSmale"
+    },
+    {
+      "id": "e140",
+      "source": "RPot",
+      "target": "Lpineyrua"
+    },
+    {
+      "id": "e141",
+      "source": "RPot",
+      "target": "Smartin"
+    },
+    {
+      "id": "e142",
+      "source": "RPot",
+      "target": "LCarv"
+    },
+    {
+      "id": "e143",
+      "source": "SCrov",
+      "target": "RPot"
+    },
+    {
+      "id": "e144",
+      "source": "SCrov",
+      "target": "Smartin"
+    },
+    {
+      "id": "e145",
+      "source": "CBon",
+      "target": "MMart"
+    },
+    {
+      "id": "e146",
+      "source": "CBon",
+      "target": "ADal"
+    },
+    {
+      "id": "e147",
+      "source": "CBon",
+      "target": "MShannon"
+    },
+    {
+      "id": "e148",
+      "source": "CBon",
+      "target": "SAlvarez"
+    },
+    {
+      "id": "e149",
+      "source": "GLevitt",
+      "target": "CBon"
+    },
+    {
+      "id": "e150",
+      "source": "MPat",
+      "target": "JBrum"
+    },
+    {
+      "id": "e151",
+      "source": "JFran",
+      "target": "ASam"
+    },
+    {
+      "id": "e152",
+      "source": "ASam",
+      "target": "LCarv"
+    },
+    {
+      "id": "e153",
+      "source": "MMatos",
+      "target": "JLew"
+    },
+    {
+      "id": "e154",
+      "source": "JLew",
+      "target": "JRod"
+    },
+    {
+      "id": "e155",
+      "source": "JLew",
+      "target": "JGrois"
+    },
+    {
+      "id": "e156",
+      "source": "JLew",
+      "target": "JViei"
+    },
+    {
+      "id": "e157",
+      "source": "JRod",
+      "target": "GNun"
+    },
+    {
+      "id": "e158",
+      "source": "JGrois",
+      "target": "GCous"
+    },
+    {
+      "id": "e159",
+      "source": "JViei",
+      "target": "AArtigue"
+    },
+    {
+      "id": "e160",
+      "source": "JViei",
+      "target": "MAchigar"
+    },
+    {
+      "id": "e161",
+      "source": "AArtigue",
+      "target": "LRosa"
+    },
+    {
+      "id": "e162",
+      "source": "AArtigue",
+      "target": "MAchigar"
+    },
+    {
+      "id": "e163",
+      "source": "AArtigue",
+      "target": "ERego"
+    },
+    {
+      "id": "e164",
+      "source": "AGasull",
+      "target": "GCous"
+    },
+    {
+      "id": "e165",
+      "source": "HJudah",
+      "target": "JBagaria"
+    },
+    {
+      "id": "e166",
+      "source": "JBagaria",
+      "target": "LRosa"
+    },
+    {
+      "id": "e167",
+      "source": "WWoodin",
+      "target": "JBagaria"
+    },
+    {
+      "id": "e168",
+      "source": "AArbieto",
+      "target": "ERego"
+    },
+    {
+      "id": "e169",
+      "source": "MJose",
+      "target": "AArtigue"
+    },
+    {
+      "id": "e170",
+      "source": "HRosen",
+      "target": "CBon"
+    },
+    {
+      "id": "e171",
+      "source": "HRosen",
+      "target": "Mherman"
+    },
+    {
+      "id": "e172",
+      "source": "Mherman",
+      "target": "JYoccoz"
+    },
+    {
+      "id": "e173",
+      "source": "Mherman",
+      "target": "PCalvez"
+    },
+    {
+      "id": "e174",
+      "source": "JYoccoz",
+      "target": "SCrov"
+    },
+    {
+      "id": "e175",
+      "source": "PCalvez",
+      "target": "JXavier"
+    },
+    {
+      "id": "e176",
+      "source": "JAlonso",
+      "target": "JBrum"
+    },
+    {
+      "id": "e177",
+      "source": "KVogt",
+      "target": "JAlonso"
+    },
+    {
+      "id": "e178",
+      "source": "MSCristobal",
+      "target": "MFariello"
+    },
+    {
+      "id": "e179",
+      "source": "SBoitard",
+      "target": "MFariello"
+    },
+    {
+      "id": "e180",
+      "source": "HNaya",
+      "target": "MFariello"
+    },
+    {
+      "id": "e181",
+      "source": "GSapiro",
+      "target": "MFiori"
+    },
+    {
+      "id": "e182",
+      "source": "GSapiro",
+      "target": "FMemoli"
+    },
+    {
+      "id": "e183",
+      "source": "IDaub",
+      "target": "RWard"
+    },
+    {
+      "id": "e184",
+      "source": "RWard",
+      "target": "SVillar"
+    },
+    {
+      "id": "e185",
+      "source": "RMarie",
+      "target": "GRub"
+    },
+    {
+      "id": "e186",
+      "source": "GRub",
+      "target": "FRobledo"
+    },
+    {
+      "id": "e187",
+      "source": "GRub",
+      "target": "HCancela"
+    },
+    {
+      "id": "e188",
+      "source": "GRub",
+      "target": "CRisso"
+    },
+    {
+      "id": "e189",
+      "source": "GRub",
+      "target": "PRBocca"
+    },
+    {
+      "id": "e190",
+      "source": "GRub",
+      "target": "JGraneri"
+    },
+    {
+      "id": "e191",
+      "source": "GRub",
+      "target": "LAspi"
+    },
+    {
+      "id": "e192",
+      "source": "FRobledo",
+      "target": "CRisso"
+    },
+    {
+      "id": "e193",
+      "source": "FRobledo",
+      "target": "PRomero"
+    },
+    {
+      "id": "e194",
+      "source": "FRobledo",
+      "target": "JPiccini"
+    },
+    {
+      "id": "e195",
+      "source": "HCancela",
+      "target": "FRobledo"
+    },
+    {
+      "id": "e196",
+      "source": "HCancela",
+      "target": "PRBocca"
+    },
+    {
+      "id": "e197",
+      "source": "PRBocca",
+      "target": "PRomero"
+    },
+    {
+      "id": "e198",
+      "source": "PRomero",
+      "target": "JPiccini"
+    },
+    {
+      "id": "e199",
+      "source": "EMizraji",
+      "target": "JGraneri"
+    },
+    {
+      "id": "e200",
+      "source": "FPesarin",
+      "target": "MScavino"
+    },
+    {
+      "id": "e201",
+      "source": "GGiannakis",
+      "target": "GMateos"
+    },
+    {
+      "id": "e202",
+      "source": "GMateos",
+      "target": "BMarenco"
+    },
+    {
+      "id": "e203",
+      "source": "PBermolen",
+      "target": "BMarenco"
+    },
+    {
+      "id": "e204",
+      "source": "PBermolen",
+      "target": "VGoi"
+    },
+    {
+      "id": "e205",
+      "source": "FBac",
+      "target": "PBermolen"
+    },
+    {
+      "id": "e206",
+      "source": "DRos",
+      "target": "PBermolen"
+    },
+    {
+      "id": "e207",
+      "source": "JMat",
+      "target": "VGoi"
+    },
+    {
+      "id": "e208",
+      "source": "VYohai",
+      "target": "RFraiman"
+    },
+    {
+      "id": "e209",
+      "source": "RFraiman",
+      "target": "MBourel"
+    },
+    {
+      "id": "e210",
+      "source": "RFraiman",
+      "target": "AChol"
+    },
+    {
+      "id": "e211",
+      "source": "RFraiman",
+      "target": "ICan"
+    },
+    {
+      "id": "e212",
+      "source": "RFraiman",
+      "target": "LMor"
+    },
+    {
+      "id": "e213",
+      "source": "CDeniau",
+      "target": "BGhattas"
+    },
+    {
+      "id": "e214",
+      "source": "BGhattas",
+      "target": "MBourel"
+    },
+    {
+      "id": "e215",
+      "source": "ACuev",
+      "target": "AChol"
+    },
+    {
+      "id": "e216",
+      "source": "FGamboa",
+      "target": "LMor"
+    },
+    {
+      "id": "e217",
+      "source": "JPKahane",
+      "target": "MWsche"
+    },
+    {
+      "id": "e218",
+      "source": "JDed",
+      "target": "DArmentano"
+    },
+    {
+      "id": "e219",
+      "source": "AKolmo",
+      "target": "AShiry"
+    },
+    {
+      "id": "e220",
+      "source": "AShiry",
+      "target": "EMor"
+    },
+    {
+      "id": "e221",
+      "source": "FLedra",
+      "target": "PLessa"
+    },
+    {
+      "id": "e222",
+      "source": "FRod",
+      "target": "GTor"
+    },
+    {
+      "id": "e223",
+      "source": "GTor",
+      "target": "GRam"
+    },
+    {
+      "id": "e224",
+      "source": "RExel",
+      "target": "FAbadie"
+    },
+    {
+      "id": "e225",
+      "source": "FAbadie",
+      "target": "DFerraro"
+    },
+    {
+      "id": "e226",
+      "source": "ABuss",
+      "target": "DFerraro"
+    },
+    {
+      "id": "e227",
+      "source": "MAristide",
+      "target": "RExel"
+    },
+    {
+      "id": "e228",
+      "source": "MAristide",
+      "target": "BAbadie"
+    },
+    {
+      "id": "e229",
+      "source": "MAristide",
+      "target": "CPhillips"
+    },
+    {
+      "id": "e230",
+      "source": "CPhillips",
+      "target": "EGardella"
+    },
+    {
+      "id": "e231",
+      "source": "VDlab",
+      "target": "IAssem"
+    },
+    {
+      "id": "e232",
+      "source": "IAssem",
+      "target": "VGubitosi"
+    },
+    {
+      "id": "e233",
+      "source": "DLewis",
+      "target": "EEnochs"
+    },
+    {
+      "id": "e234",
+      "source": "EEnochs",
+      "target": "DBravo"
+    },
+    {
+      "id": "e235",
+      "source": "DBravo",
+      "target": "FCubria"
+    },
+    {
+      "id": "e236",
+      "source": "JRada",
+      "target": "DBravo"
+    },
+    {
+      "id": "e237",
+      "source": "JRada",
+      "target": "RParra"
+    },
+    {
+      "id": "e238",
+      "source": "VTrevisan",
+      "target": "FCubria"
+    },
+    {
+      "id": "e239",
+      "source": "SWang",
+      "target": "VTrevisan"
+    },
+    {
+      "id": "e240",
+      "source": "OVilla",
+      "target": "ASol"
+    },
+    {
+      "id": "e241",
+      "source": "OVilla",
+      "target": "GCort"
+    },
+    {
+      "id": "e242",
+      "source": "ASol",
+      "target": "JVivero"
+    },
+    {
+      "id": "e243",
+      "source": "ASol",
+      "target": "DArt"
+    },
+    {
+      "id": "e244",
+      "source": "ASol",
+      "target": "Jcop"
+    },
+    {
+      "id": "e245",
+      "source": "GCort",
+      "target": "EEllis"
+    },
+    {
+      "id": "e246",
+      "source": "FCoel",
+      "target": "MLan"
+    },
+    {
+      "id": "e247",
+      "source": "FCoel",
+      "target": "STrep"
+    },
+    {
+      "id": "e248",
+      "source": "MLan",
+      "target": "GMata"
+    },
+    {
+      "id": "e249",
+      "source": "MLan",
+      "target": "JVivero"
+    },
+    {
+      "id": "e250",
+      "source": "MLan",
+      "target": "DArt"
+    },
+    {
+      "id": "e251",
+      "source": "STrep",
+      "target": "GMata"
+    },
+    {
+      "id": "e252",
+      "source": "AJones",
+      "target": "MLan"
+    },
+    {
+      "id": "e253",
+      "source": "IRein",
+      "target": "AJones"
+    },
+    {
+      "id": "e254",
+      "source": "AJoyal",
+      "target": "MPerez"
+    },
+    {
+      "id": "e255",
+      "source": "ELara",
+      "target": "AGon"
+    },
+    {
+      "id": "e256",
+      "source": "PSelinger",
+      "target": "OMalherbe"
+    },
+    {
+      "id": "e257",
+      "source": "PScott",
+      "target": "OMalherbe"
+    },
+    {
+      "id": "e258",
+      "source": "SWithe",
+      "target": "MPereira"
+    }
+  ]
+}

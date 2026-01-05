@@ -16,6 +16,11 @@ Una vez generado el archivo graphml, se lo puede visualizar cargándolo en: http
 
 Obs: si el comando python no funciona, probar usando el comando python3.
 
+Para exportarlo a .json para visualizarlo en [la web](https://www.fing.edu.uy/~bmarenco/arbol_mat_uy.html), correr:
+```bash
+python graphml_to_sigma_json.py arbol_mat_uy_layout.graphml arbol_mat_uy.json
+```
+
 ## Fuentes
 
 * Mathematics Genealogy Project: https://www.mathgenealogy.org/,

@@ -123,6 +123,23 @@ for node, attrs in G0.nodes(data=True):
 
 
 # -----------------------------
+# Remove dummy / empty nodes
+# -----------------------------
+to_remove = []
+
+for node, attrs in G0.nodes(data=True):
+    label = attrs.get("label", "")
+    if not isinstance(label, str) or not label.strip():
+        to_remove.append(node)
+        
+print("Removing dummy nodes:")
+    
+for node in to_remove:
+    print(repr(node))
+    G0.remove_node(node)
+
+
+# -----------------------------
 # CRITICAL: rebuild graph with unique edge keys
 # (Gephi Lite requires globally unique edge IDs)
 # -----------------------------
