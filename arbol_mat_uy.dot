@@ -478,13 +478,13 @@ subgraph cluster_logica{
 
 /* */
 
-    JKahane [label="Jean-Pierre Kahane\n CNRS 1954"]
+/*    JPKahane [label="Jean-Pierre Kahane\n CNRS 1954"] // definido en Mario Wschebor. */
 
     JKrivine [label="Jean-Louis Krivine\n Paris 1967"]
 
     MGuillermo [label="Mauricio Guillermo\n Paris Diderot Paris 7 2008"]
 
-    JKahane -> JKrivine
+    JPKahane -> JKrivine
     JKrivine -> MGuillermo
 
 /* */
@@ -1003,6 +1003,7 @@ PBermolen -> BMarenco
     FPesarin -> MScavino
 
     JPKahane -> MWsche
+
     MWsche -> DArmentano
     MShub -> DArmentano
     JDed -> DArmentano
