@@ -575,7 +575,13 @@ subgraph cluster_sisdin{
 
     LCarv [label="León Carvajales\n Udelar 2020"]
 
+
     NGuel [label="Nancy Guelman\n Udelar 2003"]
+
+    MBarrios [label="Marcos Barrios\n Udelar 2026"]
+
+    NGuel -> MBarrios
+
 
     RUres [label=" Raul Ures\n IMPA 1993"]
 
