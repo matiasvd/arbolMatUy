@@ -184,9 +184,14 @@ SD [label="NA"] // para los casos sin datos de direccion de tesis
 
 /* */
 
+    JMarsden [label="Jerrold Marsden\n Princeton 1968"]
+    
+    GBor [label="Gil Bor\n Berkeley 1991"]
+    
     RMuniz [label="Richard Muñiz\n CIMAT, México 2006"]
 
-    SD -> RMuniz
+    JMarsden -> GBor
+    GBor -> RMuniz
 
 /* */
 
